@@ -12,6 +12,10 @@ export default function App() {
       Peter 2:10 , 1 John 2:22 Riverview Psycologist said, "this is Hell, yes,"
       when I asked. Women, right?
       <TwitterTweetEmbed
+        key="1410948095563730945"
+        tweetId="1410948095563730945"
+      />
+      <TwitterTweetEmbed
         key="1434278985589006344"
         tweetId="1434278985589006344"
       />
