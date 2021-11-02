@@ -3,6 +3,16 @@ import TwitterTweetEmbed from "./TwitterTweetEmbed";
 export default function App() {
   return (
     <div style={{ fontFamily: "arial, sans serif" }}>
+      you cannot have internet but can make calls for others to editorialize
+      your evidence, if you could at all record before they scream HIPAA at you
+      and take your phone. 13 days for me, assailants with evidence was not for
+      me trying to elope from an undescribed involuntary siringe without even
+      looking at the hallway-camera by the patient representative, and I have my
+      armed rights of closed-carry benevolence taken on the basis of admittedly
+      building govtech, and critisizing the phychiarist's method of income,
+      being brought forward demand of non-rolloverable hours non-concurrentable,
+      collective bargainin fraud. The doctor-follower calls it bizarre and
+      university economics fails when see debt as dead-weight in microeconomics
       <h1>Truncated Sales Tax / Millennial Income Deficit</h1>
       <h2>3%ile average-indexed-purchases, about $60 max at $2k</h2>
       My mom said, “good thing you aren’t allowed to get a gun,” after me saying
