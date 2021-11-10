@@ -3,13 +3,14 @@ import TwitterTweetEmbed from "./TwitterTweetEmbed";
 export default function App() {
   return (
     <div style={{ fontFamily: "arial, sans serif" }}>
-        <h2>open-souce-ingredient-list-</h2>
-        <h3>
-          collective-bargaining concurrentable rolloverable is exclusively
-          not-fraudulent in insurance sector (industry is sectors - r&d,
-          non-gentrified by government nor rent-seekers deduced by implausible
-          use nor outlays of third party beneficiary
-        </h3>
+      “It is going to come down to how much insurance there is,” grossly forlorn
+      of not-surrendering the non-settle-ability of non-concurrentable premiums
+      promised in all claims. Without that prisoners’ dilemma, there is not that
+      capacity. In NJ, they will remove you from jury duty for being against
+      insurance premium-non-concurrentable-fraud of those forced to pay into it
+      as the insureds’ customers.
+      <br />
+      <br />
       you cannot have internet but can make calls for others to editorialize
       your evidence, if you could at all record before they scream HIPAA at you
       and take your phone. 13 days for me, assailants with evidence was not for
@@ -20,7 +21,7 @@ export default function App() {
       being brought forward demand of non-rolloverable hours non-concurrentable,
       collective bargainin fraud. The doctor-follower calls it bizarre and
       university economics fails when see debt as dead-weight in microeconomics
-      <h1>Truncated Sales Tax / Millennial Income Deficit</h1>
+      <h1>Welcome to Truncated Sales Tax / Millennial Income Deficit</h1>
       <h2>3%ile average-indexed-purchases, about $60 max at $2k</h2>
       My mom said, “good thing you aren’t allowed to get a gun,” after me saying
       I am anti-government and urging her to take back her lie that I pushed her
@@ -28,6 +29,9 @@ export default function App() {
       lives in this house that is of 44x third-party-beneficiary usurped. 1
       Peter 2:10 , 1 John 2:22 Riverview Psycologist said, "this is Hell, yes,"
       when I asked. Women, right?
+      <br />
+      <br />
+      “A susceptible arm in Mother jones,” Kimlead describing the Steele Douche
       <TwitterTweetEmbed
         key="1410948095563730945"
         tweetId="1410948095563730945"
