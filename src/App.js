@@ -3,6 +3,24 @@ import TwitterTweetEmbed from "./TwitterTweetEmbed";
 export default function App() {
   return (
     <div style={{ fontFamily: "arial, sans serif" }}>
+      <div
+        style={{
+          top: "0px",
+          width: "100%",
+          textAlign: "right"
+        }}
+      >
+        <a href="https://carducci.us">
+          Vote Truncated Sales Tax 2025 against Menendez
+        </a>
+      </div>
+      boycotting credit, implausible use rental-income by unit or days (30) and
+      other forms of competing with consumers of end products without
+      intelligence as commodity but public utility, design and discovery the
+      domain of individuals, and nothing of the state by free rider mutable tax
+      40%, 40% debt-spending and 10-40% fed-state debt-service,
+      closed-source-licensing, animal-testing and r&d monopsony
+      <h2>false bid pools and accrual is breaking third party beneficiary</h2>
       “It is going to come down to how much insurance there is,” grossly forlorn
       of not-surrendering the non-settle-ability of non-concurrentable premiums
       promised in all claims. Without that prisoners’ dilemma, there is not that
@@ -33,10 +51,18 @@ export default function App() {
       <br />
       “A susceptible arm in Mother jones,” Kimlead describing the Steele Douche
       <TwitterTweetEmbed
+        style={{
+          width: "300px",
+          float: "left"
+        }}
         key="1410948095563730945"
         tweetId="1410948095563730945"
       />
       <TwitterTweetEmbed
+        style={{
+          width: "300px",
+          float: "left"
+        }}
         key="1434278985589006344"
         tweetId="1434278985589006344"
       />
