@@ -80,7 +80,7 @@ export default class App extends React.Component {
           }}
         >
           <a href="https://carducci.us">
-            Vote Truncated Sales Tax 2025 against Menendez
+            Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
         </div>
         <Cable
