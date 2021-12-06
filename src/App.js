@@ -83,6 +83,13 @@ export default class App extends React.Component {
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
         </div>
+        <br />
+        Prevalence does not transmission make, can be cause or byproduct, and if
+        you think virus is cause of virus with just reproduction with cell, you
+        must think it is an evolutionary trait to kill eachother. Or, it is just
+        byproduct
+        <br />
+        <br />
         <Cable
           style={{ height: "440px" }}
           onError={handleScollImgError}
