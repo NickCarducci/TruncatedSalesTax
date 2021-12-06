@@ -84,6 +84,12 @@ export default class App extends React.Component {
           </a>
         </div>
         <br />
+        “We need profit for research and development[, why not have individual
+        research outfits? collective bargain is only not a loss when
+        immediate/ASAP], tort reform saved money from not having to spend on
+        insurance,” Dr Peter Michalos
+        <br />
+        <br />
         Prevalence does not transmission make, can be cause or byproduct, and if
         you think virus is cause of virus with just reproduction with cell, you
         must think it is an evolutionary trait to kill eachother. Or, it is just
