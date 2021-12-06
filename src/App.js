@@ -84,6 +84,23 @@ export default class App extends React.Component {
           </a>
         </div>
         <br />
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.serviceCancelingImages
+              ? ""
+              : "https://drive.google.com/file/d/1OTrBvBNR83tVn5LM-7UDBMiPl0pr62R8/preview"
+          }
+          float="left"
+          title="Spicer & co (Newsmax) - Trump on excess deaths age standardized by cohort size less than expected, honor-system signature-matching, and truncated sales tax to ween off cops 3under2.us"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 3]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        "The covid came out of China,"
+        <br />
         “We need profit for research and development[, why not have individual
         research outfits? collective bargain is only not a loss when
         immediate/ASAP], tort reform saved money from not having to spend on
@@ -94,6 +111,13 @@ export default class App extends React.Component {
         you think virus is cause of virus with just reproduction with cell, you
         must think it is an evolutionary trait to kill eachother. Or, it is just
         byproduct
+        <br />
+        <br />
+        It may “cost-less” when making government gentrification, rent seek by
+        hiding expiring claim false bid pool premiums, but the lender work
+        deficit and useless bid-to-ask free rider mutable inelasticity is
+        surmountable in the wealth-loss (as opposed to monthly-deductible
+        vacuum)
         <br />
         <br />
         <Cable
@@ -108,7 +132,7 @@ export default class App extends React.Component {
           float="left"
           title="Dr Henderson Review Video Testimony & false mental-institution conviction, bizarre for non-rollover insurance whistleblower"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 35]}
+          fwd={this["scrollImg" + 2]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -124,7 +148,7 @@ export default class App extends React.Component {
           float="left"
           title="Dr Henderson Review on Google, recinding of mental-illness claim online, apologizing for my 'knee appointment'"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 34]}
+          fwd={this["scrollImg" + 1]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
