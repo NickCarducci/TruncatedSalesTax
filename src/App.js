@@ -95,6 +95,38 @@ export default class App extends React.Component {
           </span>
           <br />
           Trump is King Debt, libertarians are hypocrites
+          <br />
+          <span
+            style={{
+              fontSize: "9px"
+            }}
+          >
+            Competing with consumers loitering lender work deficit third a party
+            beneficiary donee claimable
+            <br />
+            Politics is reasoning, net loss bond profit is racketeering,
+            political parties are ideological duress, non-voters keep
+            winning&nbsp;
+            <span role="img" aria-label="gold-medal">
+              🥇
+            </span>
+            !
+            <br />
+            <br />
+            Open-source licensure save the animals release the meds, non-expiry
+            claimables aren’t mechanic nor doctor hours, third party beneficiary
+            donee claimables and
+            <br />
+            replace the third party beneficiary donee claimables with truncated
+            sales tax and max-profit royalties (1-level-board)
+            <br />
+            1-level board max profit royalty
+            <br />
+            Corporate profit vs corporate profit <br />
+            Corporate profit vs r&d monopsony
+            <br />
+            Corporate profit vs competing with consumers
+          </span>
         </h2>
         Republicans are nationalizing broadband network fees and bridge tolls
         <br />
@@ -113,7 +145,7 @@ export default class App extends React.Component {
           float="left"
           title="Spicer & co (Newsmax) - Trump on excess deaths age standardized by cohort size less than expected, honor-system signature-matching, and truncated sales tax to ween off cops 3under2.us"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 3]}
+          fwd={this["scrollImg" + 6]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -148,7 +180,7 @@ export default class App extends React.Component {
           float="left"
           title="Dr Henderson Review Video Testimony & false mental-institution conviction, bizarre for non-rollover insurance whistleblower"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 2]}
+          fwd={this["scrollImg" + 5]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -164,7 +196,7 @@ export default class App extends React.Component {
           float="left"
           title="Dr Henderson Review on Google, recinding of mental-illness claim online, apologizing for my 'knee appointment'"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 1]}
+          fwd={this["scrollImg" + 4]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -191,6 +223,29 @@ export default class App extends React.Component {
         park-deed-claimables/depositaries/rollover(non-expiry). Don't max profit
         royalty a la carte (in multi-level-boards, bank elsewise
         concurrentable-equities).
+        <br />
+        <br />
+        Survey bias non-voters won, stay home on excess deaths age standardized
+        less than expected cohort gains, honor-system-signature make magnetic
+        data auditing, fraud. 1.2m/yr+ 75+ 2015- census mortality projections by
+        census and I saw this coming
+        <Cable
+          style={{ width: "100%", maxWidth: "400px", height: "200px" }}
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://www.youtube.com/embed/A2kSh0A8Ad0"
+          }
+          float="right"
+          title="nj 101.5 steve trevalese nj voting ArrayArrays content-addressable anonymous way, public profile match population, and cors. Awaiting login.gov"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 3]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        <br />
         <br />
         boycotting credit, implausible use rental-income by unit or days (30)
         and other forms of competing with consumers of end products without
@@ -221,6 +276,21 @@ export default class App extends React.Component {
             equities, non-expiry.
           </span>
         </h2>
+        <Cable
+          style={{ width: "100%", maxWidth: "400px", height: "200px" }}
+          onError={handleScollImgError}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://www.youtube.com/embed/Jxj0-TaTm4o"
+          }
+          float="left"
+          title=""
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 2]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         “It is going to come down to how much insurance there is,” grossly
         forlorn of not-surrendering the non-settle-ability of non-concurrentable
         premiums promised in all claims. Without that prisoners’ dilemma, there
@@ -229,6 +299,15 @@ export default class App extends React.Component {
         to pay into it as the insureds’ customers.
         <br />
         <br />
+        <TwitterTweetEmbed
+          style={{
+            shapeOutside: "rect()",
+            width: "300px",
+            float: "right"
+          }}
+          key="1410948095563730945"
+          tweetId="1410948095563730945"
+        />
         you cannot have internet but can make calls for others to editorialize
         your evidence, if you could at all record before they scream HIPAA at
         you and take your phone. 13 days for me, assailants with evidence was
@@ -250,44 +329,57 @@ export default class App extends React.Component {
         Psycologist said, "this is Hell, yes," when I asked. Women, right?
         <br />
         <br />
-        “A susceptible arm in Mother jones,” Kimlead describing the Steele
-        Douche.
         <TwitterTweetEmbed
           style={{
-            width: "300px",
-            float: "left"
-          }}
-          key="1410948095563730945"
-          tweetId="1410948095563730945"
-        />
-        <TwitterTweetEmbed
-          style={{
+            shapeOutside: "rect()",
             width: "300px",
             float: "left"
           }}
           key="1434278985589006344"
           tweetId="1434278985589006344"
         />
-        <img
-          style={{ width: "100%", maxWidth: "500px" }}
-          alt="old people: @truncsalestax, froth.app"
-          src="https://www.dl.dropboxusercontent.com/s/8qbefb3qow5e27g/Screen%20Shot%202021-09-07%20at%206.19.18%20PM.png?dl=0"
+        <span>
+          “A susceptible arm in Mother jones,” Kimlead describing the Steele
+          Douche.
+          <br />
+          employmentByCohort: "he goes beyond the Science"
+          <br />
+          <img
+            style={{
+              float: "left",
+              display: "inline-block",
+              width: "250px"
+            }}
+            alt="old people: @truncsalestax, froth.app"
+            src="https://www.dl.dropboxusercontent.com/s/8qbefb3qow5e27g/Screen%20Shot%202021-09-07%20at%206.19.18%20PM.png?dl=0"
+          />
+        </span>
+        <Cable
+          style={{ width: "300px", height: "490px" }}
+          onError={handleScollImgError}
+          src={
+            this.state.nolinkedin
+              ? ""
+              : "https://www.linkedin.com/embed/feed/update/urn:li:share:6841120482733916160"
+          }
+          float="left"
+          title="https://www.linkedin.com/posts/nickcarducci_unemploymentbenefits-activity-6841120483153330176-xhhz"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + 1]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
         />
-        <br />
-        employmentByCohort: "he goes beyond the Science"
         <iframe
-          style={{ width: "100%", maxWidth: "800px", height: "500px" }}
+          style={{
+            float: "left",
+            shapeOutside: "rect()",
+            width: "100%",
+            maxWidth: "800px",
+            height: "500px"
+          }}
           src="https://vaults.biz/#:~:text=employmentByCohort"
           title="vaults employmentByCohort"
         />
-        <iframe
-          src="https://www.linkedin.com/embed/feed/update/urn:li:share:6841120482733916160"
-          height="524px"
-          width="504px"
-          frameborder="0px"
-          allowfullscreen=""
-          title="https://www.linkedin.com/posts/nickcarducci_unemploymentbenefits-activity-6841120483153330176-xhhz"
-        ></iframe>
       </div>
     );
   }
