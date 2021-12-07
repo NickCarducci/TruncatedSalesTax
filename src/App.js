@@ -157,12 +157,21 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
+        <h2>max profit royalty will replace all debt</h2>
+        $300k/year/person $821/day/person new debt. If Trump says, "plandemic,"
+        for election, he has to for spending. Usual $4t/yr fed spend. How only
+        $2t currencyComponentOfM1 checking
+        park-deed-claimables/depositaries/rollover(non-expiry). Don't max profit
+        royalty a la carte (in multi-level-boards, bank elsewise
+        concurrentable-equities)
+        <br />
         boycotting credit, implausible use rental-income by unit or days (30)
         and other forms of competing with consumers of end products without
         intelligence as commodity but public utility, design and discovery the
         domain of individuals, and nothing of the state by free rider mutable
-        tax 40%, 40% debt-spending and 10-40% fed-state debt-service,
-        closed-source-licensing, animal-testing and r&d monopsony
+        tax 60%, 40% debt-spending (ever increasing, 50% state) and 10-40%
+        fed-state debt-service, closed-source-licensing, animal-testing and r&d
+        monopsony
         <h2>false bid pools and accrual is breaking third party beneficiary</h2>
         “It is going to come down to how much insurance there is,” grossly
         forlorn of not-surrendering the non-settle-ability of non-concurrentable
