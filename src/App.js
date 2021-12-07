@@ -219,7 +219,10 @@ export default class App extends React.Component {
               : "https://drive.google.com/file/d/1OTrBvBNR83tVn5LM-7UDBMiPl0pr62R8/preview"
           }
           float="left"
-          title="Spicer & co (Newsmax) - Trump on excess deaths age standardized by cohort size less than expected, honor-system signature-matching, and truncated sales tax to ween off cops 3under2.us"
+          title={`Spicer & co (Newsmax) - Trump on excess deaths age standardized 
+          by cohort size less than expected, honor-system signature-matching, and
+           truncated sales tax to ween off cops 3under2.us. Make good views up about 
+           other people and see how they austere.`}
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + 6]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
