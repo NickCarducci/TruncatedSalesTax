@@ -89,7 +89,7 @@ export default class App extends React.Component {
         <br />
         “Lock in mortgage that can save $1k/mo, a custom loan around your means
         and budget.” Mark Levin on AmericanFinancing.net. It doesn’t save money,
-        and it is loitering third party beneficiary donee claimable
+        and it is loitering third party beneficiary donee claimable.
         <br />
         <Cable
           onError={handleScollImgError}
@@ -111,20 +111,20 @@ export default class App extends React.Component {
         “We need profit for research and development[, why not have individual
         research outfits? collective bargain is only not a loss when
         immediate/ASAP], tort reform saved money from not having to spend on
-        insurance,” Dr Peter Michalos
+        insurance,” Dr Peter Michalos.
         <br />
         <br />
         Prevalence does not transmission make, can be cause or byproduct, and if
         you think virus is cause of virus with just reproduction with cell, you
         must think it is an evolutionary trait to kill eachother. Or, it is just
-        byproduct
+        byproduct.
         <br />
         <br />
         It may “cost-less” when making government gentrification, rent seek by
         hiding expiring claim false bid pool premiums, but the lender work
         deficit and useless bid-to-ask free rider mutable inelasticity is
         surmountable in the wealth-loss (as opposed to monthly-deductible
-        vacuum)
+        vacuum).
         <br />
         <br />
         <Cable
@@ -165,7 +165,7 @@ export default class App extends React.Component {
         $2t currencyComponentOfM1 checking
         park-deed-claimables/depositaries/rollover(non-expiry). Don't max profit
         royalty a la carte (in multi-level-boards, bank elsewise
-        concurrentable-equities)
+        concurrentable-equities).
         <br />
         boycotting credit, implausible use rental-income by unit or days (30)
         and other forms of competing with consumers of end products without
@@ -173,7 +173,7 @@ export default class App extends React.Component {
         domain of individuals, and nothing of the state by free rider mutable
         tax 60%, 40% debt-spending (ever increasing, 50% state) and 10-40%
         fed-state debt-service, closed-source-licensing, animal-testing and r&d
-        monopsony
+        monopsony.
         <h2>false bid pools and accrual is breaking third party beneficiary</h2>
         “It is going to come down to how much insurance there is,” grossly
         forlorn of not-surrendering the non-settle-ability of non-concurrentable
@@ -193,7 +193,7 @@ export default class App extends React.Component {
         phychiarist's method of income, being brought forward demand of
         non-rolloverable hours non-concurrentable, collective bargainin fraud.
         The doctor-follower calls it bizarre and university economics fails when
-        see debt as dead-weight in microeconomics
+        see debt as dead-weight in microeconomics.
         <h1>Welcome to Truncated Sales Tax / Millennial Income Deficit</h1>
         <h2>3%ile average-indexed-purchases, about $60 max at $2k</h2>
         My mom said, “good thing you aren’t allowed to get a gun,” after me
@@ -205,7 +205,7 @@ export default class App extends React.Component {
         <br />
         <br />
         “A susceptible arm in Mother jones,” Kimlead describing the Steele
-        Douche
+        Douche.
         <TwitterTweetEmbed
           style={{
             width: "300px",
