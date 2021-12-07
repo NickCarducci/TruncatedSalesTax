@@ -159,10 +159,17 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
-        <h2>max profit royalty will replace all debt</h2>
-        $300k/year/person $821/day/person new debt. If Trump says, "plandemic,"
-        for election, he has to for spending. Usual $4t/yr fed spend. How only
-        $2t currencyComponentOfM1 checking
+        <h2>
+          max profit royalty will&nbsp;<a href="https://vaults.biz">replace</a>
+          &nbsp;all debt
+        </h2>
+        alternative finance (elsewhere known as&nbsp;
+        <a href="https://pipe.com/blog/pipe-vs-loan#:~:text=You%E2%80%99ll%20pay%20back%20what%20you%20pulled%20forward,%20based%20on%20timing%20of%20your%20recurring%20revenue%20streams">
+          recurring revenue
+        </a>
+        ) $300k/year/person $821/day/person new debt. If Trump says,
+        "plandemic," for election, he has to for spending. Usual $4t/yr fed
+        spend. How only $2t currencyComponentOfM1 checking
         park-deed-claimables/depositaries/rollover(non-expiry). Don't max profit
         royalty a la carte (in multi-level-boards, bank elsewise
         concurrentable-equities).
