@@ -83,7 +83,6 @@ export default class App extends React.Component {
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
         </div>
-        <br />
         <h2>
           <span
             style={{
@@ -200,7 +199,18 @@ export default class App extends React.Component {
         tax 60%, 40% debt-spending (ever increasing, 50% state) and 10-40%
         fed-state debt-service, closed-source-licensing, animal-testing and r&d
         monopsony.
-        <h2>false bid pools and accrual is breaking third party beneficiary</h2>
+        <h2>
+          <span
+            style={{
+              fontSize: "9px"
+            }}
+          >
+            repo-cycle kept-down-payments, implausible use intent, expiring
+            claims & invoices donee claimable
+          </span>
+          <br />
+          false bid pools and accrual is breaking third party beneficiary
+        </h2>
         “It is going to come down to how much insurance there is,” grossly
         forlorn of not-surrendering the non-settle-ability of non-concurrentable
         premiums promised in all claims. Without that prisoners’ dilemma, there
