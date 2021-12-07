@@ -84,6 +84,10 @@ export default class App extends React.Component {
           </a>
         </div>
         <br />
+        “Lock in mortgage that can save $1k/mo, a custom loan around your means
+        and budget.” Mark Levin on AmericanFinancing.net. It doesn’t save money,
+        and it is loitering third party beneficiary donee claimable
+        <br />
         <Cable
           onError={handleScollImgError}
           //img={true}
