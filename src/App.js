@@ -85,6 +85,8 @@ export default class App extends React.Component {
         </div>
         <br />
         <h2>Trump is King Debt, libertarians are hypocrites</h2>
+        Republicans are nationalizing broadband network fees and bridge tolls
+        <br />
         “Lock in mortgage that can save $1k/mo, a custom loan around your means
         and budget.” Mark Levin on AmericanFinancing.net. It doesn’t save money,
         and it is loitering third party beneficiary donee claimable
