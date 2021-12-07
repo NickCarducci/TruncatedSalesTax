@@ -133,6 +133,22 @@ export default class App extends React.Component {
             Trump is King Debt, libertarians are hypocrites
             <br />
           </h2>
+          <Cable
+            style={{ height: "440px" }}
+            onError={handleScollImgError}
+            //img={true}
+            src={
+              this.state.serviceCancelingImages
+                ? ""
+                : "https://drive.google.com/file/d/115LRY-YBUQIgPXkrzfn5khohBrLENqJt/preview"
+            }
+            float="right"
+            title="White House Press Briefing (Daily Wire) - Russia in Crimea, Taliban in Crimea"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 7]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
           <span style={{ lineHeight: "12px", fontSize: "9px" }}>
             Competing with consumers loitering lender work deficit third a party
             beneficiary donee claimable
@@ -159,8 +175,34 @@ export default class App extends React.Component {
             Corporate profit vs r&d monopsony
             <br />
             Corporate profit vs competing with consumers
+            <br />
+            <br />
+            Politics is reasoning, net loss bond profit is racketeering,
+            political parties are ideological duress, non-voters keep
+            winning&nbsp;
+            <span role="img" aria-label="gold-medal">
+              🥇
+            </span>
+            !
+            <br />
+            1-level board max profit royalty
+            <br />
+            If blue can scoot you can too
+            <br />
+            “G-d bless you,” “Thank you.”
+            <br />
+            “At our expense most probably,” especially if you regard such as it
+            is when tax from outside the market is pure inflation and
+            comparative advantage list of cheating past consumers
           </span>
         </div>
+        <br />
+        “Everything you need to get healthy and stay healthy,” getcoverednj.com
+        <br />
+        “Make sure it is the votes and the voices of jan 6, not a cabal for
+        their own quest for power,” Congresswoman stone auserman with Jake
+        tapper
+        <br />
         <br />
         Republicans are nationalizing broadband network fees and bridge tolls
         <br />
