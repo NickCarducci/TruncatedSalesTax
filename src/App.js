@@ -71,36 +71,67 @@ export default class App extends React.Component {
       }
     };
     return (
-      <div style={{ fontFamily: "arial, sans serif" }}>
+      <div
+        style={{
+          fontFamily: "arial, sans serif",
+          wordBreak: "break-word",
+          textAlign: "left",
+          width: "100%",
+          maxWidth: "600px",
+          position: "relative"
+        }}
+      >
         <div
           style={{
-            top: "0px",
-            width: "100%",
-            textAlign: "right"
+            width: "100%"
           }}
         >
-          <a href="https://carducci.us">
+          <a
+            style={{
+              shapeOutside: "rect()",
+              float: "right",
+              width: "max-content",
+              padding: "0px 10px",
+              //fontSize: "20px",
+              fontFamily: "'Pacifico', sans-serif"
+              //color: "rgb(230,230,255)"
+              //backgroundColor: "rgb(32, 22, 11)"
+            }}
+            href="https://carducci.us"
+          >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
-        </div>
-        <h2>
-          <span
-            style={{
-              fontSize: "9px"
-            }}
-          >
-            conservative in productivity (price-deflation-per-hour),
-            jury-desistation-lest-paid-user/-duress-mvp/-conviction, any
-            multiple of 12 with cause for removal by invariance of industry
-          </span>
           <br />
-          Trump is King Debt, libertarians are hypocrites
-          <br />
-          <span
+          <a
             style={{
-              fontSize: "9px"
+              shapeOutside: "rect()",
+              float: "right",
+              width: "max-content",
+              padding: "0px 10px",
+              //fontSize: "20px",
+              fontFamily: "'Pacifico', sans-serif"
+              //color: "rgb(230,230,255)"
+              //backgroundColor: "rgb(32, 22, 11)"
             }}
+            href="https://30under5.us"
           >
+            30under5.us
+          </a>
+          <h2>
+            <span
+              style={{
+                fontSize: "9px"
+              }}
+            >
+              conservative in productivity (price-deflation-per-hour),
+              jury-desistation-lest-paid-user/-duress-mvp/-conviction, any
+              multiple of 12 with cause for removal by invariance of industry
+            </span>
+            <br />
+            Trump is King Debt, libertarians are hypocrites
+            <br />
+          </h2>
+          <span style={{ lineHeight: "12px", fontSize: "9px" }}>
             Competing with consumers loitering lender work deficit third a party
             beneficiary donee claimable
             <br />
@@ -127,7 +158,8 @@ export default class App extends React.Component {
             <br />
             Corporate profit vs competing with consumers
           </span>
-        </h2>
+        </div>
+        <br />
         Republicans are nationalizing broadband network fees and bridge tolls
         <br />
         “Lock in mortgage that can save $1k/mo, a custom loan around your means
