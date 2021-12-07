@@ -125,8 +125,6 @@ export default class App extends React.Component {
         deficit and useless bid-to-ask free rider mutable inelasticity is
         surmountable in the wealth-loss (as opposed to monthly-deductible
         vacuum).
-        <br />
-        <br />
         <Cable
           style={{ height: "440px" }}
           onError={handleScollImgError}
@@ -160,6 +158,15 @@ export default class App extends React.Component {
           scrollTop={this.state.scrollTop}
         />
         <h2>
+          <span
+            style={{
+              fontSize: "9px"
+            }}
+          >
+            awaits consumers of settled bid without expiry or (option to buy or)
+            estimated materials and labor,
+          </span>
+          <br />
           max profit royalty will&nbsp;<a href="https://vaults.biz">replace</a>
           &nbsp;all debt
         </h2>
