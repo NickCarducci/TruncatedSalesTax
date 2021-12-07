@@ -198,7 +198,7 @@ export default class App extends React.Component {
         domain of individuals, and nothing of the state by free rider mutable
         tax 60%, 40% debt-spending (ever increasing, 50% state) and 10-40%
         fed-state debt-service, closed-source-licensing, animal-testing and r&d
-        monopsony.
+        monopsony. STAY AT HOME MOMS ARE SUCC, "get this guy nick off!"
         <h2>
           <span
             style={{
@@ -206,10 +206,20 @@ export default class App extends React.Component {
             }}
           >
             repo-cycle kept-down-payments, implausible use intent, expiring
-            claims & invoices donee claimable
+            claims & invoices donee claimable; 13d-retail anonymity disconnect.
           </span>
           <br />
           false bid pools and accrual is breaking third party beneficiary
+          <br />
+          <span
+            style={{
+              fontSize: "9px"
+            }}
+          >
+            non-concurrentable nor rollover hours, schedules of outlays,
+            loitering lest 1-level board of max-profit-royalty all bankable else
+            equities, non-expiry.
+          </span>
         </h2>
         “It is going to come down to how much insurance there is,” grossly
         forlorn of not-surrendering the non-settle-ability of non-concurrentable
