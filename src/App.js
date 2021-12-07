@@ -84,7 +84,19 @@ export default class App extends React.Component {
           </a>
         </div>
         <br />
-        <h2>Trump is King Debt, libertarians are hypocrites</h2>
+        <h2>
+          <span
+            style={{
+              fontSize: "9px"
+            }}
+          >
+            conservative in productivity (price-deflation-per-hour),
+            jury-desistation-lest-paid-user/-duress-mvp/-conviction, any
+            multiple of 12 with cause for removal by invariance of industry
+          </span>
+          <br />
+          Trump is King Debt, libertarians are hypocrites
+        </h2>
         Republicans are nationalizing broadband network fees and bridge tolls
         <br />
         “Lock in mortgage that can save $1k/mo, a custom loan around your means
