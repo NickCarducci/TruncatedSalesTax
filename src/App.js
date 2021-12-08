@@ -59,6 +59,25 @@ class App extends React.Component {
           height: "min-content"
         }}
       >
+        <a
+          style={{
+            shapeOutside: "rect()",
+            float: "right",
+            width: "max-content",
+            padding: "0px 10px",
+            fontSize: "20px",
+            fontFamily: "'Pacifico', sans-serif",
+            color: "rgb(230,230,255)",
+            backgroundColor: "rgb(32, 22, 11)"
+          }}
+          href="https://saverparty.xyz"
+        >
+          saverparty.xyz
+        </a>
+        <span role="img" aria-label="squirrel bottom-left white-circle pill">
+          🐿↙️⚪️💊
+        </span>
+        open-source-licensure, save the animals!
         <h2>Piss off, monopsony or suicide</h2>“Hitting the dealers,” “fair
         enough,”
         <br />
