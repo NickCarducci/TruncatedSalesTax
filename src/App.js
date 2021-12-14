@@ -101,6 +101,12 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          "Socialism" isn't (S)aver since social isn't work deficit comparative
+          advantage tech advancement, with labor as transitive-property to
+          labor-borne-demand as to better our per hour price deflation, not bbb
+          ccc ppp trust build existing-biz parents and contractors.
+          <br />
+          <br />
           implausible landlord use third arty beneficiary donee claimable free
           rider mutable r&d monopsony beyond article 4, provaxx, antimandate is
           impossible
