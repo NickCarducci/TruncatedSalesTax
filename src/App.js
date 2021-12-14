@@ -101,12 +101,63 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          Doctors conflicting interest or common sense discoveries be damned is
+          ridiculous. I would rather retarded, we can improve! C'mon you
+          scaroule.
+          <br />
           "Socialism" isn't (S)aver since social isn't work deficit comparative
           advantage tech advancement, with labor as transitive-property to
           labor-borne-demand as to better our per hour price deflation, not bbb
           ccc ppp trust build existing-biz parents and contractors.
           <br />
           <br />
+          "45% of democrats do not want people to be&nbsp;
+          <a href="https://humanharvest.info/jury">fined</a>." it is a racket of
+          minority. only jury-science is movable from natural law, that is
+          comparative innocence.
+          <br />
+          <br />I tried to withstand the principal misgivings of compounding
+          from the same, durable income or just maintainless
+          necessarily/sufficiently, artifactually is ever non-exclusive unless
+          you show me vivo-control in a vacuum. Double Major east asian studies
+          and economics, to understand market history, but gaining my policy
+          perspective, and academic probation for having it with Financial
+          Markets and Institutions and Macroeconomics for&nbsp;
+          <a href="https://nationalsecuritycasino.com/levin">
+            going against EVERYTHING
+          </a>
+          &nbsp;Pareto perfect equillibrium reasoned, for free-markets to refine
+          duress into public utility maintainlessness, that is, per hour
+          price-deflaiton, with inferior goods as stocks being ever too broad.
+          <br />
+          <br />
+          army base school safety agents are, 'civil servants,' like private
+          security detail. Undermines comparative standing for New Yorkers -
+          Mona Davis
+          <Cable
+            style={{
+              height: "580px",
+              width: "400px",
+              maxWidth: "100%",
+              maxHeight: "80vw"
+            }}
+            onError={handleScollImgError}
+            //img={true}
+            src={
+              this.state.noyoutube
+                ? ""
+                : "https://www.youtube.com/embed/nKvUf7F4Xn4"
+            }
+            float="right"
+            title="https://youtu.be/nKvUf7F4Xn4"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 9]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          <h2>
+            Marx rolling over in his sleep, “using my original-nomination.”
+          </h2>
           if you don't have evidence you must acquit. You can question for
           actual laws, not wall st pharma cop 13d-retail anon uuid discepancy
           laws.
