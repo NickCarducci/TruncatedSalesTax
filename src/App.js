@@ -109,8 +109,16 @@ export default class App extends React.Component {
           advantage tech advancement, with labor as transitive-property to
           labor-borne-demand as to better our per hour price deflation, not bbb
           ccc ppp trust build existing-biz parents and contractors.
-          <br />
-          <br />
+          <h2>
+            Doctor Senator Roger Marshall Roger, “What we have is a spending
+            problem, right? America needs to go on a diet.” I call it a, "lender
+            work deficit"
+            <br />
+            <span style={{ fontSize: "9px" }}>
+              insurer (implausible deniability) and landlord (implausible use)
+              works too
+            </span>
+          </h2>
           "45% of democrats do not want people to be&nbsp;
           <a href="https://humanharvest.info/jury">fined</a>." it is a racket of
           minority. only jury-science is movable from natural law, that is
