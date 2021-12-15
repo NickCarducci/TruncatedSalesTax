@@ -101,6 +101,22 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          "It all evaporated, amortized, corrected principal, some day, kept
+          down payments," sounds like malfeasance of third party beneficiary
+          donee claimables in contract! Co-signers without consent! Laundered by
+          the loiterer from counterfeiter compounder of interest or expiring
+          claims, rather than awaiting customers with a proper disbursement of
+          revenue above expenditures outlaid as income, taxable-once.
+          <br />
+          <br />
+          The right are retards working against $12k/year/p debt $3k/year/p bond
+          $64/year/p new dollars, it is not an anger issue, it is due for tort
+          over third party beneficiary claimable. Fractional reserve in contract
+          busy work hours as productivity self-harmers. Lender work deficit is
+          slower “growth,” of the good kind. Price and hours in gdp isn’t good,
+          “growth.” Profits are just flaccid collective loss of outlays withheld
+          <br />
+          <br />
           blindsided, taken by surprise, $12k/year/p, $3k/year/p, $64/year/p
           new, I've applied to thousands of jobs. I'm just a perverted bartender
           with uncollateralized debt, and without collateralized debt to service
