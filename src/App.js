@@ -105,11 +105,30 @@ export default class App extends React.Component {
           ridiculous. I would rather retarded, we can improve! C'mon you
           scaroule.
           <br />
+          <TwitterTweetEmbed
+            style={{ width: "300px", float: "left" }}
+            key="1421471623136358405"
+            tweetId="1421471623136358405"
+          />
           "Socialism" isn't (S)aver since social isn't work deficit comparative
           advantage tech advancement, with labor as transitive-property to
           labor-borne-demand as to better our per hour price deflation, not bbb
           ccc ppp trust build existing-biz parents and contractors.
           <h2>
+            Cap rent by units or days not price
+            <br />
+            <span
+              style={{
+                fontSize: "9px"
+              }}
+            >
+              “Liberal democratic platform is giveaways, so people that need
+              help and are poor will vote for people that give out entitlements,
+              NY with always be liberal, and people are getting fed up with
+              criminal garbage collection and dangerous subway system. ...Hochul
+              is, forget it, progressive mask mandate, gotta do it.”
+            </span>
+            <br />
             Doctor Senator Roger Marshall Roger, “What we have is a spending
             problem, right? America needs to go on a diet.” I call it a, "lender
             work deficit"
