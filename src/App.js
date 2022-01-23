@@ -17,6 +17,7 @@ export default class App extends React.Component {
     for (let i = 0; i < 220; i++) {
       this["scrollImg" + i] = React.createRef();
     }
+    this.gov = React.createRef();
   }
   componentDidMount = () => {
     window.addEventListener("resize", this.refresh);
@@ -61,6 +62,19 @@ export default class App extends React.Component {
             : window.innerHeight
         });
       }, 600);
+    }
+  };
+  componentDidUpdate = (prevProps) => {
+    if (this.props.pathname !== prevProps.pathname) {
+      clearTimeout(this.check);
+      const check = () => {
+        if (this.props.pathname === "/") {
+        } else if (this.props.pathname === "/gov") {
+          window.scroll(0, this.gov.current.offsetTop);
+        }
+      };
+      check();
+      this.check = setTimeout(check, 4000);
     }
   };
   render() {
@@ -124,7 +138,7 @@ export default class App extends React.Component {
           deniability for my
           <br />
           <br />
-          Free rider mutable expiring claims. Economuists favor hours as
+          Free rider mutable expiring claims. Economists favor hours as
           productive, microeconomicst who fail at finance become politicians
           private nor public non-rollover insurance is legal per third party
           bene, stacked hours non-concurrentable is like flaccid, collective
@@ -601,6 +615,7 @@ export default class App extends React.Component {
         to pay into it as the insureds’ customers.
         <br />
         <br />
+        <hr ref={this.gov} />
         <TwitterTweetEmbed
           style={{
             shapeOutside: "rect()",
