@@ -84,6 +84,14 @@ export default class App extends React.Component {
         this.setState({ serviceCancelingImages: true });
       }
     };
+    let arrayOfnumbers = 0;
+    const scrollnum = () => {
+      arrayOfnumbers = arrayOfnumbers + 1; //arrayOfnumbers[arrayOfnumbers.length - 1] + 1;
+      //arrayOfnumbers.push(num);
+      //console.log(arrayOfnumbers)
+      return arrayOfnumbers;
+    };
+    //const space = " ";
     return (
       <div
         style={{
@@ -180,10 +188,27 @@ export default class App extends React.Component {
           parks.. tax from outside the market is pure inflation of monopsony
           labor & material. Don't sell option to buy (down-payments) on
           estimates, please. I'm a choring bookkeeper. Fentanyl deaths matches
-          missing children 80k/yr (FBI 2015). imo login.gov conviect intranet
-          end to end on cloud encryption and tamper proof dns grid malfeasance.
-          the n word root is not racist, it is an accounting term. I'm euro,
-          there is afro, asian, hispanic/'spic, indian, hindi, etc.
+          missing children 80k/yr (FBI 2015).
+          <br />
+          <Cable
+            onError={handleScollImgError}
+            //img={true}
+            src={
+              this.state.noyoutube
+                ? ""
+                : `https://www.youtube.com/embed/A2kSh0A8Ad0`
+            }
+            float="right"
+            title="Future of voting - thumbprint.us/voting steve trevalese login.gov intranet"
+            scrolling={this.props.scrolling}
+            fwd={this.props["scrollImg" + scrollnum()]}
+            scrollTopAndHeight={this.props.scrollTop + window.innerHeight}
+            scrollTop={this.props.scrollTop}
+          />
+          imo login.gov conviect intranet end to end on cloud encryption and
+          tamper proof dns grid malfeasance. the n word root is not racist, it
+          is an accounting term. I'm euro, there is afro, asian, hispanic/'spic,
+          indian, hindi, etc.
           <br />
           <br />
           Wholesale 10% inflation this 12 months;&nbsp;
@@ -289,7 +314,7 @@ export default class App extends React.Component {
             float="right"
             title="https://youtu.be/nKvUf7F4Xn4"
             scrolling={this.state.scrolling}
-            fwd={this["scrollImg" + 9]}
+            fwd={this["scrollImg" + scrollnum()]}
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
             scrollTop={this.state.scrollTop}
           />
@@ -321,7 +346,7 @@ export default class App extends React.Component {
             float="left"
             title="LinkedIn unprofessional and off topic label on relevant industry"
             scrolling={this.state.scrolling}
-            fwd={this["scrollImg" + 8]}
+            fwd={this["scrollImg" + scrollnum()]}
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
             scrollTop={this.state.scrollTop}
           />
@@ -372,7 +397,7 @@ export default class App extends React.Component {
             float="right"
             title="White House Press Briefing (Daily Wire) - Russia in Crimea, Taliban in Crimea"
             scrolling={this.state.scrolling}
-            fwd={this["scrollImg" + 7]}
+            fwd={this["scrollImg" + scrollnum()]}
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
             scrollTop={this.state.scrollTop}
           />
@@ -389,6 +414,21 @@ export default class App extends React.Component {
             !
             <br />
             <br />
+            <Cable
+              onError={handleScollImgError}
+              //img={true}
+              src={
+                this.state.noyoutube
+                  ? ""
+                  : "https://www.youtube.com/embed/7Jy9JyrukCY"
+              }
+              float="left"
+              title="Sliwa racket HACKENSACK MERIDIAN HEALTH RIVERVIEW MEDICAL CENTER -disparity crime vs penalty,  Mental health slander, zero evidence lest actual crime - https://youtu.be/AQ7h_U5G0fY"
+              scrolling={this.props.scrolling}
+              fwd={this.props["scrollImg" + scrollnum()]}
+              scrollTopAndHeight={this.props.scrollTop + window.innerHeight}
+              scrollTop={this.props.scrollTop}
+            />
             Open-source licensure save the animals release the meds, non-expiry
             claimables aren’t mechanic nor doctor hours, third party beneficiary
             donee claimables and
@@ -451,7 +491,7 @@ export default class App extends React.Component {
            truncated sales tax to ween off cops 3under2.us. Make good views up about 
            other people and see how they austere.`}
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 6]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -496,7 +536,7 @@ export default class App extends React.Component {
           float="left"
           title="Dr Henderson Review Video Testimony & false mental-institution conviction, bizarre for non-rollover insurance whistleblower"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 5]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -512,7 +552,7 @@ export default class App extends React.Component {
           float="left"
           title="Dr Henderson Review on Google, recinding of mental-illness claim online, apologizing for my 'knee appointment'"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 4]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -546,7 +586,6 @@ export default class App extends React.Component {
         data auditing, fraud. 1.2m/yr+ 75+ 2015- census mortality projections by
         census and I saw this coming
         <Cable
-          style={{ width: "100%", maxWidth: "400px", height: "200px" }}
           onError={handleScollImgError}
           //img={true}
           src={
@@ -557,7 +596,7 @@ export default class App extends React.Component {
           float="right"
           title="nj 101.5 steve trevalese nj voting ArrayArrays content-addressable anonymous way, public profile match population, and cors. Awaiting login.gov"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 3]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -593,7 +632,6 @@ export default class App extends React.Component {
           </span>
         </h2>
         <Cable
-          style={{ width: "100%", maxWidth: "400px", height: "200px" }}
           onError={handleScollImgError}
           src={
             this.state.noyoutube
@@ -603,7 +641,7 @@ export default class App extends React.Component {
           float="left"
           title=""
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 2]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
@@ -616,6 +654,21 @@ export default class App extends React.Component {
         <br />
         <br />
         <hr ref={this.gov} />
+        <Cable
+          onError={handleScollImgError}
+          img={true}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://www.dl.dropboxusercontent.com/s/wk52ef3txcm3qws/Screen%20Shot%202022-02-15%20at%204.30.53%20PM.png?dl=0"
+          }
+          float="left"
+          title="thumbprint.us grande opening - check it out! stag"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         <TwitterTweetEmbed
           style={{
             shapeOutside: "rect()",
@@ -682,7 +735,7 @@ export default class App extends React.Component {
           float="left"
           title="https://www.linkedin.com/posts/nickcarducci_unemploymentbenefits-activity-6841120483153330176-xhhz"
           scrolling={this.state.scrolling}
-          fwd={this["scrollImg" + 1]}
+          fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
