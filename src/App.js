@@ -425,7 +425,7 @@ export default class App extends React.Component {
               float="left"
               title="Sliwa racket HACKENSACK MERIDIAN HEALTH RIVERVIEW MEDICAL CENTER -disparity crime vs penalty,  Mental health slander, zero evidence lest actual crime - https://youtu.be/AQ7h_U5G0fY"
               scrolling={this.props.scrolling}
-              fwd={this.props["scrollImg" + scrollnum()]}
+              fwd={this["scrollImg" + scrollnum()]}
               scrollTopAndHeight={this.props.scrollTop + window.innerHeight}
               scrollTop={this.props.scrollTop}
             />
