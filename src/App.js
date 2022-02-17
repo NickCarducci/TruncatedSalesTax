@@ -1414,6 +1414,93 @@ export default class App extends React.Component {
         </h1>
         housing implausible purchase use; rent(profit account collective
         flaccid)-free science
+        <br />
+        <br />
+        $500b $5b loan guarantees, 5%/yr, 10%/yr, 20%/yr.
+        <br />
+        20 year double in collateral.
+        <br />
+        Good will $170t and collateralized non-concurrentable $2t.
+        <br />
+        <br />
+        Cash accountant discount (amortization +/-)
+        <br />
+        (Self): I’m a statistician with an interest in market history and
+        propaganda. Founder of Thumbprint.us, Micro-Theory.com, Froth.app,
+        SaverParty.xyz and more.
+        <br />
+        *“Can’t say new things without breaking some eggheads. It only becomes a
+        new thing after the fact, doesn’t matter.”*
+        <br />
+        nick@carducci.sh (mailto:nick@carducci.sh)
+        <br />
+        Usury: userers; insurers (false bid pool loss, prohibiting another’s
+        purchase cheaper *per self-artifact*), (implausible-use-) landlords,
+        (foreseeable forced-majeure-/borrower-/donee-defense) lenders.
+        <br />
+        Bona fides: Boycotting **credit, donee invocations surrendered freedoms
+        of third party beneficiary bids**:
+        <br />
+        * open source app designer and
+        <br />
+        * web developer, in ed/event tech pro-quo, election/court tech pro-bono,
+        non-profit nor dissolved to state science rents (2012-Present).
+        <br />
+        Dealing in:
+        <br />
+        * 1/12 industry-type max-royalty (https://vaults.biz/royalty),
+        <br />
+        * 11/12-industry jury permit minimal viable product duress, quality and
+        price (https://vaults.biz/gmu), for operational-monopsony, when
+        supply!=demand.
+        <br />
+        Derivative change enlightens concurrencies, get off your time-plane.
+        Good-will assets collateralized valued at their liabilities basing m2/yr
+        GDP? You want me to believe that new debt does not change GDP per annum
+        (https://fred.stlouisfed.org/graph/?g=M95H)?
+        <br />
+        <br />
+        Is [GDP/yr, new Debt/yr, chequeing]/p
+        (https://fred.stlouisfed.org/graph/?g=M95H) legitimate, if:
+        <br />
+        GDP/yr=mv1==mv2 (https://fred.stlouisfed.org/graph/?g=LjGf) is
+        fraudulent?
+        <br />
+        * fed balance (https://fred.stlouisfed.org/graph/?g=LZrq)($b);
+        <br />
+        * GDP/hour-GDP/p (https://fred.stlouisfed.org/graph/?g=Llrn),
+        (productive-) efficiency, microeconomic Supply and Demand MUI=MC==MRP,
+        output of economic-welfare, q*:
+        <br />
+        * -GDP/p (https://vaults.biz/gdp) tech advancement, GDP/hour,
+        “productivity,” -OECD;
+        <br />
+        poverty=((material+rent)/income)=equality.
+        <br />
+        (Efficient-) Productivity=(income/hour)/home
+        (https://fred.stlouisfed.org/graph/?g=M7KY)
+        <br />
+        Cross referenced means you can reverse the phenomena, replicated
+        necessarily, too.
+        <br />
+        Not by 3%/yr+ population does GDP/p increase, 1800–1913, so,
+        Homelessness is because of userers: insurers, lenders and landlords, not
+        mental illness slander, non-biomedical, nor can CT scan diagnose
+        (https://truncatedsalestax.com/gov) homelessness. Especially working
+        against 19% ‘disabled’ trust investment bank over currency (not (‘money
+        and savings’):
+        <br />
+        (cash/debt)*income every year back. Savers’ land-exploration rights (20%
+        of U.S.).
+        <br />
+        1/12 industry-type max-royalty, equal in receipt and scope truncated
+        production tax geohash/month from your paytech of choice with ability to
+        spoof for something in your precinct sewage police lawsuits,
+        transaction-fee-based-sdr, open ingredient lists licensure
+        (https://teapharmacy.party/drugs),
+        <br />
+        artifact per capita: u mean variance by n>100 ‘random’ or 1/100
+        shuffleable sample/pop.
       </div>
     );
   }
