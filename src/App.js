@@ -1387,6 +1387,8 @@ export default class App extends React.Component {
           engels on outright distribution of productive-ward vs
           charity/pittance/vulgar-redistributional-socialism.
         </h1>
+        housing implausible purchase use; rent(profit account collective
+        flaccid)-free science
       </div>
     );
   }
