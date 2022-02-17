@@ -1376,8 +1376,9 @@ export default class App extends React.Component {
         from supply!=demand by false bid pool loss, donee invoking for Saver
         purchase opportunity (amortized for cash-accounting 100% Savers' not
         bipartisan minorities tax-payers, gentrification of education,
-        healthcare and hoousing in lieu of open ingredient lists, ban invoices
-        and insurance{space}
+        healthcare and hoousing in{space}
+        <a href="https://vaults.biz/obamacare">lieu</a>
+        {space}of open ingredient lists, ban invoices and insurance{space}
         <a href="https://www.goodreads.com/work/quotes/496446-die-lage-der-arbeitenden-klasse-in-england">
           outright
         </a>
