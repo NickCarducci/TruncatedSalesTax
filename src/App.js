@@ -1066,6 +1066,40 @@ export default class App extends React.Component {
         >
           balance
         </a>
+        <br />
+        <br />
+        <div>
+          Nicholas Carducci - Bond-Zero LaborEquity.org, Magnate Auto,
+          SaverParty.xyz, Scopebook, Vaults.biz, Thumbprint.us
+          <br />
+          Why is Congress allowed to kill over foreign construction but I’m not?
+          Just because you (Facebook/Meta, "too descriptive, broad")?
+          <br />
+          <br />
+          Omar Masry - out of network3rd+
+          <br />
+          Multifamily Lending Project Manager | City & County of San Francisco
+          <br />
+          Failing
+          <br />
+          NC - “Multifamily lending,” can exist within a 1/12,
+          industry-vertical, max-royalty, realm? Donee- and borrower-defense, by
+          compound, or general-income, is on the way. Any retorts?
+          <br />
+          <br />
+          OM - are you ok?
+          <br />
+          <br />
+          NC - I'm saying multi-family lending is{space}
+          <a href="https://www.lawinsider.com/clause/no-surrender-of-others-freedom">
+            illegal
+          </a>
+          {space}I am replacing your ways and means with alternatives for
+          investing: max-royalty with "collateral" as one of 12 industry-types,
+          instead of foreseeable repo-cycle. See proof amongst 3%/yr+
+          population, the damage of GDP/p tech deprecation is all your fault.
+          Don't strawman, it hurts your argument in the long-run.
+        </div>
       </div>
     );
   }
