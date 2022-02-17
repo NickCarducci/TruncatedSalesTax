@@ -1251,7 +1251,88 @@ export default class App extends React.Component {
         Poverty has led to equality, labor-competition is elastic for all costs,
         never fixed nor invariable except resale.
         <br />
-        “He’s seen things we haven’t,” bizarre
+        “He’s seen things we haven’t,” bizarre.
+        <br />
+        <br />
+        "If aggregate demand increase, does price increase too?"
+        <br />
+        Tim Pellemeier - "It depends on whether the economy already uses it’s
+        entire production potential or not. The economy can be in a state of a
+        demand gap, where resources of the economy like labor are not being used
+        because of a lack of demand. In this case an increase on aggregate
+        demand won’t increase prices, it will only raise output.
+        <br />
+        <br />
+        Keep in mind that unemployment may have other causes than a demand gap.
+        In the 70ies for example, a lot of governments thought they could
+        decrease unemployment by increasing aggregate demand. The crisis of the
+        70ies however was a supply crisis - not a demand crisis. (The oil
+        producing nations got a bigger piece from the pie thus the overall pie
+        in the western countries got smaller. Trade unions were not willing to
+        accept a smaller piece though. Thus there was inflation and stagnation.)
+        That’s why the concept of NAIRU was coined.
+        <br />
+        <br />
+        If the economy already uses its full potential, than aggregate demand
+        increases prices.
+        <br />
+        <br />
+        We have a demand gap, if the following applies: ex ante aggregate
+        savings ( - exports) {">"} ex ante aggregate investments ( + imports)
+        (and if the mechanism for bringing both sides into equilibrium is
+        disturbed)"
+        <br />
+        <br />
+        Do you consider success unfunded liabilities, pricing assets? Dollars
+        are land-deeds, 20% of the U.S. Nominal exports are from higher
+        poverty=equality and efficiency. -GDP/p is tech advancement, evidenced
+        by 1800–1913 that was amongst 3%/yr+ population. Any further employment
+        is technological deprecation. There is no demand in accrual accounting,
+        STOP. We cash accountants have to discount your mistakes.
+        <br />
+        <br />
+        Thank god, you will never be successful with your Saver party, because
+        you are not able to explain your ideas in plain English. Anything that
+        serves as money, has to be a bubble (because people demand it in order
+        to exchange it for something else - thus demand is overblown). It’s
+        important that the bubble is not constantly growing (that would be
+        deflation) or shrinking at a very fast pace (hyperinflation). Ideally
+        it’s constantly getting smaller (fairly low but not too low inflation at
+        a stable rate), so that people don’t have an incentive to keep hoarding
+        more and more money (if there is deflation) and therefore raping money
+        of it’s ability to serve as a means of exchange. As long as this is the
+        case, I don’t care for goodwill. By the way, what do you mean with sdr?
+        (Special drawing rights?)
+        <br />
+        <br />I would describe your view as Mises and Rothbard - I look at the
+        practical, -applied economics. You can describe my point of view as bona
+        fide cash accounting, microeconomic Supply and Demand, with the view
+        that dead-weight-box is not only descriptive of government, on the
+        economic welfare x-axis, (that I define as GDP/hour-GDP/p and call,
+        “productive-efficiency,” -GDP/p change-rate being tech-advancement and
+        less work), but also finance, being 2/3 of total debt. Debt to checking.
+        The collateral of currency, ostensibly either per capita or dollar U.S.
+        Saver land exploration rights, third party donee beneficiary claimable.
+        This is why I am Chair and Founder of Saver Party ↙️⚪️🐿.
+        (cash/debt)*income every year back instead of cancel is the only
+        mediation that which we all paid what we would have without debt, move
+        to max-royalty 1/12 industry type, instead of collateral, for future
+        investment relations (so I am developing that like pipe.io without
+        derivatives as outlays at vaults.biz), and Article 1.8 equal in scope
+        and receipt truncated production tax.
+        <br />
+        <br />
+        Thanks for reading and writing cogently, albeit I am no douche! Haha I’m
+        for rent-free science - in a world without privacy for all-science.
+        Might you know about why GDP/yr=mv1==mv2?? This is the good will I am
+        talking about. The velocity of checking, “CurrencyComponentOfM1,” isn’t
+        even reported (or at least charted, if you know if that is available
+        please let me know)!
+        <h1>
+          <a href="https://vaults.biz/okboomer">
+            There is no demand in accrual accounting, STOP.
+          </a>
+        </h1>
       </div>
     );
   }
