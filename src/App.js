@@ -1456,39 +1456,43 @@ export default class App extends React.Component {
         <br />
         Derivative change enlightens concurrencies, get off your time-plane.
         Good-will assets collateralized valued at their liabilities basing m2/yr
-        GDP? You want me to believe that new debt does not change GDP per annum
-        (https://fred.stlouisfed.org/graph/?g=M95H)?
+        GDP? You want me to believe that new debt does not change GDP per annum:
         <br />
         <br />
-        Is [GDP/yr, new Debt/yr, chequeing]/p
-        (https://fred.stlouisfed.org/graph/?g=M95H) legitimate, if:
+        <a href="https://fred.stlouisfed.org/graph/?g=M95H">
+          [GDP/yr, new Debt/yr, chequeing]/p
+        </a>
+        ? Is such legitimate, if:
         <br />
-        GDP/yr=mv1==mv2 (https://fred.stlouisfed.org/graph/?g=LjGf) is
-        fraudulent?
-        <br />
-        * fed balance (https://fred.stlouisfed.org/graph/?g=LZrq)($b);
-        <br />
-        * GDP/hour-GDP/p (https://fred.stlouisfed.org/graph/?g=Llrn),
+        <a href="https://fred.stlouisfed.org/graph/?g=LjGf">GDP/yr=mv1==mv2</a>
+        , is fraudulent?
+        <br />*{space}
+        <a href="https://fred.stlouisfed.org/graph/?g=LZrq">fed balance</a>
+        {space}($b);
+        <br />*{space}
+        <a href="https://fred.stlouisfed.org/graph/?g=Llrn">GDP/hour-GDP/p</a>,
         (productive-) efficiency, microeconomic Supply and Demand MUI=MC==MRP,
         output of economic-welfare, q*:
-        <br />
-        * -GDP/p (https://vaults.biz/gdp) tech advancement, GDP/hour,
-        “productivity,” -OECD;
+        <br />*{space}
+        <a href="https://vaults.biz/gdp">-GDP/p</a>
+        {space}tech advancement, GDP/hour, “productivity,” -OECD;
         <br />
         poverty=((material+rent)/income)=equality.
         <br />
-        (Efficient-) Productivity=(income/hour)/home
-        (https://fred.stlouisfed.org/graph/?g=M7KY)
+        (Efficient-) Productivity=
+        <a href="https://fred.stlouisfed.org/graph/?g=M7KY">
+          (income/hour)/home
+        </a>
         <br />
         Cross referenced means you can reverse the phenomena, replicated
         necessarily, too.
         <br />
         Not by 3%/yr+ population does GDP/p increase, 1800–1913, so,
         Homelessness is because of userers: insurers, lenders and landlords, not
-        mental illness slander, non-biomedical, nor can CT scan diagnose
-        (https://truncatedsalestax.com/gov) homelessness. Especially working
-        against 19% ‘disabled’ trust investment bank over currency (not (‘money
-        and savings’):
+        mental illness slander, non-biomedical, nor can{space}
+        <a href="https://truncatedsalestax.com/gov">CT scan, diagnose</a>,
+        homelessness. Especially working against 19% ‘disabled’ trust investment
+        bank over currency (not (‘money and savings’):
         <br />
         (cash/debt)*income every year back. Savers’ land-exploration rights (20%
         of U.S.).
@@ -1496,10 +1500,11 @@ export default class App extends React.Component {
         1/12 industry-type max-royalty, equal in receipt and scope truncated
         production tax geohash/month from your paytech of choice with ability to
         spoof for something in your precinct sewage police lawsuits,
-        transaction-fee-based-sdr, open ingredient lists licensure
-        (https://teapharmacy.party/drugs),
+        transaction-fee-based-sdr, open ingredient lists{space}
+        <a href="https://teapharmacy.party/drugs">licensure</a>
+        ,
         <br />
-        artifact per capita: u mean variance by n>100 ‘random’ or 1/100
+        artifact per capita: u mean variance by n{">"}100 ‘random’ or 1/100
         shuffleable sample/pop.
       </div>
     );
