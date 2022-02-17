@@ -1369,6 +1369,23 @@ export default class App extends React.Component {
         more MC per capita*) by consumers’-exchange of labor-borne-demand, lest
         laborless-demand be dead-weight-box of **productive-efficiency** as
         economic welfare, q*, of microeconomic Supply and Demand.
+        <br />
+        <br />
+        Hilary Clinton "Republicans will do nothing for paid leave laws, child
+        bonuses, education investment bank-trust." Instead of calling pittance
+        from supply!=demand by false bid pool loss, donee invoking for Saver
+        purchase opportunity (amortized for cash-accounting 100% Savers' not
+        bipartisan minorities tax-payers, gentrification of education,
+        healthcare and hoousing in lieu of open ingredient lists, ban invoices
+        and insurance{space}
+        <a href="https://www.goodreads.com/work/quotes/496446-die-lage-der-arbeitenden-klasse-in-england">
+          outright
+        </a>
+        ).
+        <h1>
+          engels on outright distribution of productive-ward vs
+          charity/pittance/vulgar-redistributional-socialism.
+        </h1>
       </div>
     );
   }
