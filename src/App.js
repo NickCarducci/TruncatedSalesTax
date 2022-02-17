@@ -1228,6 +1228,16 @@ export default class App extends React.Component {
         extemist repubicans and democrats matches its artifact, per capita
         <br />
         <br />
+        competitive spirit harnessed for less efficient GDP/hour-GDP/p by
+        nationalism negative balance of trade (same actual), tech deprecation
+        (GDP/p, same actual).
+        <h4>
+          truncated production tax for General Maintenance Unit 11/12 industry
+          polling minimal viable product duress, quality permit or margin upon
+          operational monopsony.
+        </h4>
+        democrat trust investment bank over currency ('not money nor savings')
+        <h3>gentrification: investing healthcare, education, homes</h3>
         <h2>
           <a href="https://fred.stlouisfed.org/graph/?g=M9j8">m2 basing</a>
           {space}off of 19% disabled{space}
