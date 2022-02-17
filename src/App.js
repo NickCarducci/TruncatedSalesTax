@@ -1228,7 +1228,8 @@ export default class App extends React.Component {
         extemist repubicans and democrats matches its artifact, per capita
         <br />
         <br />
-        m2 basing off of 19% disabled{space}
+        <a href="https://fred.stlouisfed.org/graph/?g=M9j8">m2 basing</a>
+        {space}off of 19% disabled{space}
         <a href="https://vaults.biz/gdp">investment bank, just "old," trust</a>.
       </div>
     );
