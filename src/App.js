@@ -1507,6 +1507,10 @@ export default class App extends React.Component {
         <br />
         artifact per capita: u mean variance by n{">"}100 ‘random’ or 1/100
         shuffleable sample/pop.
+        <h2>
+          I am Christian that doesn’t trust the New Testament; About Jesus, but
+          not about Jesus.
+        </h2>
       </div>
     );
   }
