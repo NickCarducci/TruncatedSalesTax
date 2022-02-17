@@ -1341,9 +1341,7 @@ export default class App extends React.Component {
         Nick Carducci - Bookkeeper at Household Chores (2006-present)
         <br />
         **Demand**, by money (*or labor*), is price elastic (*and an{space}
-        <a href="https://fred.stlouisfed.org/graph/?g=LmzU">
-          **artifact per capita*
-        </a>
+        <a href="https://vaults.biz/gdp">**artifact per capita*</a>
         ); that is why I enumerate{space}
         <a href="https://fred.stlouisfed.org/graph/?g=LmzU">GDP/hour-GDP/p</a>
         {space}as **(productive-) efficiency**, and{space}
