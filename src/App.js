@@ -1195,6 +1195,29 @@ export default class App extends React.Component {
         {space}of no duress of{space}
         <a href="https://qr.ae/pGQXN5">MPR by MC for MUI</a>, thenduly economic
         welfare, GDP/hour-GDP/p.
+        <br />
+        <br />
+        land-deed keystone Savers'
+        <br />
+        <br />
+        freedom wins by labor skew over inflation, why?
+        poverty=equality===competition==techAdvancement=-GDP/p,
+        <br />
+        Alzhiemer's == Good Sewage
+        <br />
+        efficient-productivity:{space}
+        <a href="https://fred.stlouisfed.org/graph/?g=M7mh">
+          (income/hour)/home
+        </a>
+        .
+        <br />
+        "This hour," what are you talking about douche? I am taking about
+        cash-accounting (that requires amortization-discounting from{space}
+        <a href="https://vaults.biz/okboomer">
+          your "reality" of pricing assets by liability
+        </a>
+        ), not counterfeit in contractor liable donee invocations.
+        <a href="https://vaults.biz/c1775">I'll kill you</a>.
       </div>
     );
   }
