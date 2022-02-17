@@ -1142,6 +1142,10 @@ export default class App extends React.Component {
         Request for proposals, scope of requirements then scope of work,
         itemized timeclock and material (sprint - NJ Consumer Fraud Act),
         logging and mining until resale, variable. Are you drinking or not?
+        <br />
+        <br />
+        Polls says the people want privacy only for citizens (watergate, spy v
+        spy Int’l), not sitting officials (trump, obama)
       </div>
     );
   }
