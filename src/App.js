@@ -1100,6 +1100,21 @@ export default class App extends React.Component {
           population, the damage of GDP/p tech deprecation is all your fault.
           Don't strawman, it hurts your argument in the long-run.
         </div>
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://www.youtube.com/embed/AQ7h_U5G0fY"
+          }
+          float="right"
+          title=" HACKENSACK MERIDIAN HEALTH RIVERVIEW MEDICAL CENTER Mental health slander, zero evidence lest actual crime https://youtu.be/AQ7h_U5G0fY"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
       </div>
     );
   }
