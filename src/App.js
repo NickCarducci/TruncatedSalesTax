@@ -1333,6 +1333,30 @@ export default class App extends React.Component {
             There is no demand in accrual accounting, STOP.
           </a>
         </h1>
+        If aggregate demand increase, does price increase too?
+        <br />
+        <br />
+        microeconomist applied
+        <br />
+        Nick Carducci - Bookkeeper at Household Chores (2006-present)
+        <br />
+        **Demand**, by money (*or labor*), is price elastic (*and an{space}
+        <a href="https://fred.stlouisfed.org/graph/?g=LmzU">
+          **artifact per capita*
+        </a>
+        ); that is why I enumerate{space}
+        <a href="https://fred.stlouisfed.org/graph/?g=LmzU">GDP/hour-GDP/p</a>
+        {space}as **(productive-) efficiency**, and{space}
+        <a href="https://fred.stlouisfed.org/graph/?g=M7mh">
+          (income/hour)/home
+        </a>
+        {space}
+        as (efficient-) productivity. Elasticity of 1 means the slope of the
+        Marginal Utility Indifference curves in Marginal Revenue Product (D’)
+        and Marginal Cost (S’) is 1/1 slope (*D’’, any-S’-price, with money, not
+        more MC per capita*) by consumers’-exchange of labor-borne-demand, lest
+        laborless-demand be dead-weight-box of **productive-efficiency** as
+        economic welfare, q*, of microeconomic Supply and Demand.
       </div>
     );
   }
