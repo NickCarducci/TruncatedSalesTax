@@ -1237,6 +1237,9 @@ export default class App extends React.Component {
           operational monopsony.
         </h4>
         democrat trust investment bank over currency ('not money nor savings')
+        <br />
+        Labor and working families, unions, trade secrets, trusts over consumer
+        surrogate target-margin competition application.
         <h3>gentrification: investing healthcare, education, homes</h3>
         <h2>
           <a href="https://fred.stlouisfed.org/graph/?g=M9j8">m2 basing</a>
