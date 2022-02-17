@@ -1236,6 +1236,14 @@ export default class App extends React.Component {
           </a>
           .
         </h2>
+        <h1>labor by (income/hour)/home for GDP/hour-GDP/p bunting</h1>
+        <h3>asset-marginal-utility-indifference non-concurrentable</h3>
+        <h2>
+          Savers' land-deeds (20% of U.S.,{space}
+          <a href="https://fred.stlouisfed.org/graph/?g=M24t">$2t chequeing</a>
+          ),
+        </h2>
+        <h1>(cash/debt)*income every year back.</h1>
         <br />
         Scott Galloway - Clinical Professor of Marketing, NYU Stern & Founder,
         Section4
