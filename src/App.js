@@ -1241,6 +1241,17 @@ export default class App extends React.Component {
         to take the risk of public failure. Latest #PivotPodcast"
         <br />
         Or, less-Scientific indifference!
+        <br />
+        <br />
+        Poverty equality, density leads to a positive balance of trade.
+        <br />
+        Alzheimer’s sewage, (income/hour)/home, inflation/income, fighting for
+        good accounting.
+        <br />
+        Poverty has led to equality, labor-competition is elastic for all costs,
+        never fixed nor invariable except resale.
+        <br />
+        “He’s seen things we haven’t,” bizarre
       </div>
     );
   }
