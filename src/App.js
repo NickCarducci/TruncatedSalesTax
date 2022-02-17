@@ -1169,6 +1169,32 @@ export default class App extends React.Component {
         <br />
         open source has changed my life - I only work for Science, and{space}
         <a href="https://fred.stlouisfed.org/graph/?g=M9j8">chequeing</a>.
+        <br />
+        <br />
+        General Maintenance Unit -{space}
+        <a href="https://thumbprint.us/voting">thumbprint.us polling</a>: 11/12
+        industry minimal viable product duress/quality (
+        <a href="https://www.quora.com/Does-insurance-cover-punitive-damages">
+          warning, tort, jail
+        </a>{" "}
+        without unequal bond-tax conflict of interest, closed source licensure,
+        or state-vig beyond itemized free rider immutables by such 11/12
+        industry designations, discounting for non-vertical influence, like
+        {space}
+        <a href="https://froth.app">realators and finance</a>, commercial lease
+        total level, unknown, neither known is chequeing, to ask is bizarre
+        rollover insurance non-expiring nor{space}
+        <a href="https://www.lawinsider.com/clause/no-surrender-of-others-freedom">
+          surrendering of others
+        </a>
+        '?), price when operational monopsony (network, platform - unpaid
+        writers). For{space}
+        <a href="https://constitutioncenter.org/interactive-constitution/preamble">
+          Tranquil and voluntary trade
+        </a>
+        {space}of no duress of{space}
+        <a href="https://qr.ae/pGQXN5">MPR by MC for MUI</a>, thenduly economic
+        welfare, GDP/hour-GDP/p.
       </div>
     );
   }
