@@ -1132,7 +1132,7 @@ export default class App extends React.Component {
               ? ""
               : "https://www.dl.dropboxusercontent.com/s/u1v0jb41vxv9ffo/Scopebook%20logo%20%281%29.png?dl=0"
           }
-          float="right"
+          float="left"
           title=" scopes.cc"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + scrollnum()]}
@@ -1146,6 +1146,29 @@ export default class App extends React.Component {
         <br />
         Polls says the people want privacy only for citizens (watergate, spy v
         spy Int’l), not sitting officials (trump, obama)
+        <br />
+        <br />
+        Tanking economy, economic security, high housing prices,” Paris
+        stennard.” What does the mean? “Republicans will be there to have
+        candidates Empower, impact and uplift American people.”
+        <br />
+        <br />
+        closed source competition and debt lowers poverty:
+        <br />
+        19% "disabled" just<a href="https://vaults.biz/okboomer">old</a>
+        {space}-{space}
+        <a href="https://qr.ae/pGQX1q">delinquent investment bank</a>.
+        <br />
+        Particularly on seniors, because they spend so much by ‘name-your-price’
+        non-rollover insurance. No demand, still a waste of our sweat.
+        <br />
+        <a href="https://qr.ae/pGEuhg">Supply!=demand</a>
+        {space}when insurance, prescription costs, invoice donee bene and free
+        rider mutable untruncated production tax.
+        <br />
+        <br />
+        open source has changed my life - I only work for Science, and{space}
+        <a href="https://fred.stlouisfed.org/graph/?g=M9j8">chequeing</a>.
       </div>
     );
   }
