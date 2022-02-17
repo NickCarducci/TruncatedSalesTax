@@ -1281,10 +1281,15 @@ export default class App extends React.Component {
         savings ( - exports) {">"} ex ante aggregate investments ( + imports)
         (and if the mechanism for bringing both sides into equilibrium is
         disturbed)"
-        <br />
-        <br />
-        Do you consider success unfunded liabilities, pricing assets? Dollars
-        are land-deeds, 20% of the U.S. Nominal exports are from higher
+        <h2>
+          Discounting for over- or under-regulation, permits of 11/12 industry
+          permit{space}
+          <a href="https://vaults.biz/juris">mvp</a>
+          {space}duress
+        </h2>
+        -quality or operational monopsony price; cash accounting discounts
+        “reality.” Do you consider success unfunded liabilities, pricing assets?
+        Dollars are land-deeds, 20% of the U.S. Nominal exports are from higher
         poverty=equality and efficiency. -GDP/p is tech advancement, evidenced
         by 1800–1913 that was amongst 3%/yr+ population. Any further employment
         is technological deprecation. There is no demand in accrual accounting,
