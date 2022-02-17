@@ -1369,7 +1369,8 @@ export default class App extends React.Component {
         please let me know)!
         <h1>
           <a href="https://vaults.biz/okboomer">
-            There is no demand in accrual accounting, STOP.
+            There is no demand in accrual accounting, cash accounting discounts
+            "reality;" STOP.
           </a>
         </h1>
         If aggregate demand increase, does price increase too?
