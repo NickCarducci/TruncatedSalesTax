@@ -91,7 +91,17 @@ export default class App extends React.Component {
       //console.log(arrayOfnumbers)
       return arrayOfnumbers;
     };
-    //const space = " ";
+    const space = " ";
+    const scrollPath = (scrollPath) =>
+      [this.state.hoverPath, this.state.scrollPath].includes(scrollPath)
+        ? "2px solid"
+        : "0px solid";
+    const hoverpathe = (ev) =>
+      ev.target &&
+      ev.target.href &&
+      this.setState({
+        hoverPath: ev.target.href.split(`${window.location.origin}/`)[1]
+      });
     return (
       <div
         style={{
@@ -772,17 +782,290 @@ export default class App extends React.Component {
         103,106 April 2020/2021, mental illness substance use disorder
         concurrency,” because you diagnose mental health by drug use Mr.
         Griffith you fucking obese chode
-        <iframe
-          style={{
-            float: "left",
-            shapeOutside: "rect()",
-            width: "100%",
-            maxWidth: "800px",
-            height: "500px"
-          }}
-          src="https://vaults.biz/#:~:text=employmentByCohort"
-          title="vaults employmentByCohort"
-        />
+        <br />
+        <br />
+        Resisting arrest removing ability to vote, as a moot plea under duress
+        to commit perjury for prejudice tort (state-vic/vig), against jail for
+        driving while high (or heavier tort remediation punitively, which is
+        always the intention of torts, no greater in its level)
+        <br />
+        <br />
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("statistic") }}
+          href={`${window.location.origin}/statistic`}
+        >
+          statistic
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("moldmask") }}
+          href={`${window.location.origin}/moldmask`}
+        >
+          moldmask
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("jews") }}
+          href={`${window.location.origin}/jews`}
+        >
+          jews
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("health") }}
+          href={`${window.location.origin}/health`}
+        >
+          health
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("inflation") }}
+          href={`${window.location.origin}/inflation`}
+        >
+          inflation
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("dns") }}
+          href={`${window.location.origin}/dns`}
+        >
+          dns
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("biz") }}
+          href={`${window.location.origin}/biz`}
+        >
+          biz
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("fines") }}
+          href={`${window.location.origin}/fines`}
+        >
+          fines
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("juris") }}
+          href={`${window.location.origin}/juris`}
+        >
+          juris
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("gmu") }}
+          href={`${window.location.origin}/gmu`}
+        >
+          gmu
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("con") }}
+          href={`${window.location.origin}/con`}
+        >
+          con
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("sci") }}
+          href={`${window.location.origin}/sci`}
+        >
+          sci
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("trust") }}
+          href={`${window.location.origin}/trust`}
+        >
+          trust
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("sdr") }}
+          href={`${window.location.origin}/sdr`}
+        >
+          sdr
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("royalty") }}
+          href={`${window.location.origin}/royalty`}
+        >
+          royalty
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("devil") }}
+          href={`${window.location.origin}/devil`}
+        >
+          devil
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("newecon") }}
+          href={`${window.location.origin}/newecon`}
+        >
+          newecon
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("rec") }}
+          href={`${window.location.origin}/rec`}
+        >
+          receipts
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("work") }}
+          href={`${window.location.origin}/work`}
+        >
+          work
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("drugs") }}
+          href={`${window.location.origin}/drugs`}
+        >
+          drugs
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("menger") }}
+          href={`${window.location.origin}/menger`}
+        >
+          menger
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("gdp") }}
+          href={`${window.location.origin}/gdp`}
+        >
+          gdp
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("accounting") }}
+          href={`${window.location.origin}/accounting`}
+        >
+          accounting
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("party") }}
+          href={`${window.location.origin}/party`}
+        >
+          party
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("woke") }}
+          href={`${window.location.origin}/woke`}
+        >
+          woke
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("marx") }}
+          href={`${window.location.origin}/marx`}
+        >
+          marx
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("air") }}
+          href={`${window.location.origin}/air`}
+        >
+          air
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("awareness") }}
+          href={`${window.location.origin}/awareness`}
+        >
+          awareness
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("democrats") }}
+          href={`${window.location.origin}/democrats`}
+        >
+          democrats
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("immi") }}
+          href={`${window.location.origin}/immi`}
+          // onClick={() => console.log("trr")}
+        >
+          immigration
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("nato") }}
+          href={`${window.location.origin}/nato`}
+          // onClick={() => console.log("trr")}
+        >
+          nato
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("crime") }}
+          href={`${window.location.origin}/crime`}
+          // onClick={() => console.log("trr")}
+        >
+          crime
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("renewables") }}
+          href={`${window.location.origin}/renewables`}
+          // onClick={() => console.log("trr")}
+        >
+          renewables
+        </a>
+        {space}
+        <a
+          onMouseEnter={hoverpathe}
+          style={{ color: "black", border: scrollPath("balance") }}
+          href={`${window.location.origin}/balance`}
+          // onClick={() => console.log("trr")}
+        >
+          balance
+        </a>
       </div>
     );
   }
