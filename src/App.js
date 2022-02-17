@@ -212,8 +212,8 @@ export default class App extends React.Component {
             title="Future of voting - thumbprint.us/voting steve trevalese login.gov intranet"
             scrolling={this.state.scrolling}
             fwd={this["scrollImg" + scrollnum()]}
-            scrollTopAndHeight={this.props.scrollTop + window.innerHeight}
-            scrollTop={this.props.scrollTop}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
           />
           imo login.gov conviect intranet end to end on cloud encryption and
           tamper proof dns grid malfeasance. the n word root is not racist, it
@@ -436,8 +436,8 @@ export default class App extends React.Component {
               title="Sliwa racket HACKENSACK MERIDIAN HEALTH RIVERVIEW MEDICAL CENTER -disparity crime vs penalty,  Mental health slander, zero evidence lest actual crime - https://youtu.be/AQ7h_U5G0fY"
               scrolling={this.state.scrolling}
               fwd={this["scrollImg" + scrollnum()]}
-              scrollTopAndHeight={this.props.scrollTop + window.innerHeight}
-              scrollTop={this.props.scrollTop}
+              scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+              scrollTop={this.state.scrollTop}
             />
             Open-source licensure save the animals release the meds, non-expiry
             claimables aren’t mechanic nor doctor hours, third party beneficiary
