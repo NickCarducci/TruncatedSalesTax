@@ -200,8 +200,8 @@ export default class App extends React.Component {
             }
             float="right"
             title="Future of voting - thumbprint.us/voting steve trevalese login.gov intranet"
-            scrolling={this.props.scrolling}
-            fwd={this.props["scrollImg" + scrollnum()]}
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + scrollnum()]}
             scrollTopAndHeight={this.props.scrollTop + window.innerHeight}
             scrollTop={this.props.scrollTop}
           />
@@ -424,7 +424,7 @@ export default class App extends React.Component {
               }
               float="left"
               title="Sliwa racket HACKENSACK MERIDIAN HEALTH RIVERVIEW MEDICAL CENTER -disparity crime vs penalty,  Mental health slander, zero evidence lest actual crime - https://youtu.be/AQ7h_U5G0fY"
-              scrolling={this.props.scrolling}
+              scrolling={this.state.scrolling}
               fwd={this["scrollImg" + scrollnum()]}
               scrollTopAndHeight={this.props.scrollTop + window.innerHeight}
               scrollTop={this.props.scrollTop}
@@ -734,6 +734,35 @@ export default class App extends React.Component {
           }
           float="left"
           title="https://www.linkedin.com/posts/nickcarducci_unemploymentbenefits-activity-6841120483153330176-xhhz"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        mental health is not care, it is involuntary committing. fucking kill me
+        <br />
+        <br />
+        affects of ways unknown, like prevalence as new states, not such
+        artifact alone, but basis of its controlled prevalence, by its
+        count/measure of square, no median dimensionial plane for normalcy of
+        away from known mean, n{">"}100 significance, lest you're a retard.
+        <h1>anxiety, depression, substance use and homocidal ideations</h1>
+        mental health professional 28% shortage of psychiatrists, what are the
+        benchmarks, the increases of non-biomedical diagnosis? all episodes are
+        reasonable or criminal. otherwise, fuck off, or have your head blown off
+        with a shotgun, for <a href="https://vaults.biz/">c1775</a> tea is
+        grounds of precedence.
+        <Cable
+          img={true}
+          style={{ width: "300px", height: "490px" }}
+          onError={handleScollImgError}
+          src={
+            this.state.nolinkedin
+              ? ""
+              : "https://www.dl.dropboxusercontent.com/s/2s5q7iziqzfsi84/Screen%20Shot%202022-02-17%20at%2011.37.48%20AM.png?dl=0"
+          }
+          float="left"
+          title=" Americans in Need: Responding to the National Mental Health Crisis"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
