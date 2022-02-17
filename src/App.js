@@ -1509,7 +1509,7 @@ export default class App extends React.Component {
         shuffleable sample/pop.
         <h2>
           I am Christian that doesn’t trust the New Testament; About Jesus, but
-          not about Jesus.
+          after, Jesus.
         </h2>
       </div>
     );
