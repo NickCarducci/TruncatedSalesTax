@@ -1231,6 +1231,16 @@ export default class App extends React.Component {
         <a href="https://fred.stlouisfed.org/graph/?g=M9j8">m2 basing</a>
         {space}off of 19% disabled{space}
         <a href="https://vaults.biz/gdp">investment bank, just "old," trust</a>.
+        <br />
+        <br />
+        Scott Galloway - Clinical Professor of Marketing, NYU Stern & Founder,
+        Section4
+        <br />
+        "The reason why entrepreneurs garner such incredible wealth and upside
+        if it's successful, is that the majority of people just aren't willing
+        to take the risk of public failure. Latest #PivotPodcast"
+        <br />
+        Or, less-Scientific indifference!
       </div>
     );
   }
