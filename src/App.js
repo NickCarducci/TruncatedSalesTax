@@ -1087,6 +1087,26 @@ export default class App extends React.Component {
           compound, or general-income, is on the way. Any retorts?
           <br />
           <br />
+          <Cable
+            onError={handleScollImgError}
+            //img={true}
+            style={{
+              maxwidth: "100%",
+              width: "300px",
+              height: "400px"
+            }}
+            src={
+              this.state.noyoutube
+                ? ""
+                : "https://www.youtube.com/embed/AQ7h_U5G0fY"
+            }
+            float="right"
+            title=" HACKENSACK MERIDIAN HEALTH RIVERVIEW MEDICAL CENTER Mental health slander, zero evidence lest actual crime https://youtu.be/AQ7h_U5G0fY"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + scrollnum()]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
           OM - are you ok?
           <br />
           <br />
@@ -1102,19 +1122,26 @@ export default class App extends React.Component {
         </div>
         <Cable
           onError={handleScollImgError}
-          //img={true}
+          img={true}
+          style={{
+            width: "100px",
+            height: "100px"
+          }}
           src={
             this.state.noyoutube
               ? ""
-              : "https://www.youtube.com/embed/AQ7h_U5G0fY"
+              : "https://www.dl.dropboxusercontent.com/s/u1v0jb41vxv9ffo/Scopebook%20logo%20%281%29.png?dl=0"
           }
           float="right"
-          title=" HACKENSACK MERIDIAN HEALTH RIVERVIEW MEDICAL CENTER Mental health slander, zero evidence lest actual crime https://youtu.be/AQ7h_U5G0fY"
+          title=" scopes.cc"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
+        Request for proposals, scope of requirements then scope of work,
+        itemized timeclock and material (sprint - NJ Consumer Fraud Act),
+        logging and mining until resale, variable. Are you drinking or not?
       </div>
     );
   }
