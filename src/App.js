@@ -1281,6 +1281,15 @@ export default class App extends React.Component {
         savings ( - exports) {">"} ex ante aggregate investments ( + imports)
         (and if the mechanism for bringing both sides into equilibrium is
         disturbed)"
+        <h3>
+          join the mob - not to plug both sides, $170t 'good-will' discounting
+          needed for cash-accounting (amortize); $167t 'unfunded liabilities'
+          44% 'general revenue' $829.5b/yr Medicare '19% disabled,' $1.2t/yr
+          SSA, $2.7t/yr 'healthcare,' $2.7t/yr 'residential housing,' $800b/yr
+          'residential stuctures,' $800b/yr 'commercial stuctures,' $?b/yr
+          'commercial leases?' $2t chequeing - the currency not 'money and
+          savings' m2-basing.
+        </h3>
         <h2>
           Discounting for over- or under-regulation, permits of 11/12 industry
           permit{space}
@@ -1296,7 +1305,7 @@ export default class App extends React.Component {
         STOP. We cash accountants have to discount your mistakes.
         <br />
         <br />
-        Thank god, you will never be successful with your Saver party, because
+        "Thank god, you will never be successful with your Saver party, because
         you are not able to explain your ideas in plain English. Anything that
         serves as money, has to be a bubble (because people demand it in order
         to exchange it for something else - thus demand is overblown). It’s
@@ -1307,7 +1316,7 @@ export default class App extends React.Component {
         more and more money (if there is deflation) and therefore raping money
         of it’s ability to serve as a means of exchange. As long as this is the
         case, I don’t care for goodwill. By the way, what do you mean with sdr?
-        (Special drawing rights?)
+        (Special drawing rights?)"
         <br />
         <br />I would describe your view as Mises and Rothbard - I look at the
         practical, -applied economics. You can describe my point of view as bona
