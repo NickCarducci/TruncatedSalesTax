@@ -1759,8 +1759,12 @@ export default class App extends React.Component {
         <br />
         <br />
         Why does an illegal rapist have any less rights to trade and live here
-        in America than a citizen, whom get arrested more often by 1%? Chris
-        Salcedo, the racist ‘spic
+        in America than a{space}
+        <a href="https://vaults.biz/immi">
+          citizen, whom get arrested more often by 1%
+        </a>
+        ? Chris Salcedo, the racist ‘spic. "Money to bail him out." Isn't that
+        your fault for accepting bail with evidence for standing?
       </div>
     );
   }
