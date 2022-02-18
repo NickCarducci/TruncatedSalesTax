@@ -1391,10 +1391,11 @@ export default class App extends React.Component {
         {space}
         as (efficient-) productivity. Elasticity of 1 means the slope of the
         Marginal Utility Indifference curves in Marginal Revenue Product (D’)
-        and Marginal Cost (S’) is 1/1 slope (*D’’, any-S’-price, with money, not
-        more MC per capita*) by consumers’-exchange of labor-borne-demand, lest
-        laborless-demand be dead-weight-box of **productive-efficiency** as
-        economic welfare, q*, of microeconomic Supply and Demand.
+        and Marginal Cost (S’) is 1/1 (or 1/0?) slope (*D’’, any-S’-price, with
+        money, not more MC per capita*) by consumers’-exchange of
+        labor-borne-demand, lest laborless-demand be dead-weight-box of
+        **productive-efficiency** as economic welfare, q*, of microeconomic
+        Supply and Demand.
         <br />
         <br />
         Hilary Clinton "Republicans will do nothing for paid leave laws, child
