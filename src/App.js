@@ -1708,8 +1708,17 @@ export default class App extends React.Component {
           taken over distribution as production ...Not productive-ward. After
           the real relation has long been made clear, why retrogress again?
         </div>
+        <br />
         illegal protests, for a finding that is illegal, state victimization is
         beyond jurisprudence
+        <br />
+        <br />
+        Homes are skyrocketing, but interest rates are too, so ‘own’ a home
+        today, at a rising price from good will last traded neighborhood price.
+        <h3><a href="https://qr.ae/pGQIyz">GDP/p overeating advancement</a></h3>
+        <h1>
+          donee collections{space}&bull;{space}vaults.biz/royalty
+        </h1>
       </div>
     );
   }
