@@ -1539,9 +1539,10 @@ export default class App extends React.Component {
         presented by lifetime-poop (sewage’s effect on bacteria) -
         <br />
         like education/emplyment, mental-health/drug-use diagnosis,
-        accident/high, rotting meat/maggots, or chicken/egg, correlated, but
-        coincident when derivative discounting for time-period n but itself is
-        zero.
+        accident/high (Duress or racket of class resolution malfeasance, I’ll
+        take your advice fool;go-to-: warn-tort-jail), rotting meat/maggots, or
+        chicken/egg, correlated, but coincident when derivative discounting for
+        time-period n but itself is zero.
         <br />
         • symptoms per case matches symptoms per population.
         <br />
