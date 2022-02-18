@@ -1625,7 +1625,8 @@ export default class App extends React.Component {
         "unfunded" liabilities). rehabilitation justifies incarceration? your
         subjective-opinion on what is in error... not a crime, neither is
         state-victimized controvertable truth by a lywing wtiness or oath, by
-        itself/artifact not with standing.
+        itself/artifact not with standing. non-exclusive artifact is onymoron if
+        all-cause has no planar-skew
       </div>
     );
   }
