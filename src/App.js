@@ -1614,6 +1614,9 @@ export default class App extends React.Component {
         (bond-holders) must relent on your laborless-demand, per time period or
         cross, and allow precinct spoofing for 3% under $2k equal is receipt and
         scope truncated production tax protocol.
+        <br />
+        damages is the only way to make assets as real as liabilities until
+        reverse-amortized.
       </div>
     );
   }
