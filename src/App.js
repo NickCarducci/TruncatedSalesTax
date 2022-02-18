@@ -1638,6 +1638,11 @@ export default class App extends React.Component {
         <br />
         density causes a (+) nominal BOT - prosecutors get paid with conflict of
         interest not by the plantiff but per diem net loss bond profit
+        <h2>
+          m2 basing for nothing tangible efficiency GDP/hour-GDP/p nor
+          productivity (income/hour)/home
+        </h2>
+        success in reversing finance will make these numbers higher
       </div>
     );
   }
