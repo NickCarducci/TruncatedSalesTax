@@ -1797,8 +1797,14 @@ export default class App extends React.Component {
         </a>
         {space}fold and plant for the 50+ business IP + land owner caste.
         doctors kill 150k/yr ppl, 50m/yr worldwide excess expected, more than
-        "covid" uncorrelated and by basis death rate and symptoms of random
-        selection (1% population, 50% population)
+        "covid" uncorrelated and by{space}
+        <a href="https://www.quora.com/If-Covid-is-asymptomatic-does-that-mean-it-is-uncorrelated">
+          basis death rate
+        </a>
+        {space}and symptoms of random selection (1% population, 50% population).
+        due process nor law, any accord they want to, past couple hours -
+        blocking traffic for livlihood, kill Trudeau! (30% still there, after
+        window breaking drivers)
       </div>
     );
   }
