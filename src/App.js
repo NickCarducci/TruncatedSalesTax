@@ -1553,9 +1553,11 @@ export default class App extends React.Component {
           retributional cash accounts{space}&bull;{space}amortization
         </h3>
         {/*accountable cash and retributions, teapharmacy.party/drugs, vaults.biz/c775*/}
-        ambush the pharmacies - who is innocent and who is not, if cops
-        arresting cannot, how can a judge without evidence and 11/12 industry
-        jury conviction? - thumbprint.us/voting vaults.biz/gmu
+        ambush the pharmacies - arrest the noknock warrant policies (unless
+        murder for spite alone, no reprimand of surrendered freedoms) - who is
+        innocent and who is not, if cops arresting cannot, how can a judge
+        without evidence and 11/12 industry jury conviction? -
+        thumbprint.us/voting vaults.biz/gmu
         <br />
         conflict of interst Article 1.8 bond-tax oxymoron{space}&bull;{space}
         investment bank cops
