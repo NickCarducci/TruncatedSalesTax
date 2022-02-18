@@ -1638,6 +1638,7 @@ export default class App extends React.Component {
         <br />
         density causes a (+) nominal BOT - prosecutors get paid with conflict of
         interest not by the plantiff but per diem net loss bond profit
+        <h1>transaction-fee-based-sdr</h1>
         <h2>
           m2 basing for nothing tangible efficiency GDP/hour-GDP/p nor
           productivity (income/hour)/home
@@ -1661,7 +1662,8 @@ export default class App extends React.Component {
             disorderly significant
           </a>
           ,{space}
-          <a href="https://vaults.biz/statistic">absolute{/**Matt Foldi*/}</a>{space}view
+          <a href="https://vaults.biz/statistic">absolute{/**Matt Foldi*/}</a>
+          {space}view
         </h1>
         <h2>
           <a href="https://www.quora.com/If-Covid-is-asymptomatic-does-that-mean-it-is-uncorrelated">
@@ -1670,7 +1672,9 @@ export default class App extends React.Component {
         </h2>
         vouchers has lifted up employment by education funding, same class size.
         taxing from outside the market is pure elasticity waste for
-        laborless-demand, lower (income/hour)/home and GDP/hour-GDP/p
+        laborless-demand, lower (income/hour)/home and GDP/hour-GDP/p. artifact
+        triangulation = derivative with mean, deflated (change-rate by
+        change-rate).
       </div>
     );
   }
