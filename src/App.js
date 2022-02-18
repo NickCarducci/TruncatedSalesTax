@@ -1562,6 +1562,10 @@ export default class App extends React.Component {
         <br />
         conflict of interst Article 1.8 bond-tax oxymoron{space}&bull;{space}
         investment bank cops
+        <br />
+        <br />
+        leisure (chore, copy, science) financial goals GDP - integrally
+        population and GDP/p furthermore is tech deprecation.
       </div>
     );
   }
