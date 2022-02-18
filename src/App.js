@@ -1752,7 +1752,10 @@ export default class App extends React.Component {
         <br />
         You don’t get more stuff by subsidization.
         <br />
-        Gentrification is elasticity.
+        free-science and 3% under $2k equal in receipt and scope truncated
+        production tax
+        <h3>Gentrification is elasticity. Threats of thruway blockage.</h3>
+        <h2>fees for guaranteed estimates as property is a false bid</h2>
         <br />
         <br />
         why is inflation value dollar concurrentable then non-concurrentable
