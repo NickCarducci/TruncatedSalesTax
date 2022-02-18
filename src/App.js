@@ -1727,7 +1727,10 @@ export default class App extends React.Component {
         eating cpi gains, and doesn't include assets (equality=poverty), that
         are like productive-ward of profits to labor. $b in damage (don’t
         appreciate by neighborhood appraisal, 19% disabled/average-cuck).
-        Concurrentable-inventory.
+        Concurrentable-inventory. $21t in retirement accounts, of $2t chequeing,
+        market communist assets over currency by “money and savings” good will
+        last traded pneighborhood price, collateralized, nonconcurrentable-false
+        bid, loiter-contractor-scorn.
       </div>
     );
   }
