@@ -1721,6 +1721,7 @@ export default class App extends React.Component {
         <h1>
           donee collections{space}&bull;{space}vaults.biz/royalty
         </h1>
+        <h3>reverse land-deeds: exploration-royalties</h3>
         workers for poverty lessening is gentrifying themselves, as equality (of
         assets priced by its liabilities) is when labor skew average isn't
         eating cpi gains, and doesn't include assets (equality=poverty), that
