@@ -1651,7 +1651,11 @@ export default class App extends React.Component {
         <br />
         ID.me is descriptive, thumbprint is the political compass by vector.
         Domain gives standing on its implications, likely matching its
-        broadness.
+        broadness. "Is this a startegy to ruin the currencyby a bank run?" That
+        would ruin the good-will collateralied "value" artifactual-retard. “This
+        is not like judge stop payment al queda, freezing bank account (KYC).” Is not
+        new, the permits without conviction and with reasonable doubts is, 1/12
+        industry.
       </div>
     );
   }
