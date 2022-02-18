@@ -1642,7 +1642,11 @@ export default class App extends React.Component {
           m2 basing for nothing tangible efficiency GDP/hour-GDP/p nor
           productivity (income/hour)/home
         </h2>
-        success in reversing finance will make these numbers higher
+        success in reversing finance will make these numbers higher.
+        <br />
+        “Enemies can fund their defenses with tax-payer dollars (in this
+        instance, he is talking about ‘money and savings’ not chequeing).”
+        -Blake Hall, ID.me, scapegoat for 19% ‘disabled’ write-down.
       </div>
     );
   }
