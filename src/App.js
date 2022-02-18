@@ -1598,7 +1598,10 @@ export default class App extends React.Component {
         , each.
         <br />
         "you will always have projects that go over," says the{space}
-        <a href="https://vaults.biz/insurance">Luddite Intuit</a>
+        <a href="https://vaults.biz/insurance">Luddite Intuit</a>. Is working
+        for someone elses' profit really a "
+        <a href="https://fred.stlouisfed.org/graph/?g=M9j8">good use of time</a>
+        ?"
       </div>
     );
   }
