@@ -1653,9 +1653,18 @@ export default class App extends React.Component {
         Domain gives standing on its implications, likely matching its
         broadness. "Is this a startegy to ruin the currencyby a bank run?" That
         would ruin the good-will collateralied "value" artifactual-retard. “This
-        is not like judge stop payment al queda, freezing bank account (KYC).” Is not
-        new, the permits without conviction and with reasonable doubts is, 1/12
-        industry.
+        is not like judge stop payment al queda, freezing bank account (KYC).”
+        Is not new, the permits without conviction and with reasonable doubts
+        is, 1/12 industry.
+        <h1>
+          <a href="https://fred.stlouisfed.org/graph/?g=M9j8">
+            disorderly significant, absolute{/**Matt Foldi*/}
+          </a>
+        </h1>
+<h2><a href="https://www.quora.com/If-Covid-is-asymptomatic-does-that-mean-it-is-uncorrelated">Spearman v Pearson</a></h2>
+        vouchers has lifted up employment by education funding, same class size.
+        taxing from outside the market is pure elasticity waste for
+        laborless-demand, lower (income/hour)/home and GDP/hour-GDP/p
       </div>
     );
   }
