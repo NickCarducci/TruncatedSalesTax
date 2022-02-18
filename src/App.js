@@ -1143,9 +1143,11 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
-        Request for proposals, scope of requirements then scope of work,
-        itemized timeclock and material (sprint - NJ Consumer Fraud Act),
-        logging and mining until resale, variable. Are you drinking or not?
+        <h3>
+          Request for proposals, scope of requirements then scope of work,
+          itemized timeclock and material (sprint - NJ Consumer Fraud Act),
+          logging and mining until resale, variable. Are you drinking or not?
+        </h3>
         <br />
         <br />
         Polls says the people want privacy only for citizens (watergate, spy v
