@@ -1726,7 +1726,7 @@ export default class App extends React.Component {
         assets priced by its liabilities) is when labor skew average isn't
         eating cpi gains, and doesn't include assets (equality=poverty), that
         are like productive-ward of profits to labor. $b in damage (don’t
-        appreciate by neighborhood appraisal, cuck).
+        appreciate by neighborhood appraisal, cuck). Concurrentable-inventory.
       </div>
     );
   }
