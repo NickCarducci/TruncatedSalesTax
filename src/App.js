@@ -1767,7 +1767,9 @@ export default class App extends React.Component {
         your fault for accepting bail with evidence for standing?
         <br />
         <br />I would sooner decapitate Mitt Romney than take vaxx, for
-        science-consensus is neigh, nor take credit as income, or let him
+        science-consensus is neigh, nor take credit as income, or let him. Judge
+        danger, ridiculous that it exists nationwide, not that Ny doesn’t allow
+        conviction without evidence Cut out her tongue
       </div>
     );
   }
