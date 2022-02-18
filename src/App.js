@@ -1632,6 +1632,10 @@ export default class App extends React.Component {
           age shortage and eaten -GDP/p tech advancement by 19% disabled trust..
         </h2>
         false bid pool loss investment bank, 'seems like an upgrade'
+        <br />
+        <br />
+        density causes a (+) nominal BOT - prosecutors get paid with conflict of
+        interest not by the plantiff but per diem net loss bond profit
       </div>
     );
   }
