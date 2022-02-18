@@ -1621,7 +1621,11 @@ export default class App extends React.Component {
         reverse-amortized.
         <br />
         Subscription on tech/copy for what but loss, or fair quality? Not
-        really, copies aren’t elastic (like good will "assets" priced by "unfunded" liabilities)
+        really, copies aren’t elastic (like good will "assets" priced by
+        "unfunded" liabilities). rehabilitation justifies incarceration? your
+        subjective-opinion on what is in error... not a crime, neither is
+        state-victimized controvertable truth by a lywing wtiness or oath, by
+        itself/artifact not with standing.
       </div>
     );
   }
