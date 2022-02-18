@@ -1782,6 +1782,8 @@ export default class App extends React.Component {
         trade by strong dollar. Tariffs over science is as well. Borders, for
         investment bank 19% disabled trust? False bids are MY bids.
         <h2>I am pro-war with the 19% 'disabled'</h2>
+        $6t 'emergency' spending says the right, $2t chequeing exists,
+        labor-borne-demand
       </div>
     );
   }
