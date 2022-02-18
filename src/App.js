@@ -1769,7 +1769,9 @@ export default class App extends React.Component {
         <br />I would sooner decapitate Mitt Romney than take vaxx, for
         science-consensus is neigh, nor take credit as income, or let him. Judge
         danger, ridiculous that it exists nationwide, not that Ny doesn’t allow
-        conviction without evidence Cut out her tongue.
+        conviction without evidence Cut out her tongue. I don’t want to go to
+        war, drop dead socialists.” We all want you dead.{space}
+        <a href="https://vaults.biz/rcv">99% didn't vote for you</a>.
         <br />
         <br />
         You are going to be out of federal money, investment in bonds, that is a
