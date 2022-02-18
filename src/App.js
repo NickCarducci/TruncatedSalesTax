@@ -1715,10 +1715,16 @@ export default class App extends React.Component {
         <br />
         Homes are skyrocketing, but interest rates are too, so ‘own’ a home
         today, at a rising price from good will last traded neighborhood price.
-        <h3><a href="https://qr.ae/pGQIyz">GDP/p overeating advancement</a></h3>
+        <h3>
+          <a href="https://qr.ae/pGQIyz">GDP/p overeating advancement</a>
+        </h3>
         <h1>
           donee collections{space}&bull;{space}vaults.biz/royalty
         </h1>
+        workers for poverty lessening is gentrifying themselves, as equality (of
+        assets priced by its liabilities) is when labor skew average isn't
+        eating cpi gains, and doesn't include assets (equality=poverty), that
+        are like productive-ward of profits to labor.
       </div>
     );
   }
