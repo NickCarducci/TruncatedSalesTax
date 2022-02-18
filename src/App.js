@@ -1681,8 +1681,36 @@ export default class App extends React.Component {
         this too, surrended freedom of SAVERS.
         <br />
         <br />
-        CORS origin prevents DDOS attacks, I don't know what the pentagon is
-        doing
+        CORS origin prevents DDOS attacks, I don't know what the pentagon{" "}
+        {/*(Charles Marino DHS President) */}is doing
+        <br />
+        <br />
+        The right likes to convict without evicence, just juridictatorial
+        prejudice. Good will working for corporates Unrepentant terrorists,
+        repent from a stance? Or actually prohibiting trade?
+        <br />
+        <br />
+        Marx wrote against the GDP/hour-GDP/p and (income/hour)/home lower
+        retards.
+        <br />
+        <br />
+        {/* "Which types of wealth are lacking?"
+<br/>
+        Labor-borne-demand, GDP/hour-GDP/p.*/}
+        <div style={{ marginLeft: "5px", borderLeft: "3px blue solid" }}>
+          Communism deprives no man of the power to appropriate the products of
+          society; all that it does is to deprive him of the power to subjugate
+          the labour of others by means of such appropriations.
+        </div>
+        <br />
+        <div style={{ marginLeft: "5px", borderLeft: "3px blue solid" }}>
+          Vulgar socialism (and from it in turn a section of the democrats) has
+          taken over from the bourgeois economists the consideration and
+          treatment of distribution as independent of the mode of production and
+          hence the presentation of socialism as turning principally on
+          distribution. After the real relation has long been made clear, why
+          retrogress again?
+        </div>
       </div>
     );
   }
