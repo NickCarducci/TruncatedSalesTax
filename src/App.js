@@ -1756,6 +1756,11 @@ export default class App extends React.Component {
         why is inflation value dollar concurrentable then non-concurrentable
         value by proxy-neighbor trade (every home is valued by individual last
         trade) when the former doesn't exhaust inventory?
+        <br />
+        <br />
+        Why does an illegal rapist have any less rights to trade and live here
+        in America than a citizen, whom get arrested more often by 1%? Chris
+        Salcedo, the racist ‘spic
       </div>
     );
   }
