@@ -1647,6 +1647,11 @@ export default class App extends React.Component {
         “Enemies can fund their defenses with tax-payer dollars (in this
         instance, he is talking about ‘money and savings’ not chequeing).”
         -Blake Hall, ID.me, scapegoat for 19% ‘disabled’ write-down.
+        <br />
+        <br />
+        ID.me is descriptive, thumbprint is the political compass by vector.
+        Domain gives standing on its implications, likely matching its
+        broadness.
       </div>
     );
   }
