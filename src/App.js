@@ -1674,7 +1674,11 @@ export default class App extends React.Component {
         taxing from outside the market is pure elasticity waste for
         laborless-demand, lower (income/hour)/home and GDP/hour-GDP/p. artifact
         triangulation = derivative with mean, deflated (change-rate by
-        change-rate).
+        change-rate). home warranty Ad, false bid pool loss investment bank over
+        currency chequeing for labor-eqity Savings' land-deeds, turning point
+        USA says, what if Chase writes down the money and savings good will
+        collateralized by unfunded liabilities? "Line-of-credit" does exactly
+        this too, surrended freedom of SAVERS.
       </div>
     );
   }
