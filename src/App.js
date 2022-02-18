@@ -1542,7 +1542,9 @@ export default class App extends React.Component {
         fixing for biological average age at death being Alzheimer’s age and
         presented by lifetime-poop (sewage’s effect on bacteria) -
         <br />
-        like education/emplyment, mental-health/drug-use diagnosis,
+        like education/employment (more employment by education artifact without
+        basis or derivative negative for gentrification elasticity of labor
+        nearly 0 output for 1 slope), mental-health/drug-use diagnosis,
         accident/high (Duress or racket of class resolution malfeasance, I’ll
         take your advice fool;go-to-: warn-tort-jail), rotting meat/maggots, or
         chicken/egg, correlated, but coincident when derivative discounting for
