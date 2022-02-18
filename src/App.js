@@ -1619,6 +1619,9 @@ export default class App extends React.Component {
         <br />
         damages is the only way to make assets as real as liabilities until
         reverse-amortized.
+        <br />
+        Subscription on tech/copy for what but loss, or fair quality? Not
+        really, copies aren’t elastic (like good will "assets" priced by "unfunded" liabilities)
       </div>
     );
   }
