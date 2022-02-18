@@ -1556,6 +1556,9 @@ export default class App extends React.Component {
         ambush the pharmacies - who is innocent and who is not, if cops
         arresting cannot, how can a judge without evidence and 11/12 industry
         jury conviction? - thumbprint.us/voting vaults.biz/gmu
+        <br />
+        conflict of interst Article 1.8 bond-tax oxymoron{space}&bull;{space}
+        investment bank cops
       </div>
     );
   }
