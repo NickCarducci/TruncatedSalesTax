@@ -1705,11 +1705,8 @@ export default class App extends React.Component {
         <br />
         <div style={{ marginLeft: "5px", borderLeft: "3px blue solid" }}>
           Vulgar socialism (and from it in turn a section of the democrats) has
-          taken over from the bourgeois economists the consideration and
-          treatment of distribution as independent of the mode of production and
-          hence the presentation of socialism as turning principally on
-          distribution. After the real relation has long been made clear, why
-          retrogress again?
+          taken over distribution as production ...Not productive-ward. After
+          the real relation has long been made clear, why retrogress again?
         </div>
       </div>
     );
