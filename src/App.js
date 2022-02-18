@@ -1679,6 +1679,10 @@ export default class App extends React.Component {
         USA says, what if Chase writes down the money and savings good will
         collateralized by unfunded liabilities? "Line-of-credit" does exactly
         this too, surrended freedom of SAVERS.
+        <br />
+        <br />
+        CORS origin prevents DDOS attacks, I don't know what the pentagon is
+        doing
       </div>
     );
   }
