@@ -1532,7 +1532,11 @@ export default class App extends React.Component {
         <br />
         • deaths per case matches deaths per population, single age specific,
         fixing for biological average age at death being Alzheimer’s age and
-        presented by lifetime-poop (sewage’s effect on bacteria).
+        presented by lifetime-poop (sewage’s effect on bacteria) -
+        <br />
+        like education/emplyment, or mental-health/drug-use diagnosis,
+        correlated, but coincident when derivative discounting for time-period n
+        but itself is zero.
         <br />
         • symptoms per case matches symptoms per population.
         <br />
@@ -1544,7 +1548,7 @@ export default class App extends React.Component {
         <h3>
           retributional cash accounts{space}&bull;{space}amortization
         </h3>
-        {/*accountable cash and retributions*/}
+        {/*accountable cash and retributions, teapharmacy.party/drugs, vaults.biz/c775*/}
         ambush the pharmacies
       </div>
     );
