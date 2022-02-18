@@ -1524,8 +1524,10 @@ export default class App extends React.Component {
         Fines aren’t so punitive when the crime has a tortuous victimized
         plaintiff; it only works for speeding like price controls work for
         operational monopolies, intent for implausible landlord purchase use
-        above 5, and quality for minimal viable product duress or surrender by
-        false bid.
+        above 5, and
+        <h3>
+          quality for minimal viable product duress or surrender by false bid.
+        </h3>
         <br />
         Hardly can jail for speeding, warning, tort and jail, still. Ingredient
         list open without licensure. Intranet convict NFC MotorVehicle consumer
@@ -1624,7 +1626,7 @@ export default class App extends React.Component {
         really, copies aren’t elastic (like good will "assets" priced by
         "unfunded" liabilities). rehabilitation justifies incarceration? your
         subjective-opinion on what is in error... not a crime, neither is
-        state-victimized controvertable truth by a lywing wtiness or oath, by
+        state-victimized controvertable truth by a lywing witness or oath, by
         itself/artifact not with standing. non-exclusive artifact is onymoron if
         all-cause has no planar-skew
         <h2>
