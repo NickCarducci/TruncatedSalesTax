@@ -1524,6 +1524,27 @@ export default class App extends React.Component {
         Hardly can jail for speeding, warning, tort and jail, still. Ingredient
         list open without licensure. Intranet convict NFC MotorVehicle consumer
         surrogate.
+        <br />
+        <br />
+        Conflict of interest begets lesser jury-industry variable threshold.
+        <br />
+        Virion is a weapon or not correlated by artifact per capita:
+        <br />
+        • deaths per case matches deaths per population, single age specific,
+        fixing for biological average age at death being Alzheimer’s age and
+        presented by lifetime-poop (sewage’s effect on bacteria).
+        <br />
+        • symptoms per case matches symptoms per population.
+        <br />
+        - especially with overlap (finance on homes and appliance), not
+        whistleblowers.
+        <br />
+        <br />
+        Losing appeal fines (remits-redactions) insulated in judge pay -
+        <h3>
+          retributional cash accounts{space}&bull;{space}amortization
+        </h3>
+        {/*accountable cash and retributions*/}
       </div>
     );
   }
