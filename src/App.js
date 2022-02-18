@@ -1765,6 +1765,9 @@ export default class App extends React.Component {
         </a>
         ? Chris Salcedo, the racist ‘spic. "Money to bail him out." Isn't that
         your fault for accepting bail with evidence for standing?
+        <br />
+        <br />I would sooner decapitate Mitt Romney than take vaxx, for
+        science-consensus is neigh
       </div>
     );
   }
