@@ -1751,6 +1751,11 @@ export default class App extends React.Component {
         You don’t get more stuff by subsidization.
         <br />
         Gentrification is elasticity.
+        <br />
+        <br />
+        why is inflation value dollar concurrentable then non-concurrentable
+        value by proxy-neighbor trade (every home is valued by individual last
+        trade) when the former doesn't exhaust inventory?
       </div>
     );
   }
