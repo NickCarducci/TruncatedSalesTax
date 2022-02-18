@@ -1545,6 +1545,7 @@ export default class App extends React.Component {
           retributional cash accounts{space}&bull;{space}amortization
         </h3>
         {/*accountable cash and retributions*/}
+        ambush the pharmacies
       </div>
     );
   }
