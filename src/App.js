@@ -1515,6 +1515,15 @@ export default class App extends React.Component {
         <h3>
           investment bank{space}&bull;{space}science
         </h3>
+        Fines aren’t so punitive when the crime has a tortuous victimized
+        plaintiff; it only works for speeding like price controls work for
+        operational monopolies, intent for implausible landlord purchase use
+        above 5, and quality for minimal viable product duress or surrender by
+        false bid.
+        <br />
+        Hardly can jail for speeding, warning, tort and jail, still. Ingredient
+        list open without licensure. Intranet convict NFC MotorVehicle consumer
+        surrogate.
       </div>
     );
   }
