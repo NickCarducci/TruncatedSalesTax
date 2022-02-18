@@ -1584,8 +1584,10 @@ export default class App extends React.Component {
         currency (chequueing, cash accounting{space}
         <a href="https://vaults.biz/newecon">amortized</a>, not 'money' nor
         'savings') "people are seriously looking into the 4 week workweek, labor
-        skew tech advancement for lower poverty (average-income under cpi) and
-        increasing inequaltiy of{space}
+        skew{space}
+        <a href="https://qr.ae/pGQphW">tech advancement</a>
+        {space}for lower poverty (average-income under cpi) and increasing
+        inequaltiy of{space}
         <a href="https://vaults.biz/marx">productive-ward</a>."
         <br />
         dudes starty talking like faggots when I catch them. Gene Marx, Marx
@@ -1602,6 +1604,9 @@ export default class App extends React.Component {
         for someone elses' profit really a "
         <a href="https://fred.stlouisfed.org/graph/?g=M9j8">good use of time</a>
         ?"
+        <br />
+        <br />
+        <a href="https://qr.ae/pGQpho">me sure, there is a con I see</a>.
       </div>
     );
   }
