@@ -1776,6 +1776,12 @@ export default class App extends React.Component {
         <br />
         You are going to be out of federal money, investment in bonds, that is a
         good thing!
+        <br />
+        <br />
+        America first by weak dollar is always retarded, positive balance of
+        trade by strong dollar. Tariffs over science is as well. Borders, for
+        investment bank 19% disabled trust? False bids are MY bids.
+        <h2>I am pro-war with the 19% 'disabled'</h2>
       </div>
     );
   }
