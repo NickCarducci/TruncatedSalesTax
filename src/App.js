@@ -1725,7 +1725,8 @@ export default class App extends React.Component {
         workers for poverty lessening is gentrifying themselves, as equality (of
         assets priced by its liabilities) is when labor skew average isn't
         eating cpi gains, and doesn't include assets (equality=poverty), that
-        are like productive-ward of profits to labor.
+        are like productive-ward of profits to labor. $b in damage (don’t
+        appreciate by neighborhood appraisal, cuck).
       </div>
     );
   }
