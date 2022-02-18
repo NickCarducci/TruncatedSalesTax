@@ -1731,6 +1731,26 @@ export default class App extends React.Component {
         market communist assets over currency by “money and savings” good will
         last traded pneighborhood price, collateralized, nonconcurrentable-false
         bid, loiter-contractor-scorn.
+        <br />
+        <br />
+        "weaker" is subjective.
+        <br />
+        Resist arrest only puts cops in danger when the cops arrest them as they
+        run, without an actual crime, like pharmacy trust building and
+        gentrification by government,
+        rent-seeking-scienceless-banked-investments.
+        <br />
+        money don't wash dishes, just pays more for the same.
+        <br />
+        GDP/p only grows because of laborless-demand, given{space}
+        <a href="https://vaults.biz/gdp">GDP/p</a>
+        {space}
+        1800–1913 amidst 3%/yr+ population, was flat. Inflation is assuredly not
+        prices because cost of living homes is not included.
+        <br />
+        You don’t get more stuff by subsidization.
+        <br />
+        Gentrification is elasticity.
       </div>
     );
   }
