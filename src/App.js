@@ -1708,6 +1708,8 @@ export default class App extends React.Component {
           taken over distribution as production ...Not productive-ward. After
           the real relation has long been made clear, why retrogress again?
         </div>
+        illegal protests, for a finding that is illegal, state victimization is
+        beyond jurisprudence
       </div>
     );
   }
