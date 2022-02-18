@@ -1565,7 +1565,40 @@ export default class App extends React.Component {
         <br />
         <br />
         leisure (chore, copy, science) financial goals GDP - integrally
-        population and GDP/p furthermore is tech deprecation.
+        population and GDP/p furthermore is{space}
+        <a href="https://vaults.biz/inflation">tech deprecation</a>.
+        <br />
+        <br />
+        3%under2k production geohash/mo ppp trust-building gerontocracy
+        plandemic: CPA, "50+ business owners."
+        <br />
+        <br />
+        "Are prominent economists warming up to central planning?"
+        <br />
+        Nick Carducci - BA in Political Science & Economics, Johns Hopkins
+        University (Graduated 2015)1h Nick Carducci BA in Political Science &
+        Economics, Johns Hopkins University (Graduated 2015)
+        <br />
+        That is the ONLY way you become prominent in economics. Millennials
+        aren't delinquent like the 19% disabled investment banks over the
+        currency (chequueing, cash accounting{space}
+        <a href="https://vaults.biz/newecon">amortized</a>, not 'money' nor
+        'savings') "people are seriously looking into the 4 week workweek, labor
+        skew tech advancement for lower poverty (average-income under cpi) and
+        increasing inequaltiy of{space}
+        <a href="https://vaults.biz/marx">productive-ward</a>."
+        <br />
+        dudes starty talking like faggots when I catch them. Gene Marx, Marx
+        HTMLOptGroupElement, @genemarx prices per rent so affordable on
+        commercial real estate these days, commercial leases does not get
+        enumerated in PCE,{space}
+        <a href="https://froth.app">
+          $800b/yr residential and commercial costs
+        </a>
+        , each.
+        <br />
+        "you will always have projects that go over," says the{space}
+        <a href="https://vaults.biz/insurance">Luddite Intuit</a>
       </div>
     );
   }
