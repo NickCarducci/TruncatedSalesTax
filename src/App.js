@@ -1658,10 +1658,16 @@ export default class App extends React.Component {
         is, 1/12 industry.
         <h1>
           <a href="https://fred.stlouisfed.org/graph/?g=M9j8">
-            disorderly significant, absolute{/**Matt Foldi*/}
+            disorderly significant
           </a>
+          ,{space}
+          <a href="https://vaults.biz/statistic">absolute{/**Matt Foldi*/}</a>{space}view
         </h1>
-<h2><a href="https://www.quora.com/If-Covid-is-asymptomatic-does-that-mean-it-is-uncorrelated">Spearman v Pearson</a></h2>
+        <h2>
+          <a href="https://www.quora.com/If-Covid-is-asymptomatic-does-that-mean-it-is-uncorrelated">
+            Spearman v Pearson
+          </a>
+        </h2>
         vouchers has lifted up employment by education funding, same class size.
         taxing from outside the market is pure elasticity waste for
         laborless-demand, lower (income/hour)/home and GDP/hour-GDP/p
