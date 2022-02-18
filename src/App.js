@@ -1791,7 +1791,14 @@ export default class App extends React.Component {
         labor-borne-demand
         <br />
         <br />
-        Pygmy white bond-pigs - Jiggers fold and plant
+        Pygmy white bond-pigs - ccc/bbb/ppp{space}
+        <a href="https://www.yumpu.com/en/document/read/18596138/slave-narratives-library-of-congress/41">
+          Jiggers
+        </a>
+        {space}fold and plant for the 50+ business IP + land owner caste.
+        doctors kill 150k/yr ppl, 50m/yr worldwide excess expected, more than
+        "covid" uncorrelated and by basis death rate and symptoms of random
+        selection (1% population, 50% population)
       </div>
     );
   }
