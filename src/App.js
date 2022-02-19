@@ -2202,9 +2202,9 @@ export default class App extends React.Component {
         </h2>
         employ more people is tech advancement, pay taxes to employ people for
         government profits defeats the purpose of government anti-trust, in
-        fighting monopolies.
+        fighting monopolies. Trying to secure ventilators with an investment
+        bank over the currency just lowers poverty and equality, by labor skew.
       </div>
     );
   }
 }
-
