@@ -2147,6 +2147,9 @@ export default class App extends React.Component {
         <br />
         Health professionals, shouldn’t statisticians? Do you not understand
         conflict of interest?
+        <br />
+        <br />
+        "unprovoked invasion" for sanctions, like eloping for an unknown siringe
       </div>
     );
   }
