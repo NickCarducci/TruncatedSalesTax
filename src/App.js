@@ -1954,6 +1954,13 @@ export default class App extends React.Component {
         too much ‘money’ (or ‘
         <a href="https://www.yardeni.com/pub/monetagg.pdf">savings</a>,’ not
         checking) chasing too few goods,’ is a confusing monicker.
+        <br />
+        <h2>
+          “Lump with other business, and you could get overcharged,” trypie.com
+          admitting insurance false bid pool is a{space}
+          <a href="https://vaults.biz/insurance">loss</a>, donee invoicing for
+          non-insulated house-win fee ‘prize’ payout/outlay
+        </h2>
       </div>
     );
   }
