@@ -2101,6 +2101,11 @@ export default class App extends React.Component {
         garbage-collect one has no impact of aggregate hospitalizations nor
         death, doctors shouldn't be doing statistics, they should consult
         independent-professionals.
+        {/**level change [time,but just afterwards oh look deads while now] of rate */}
+        <br />
+        <br />
+        "proper mask," stops dust, which spittle doesn't use. Bacteria causes
+        disease, but pandemic was expected by econometrists like me
       </div>
     );
   }
