@@ -2223,6 +2223,9 @@ export default class App extends React.Component {
         fighting monopolies. Trying to secure ventilators with an investment
         bank over the currency just lowers poverty and equality, by labor skew.
         {/*that money is not going to the right place - don't be a chode*/}
+        <br />
+        <br />
+        wet nurses stopped 1905
       </div>
     );
   }
