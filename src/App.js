@@ -1966,7 +1966,17 @@ export default class App extends React.Component {
         </h2>
         <a href="https://qr.ae/pGQnr0">infrastructure</a>? tea pharmacy{space}
         <a href="https://qr.ae/pGQtZ0">critics</a>?<br />
-        profit is a loss, poverty is competition
+        profit is a loss (collective account, flaccid), poverty is competition
+        <br />
+        <br />
+        Spokesperson for shakedown.
+        <br />
+        'Rockefeller against fossil fuels,' burning the wooden ladder,
+        {space}
+        <a href="https://qr.ae/pGQtJs">deprecation</a>. so important for
+        conciousness stream to be unique, for 'unsorted'{space}
+        <a href="https://qr.ae/pGQnYg">mean-finding</a>, at least, whatever the
+        fuck now that means
       </div>
     );
   }
