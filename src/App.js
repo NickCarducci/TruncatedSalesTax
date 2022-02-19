@@ -1955,6 +1955,9 @@ export default class App extends React.Component {
         <a href="https://www.yardeni.com/pub/monetagg.pdf">savings</a>,’ not
         checking) chasing too few goods,’ is a confusing monicker.
         <br />
+        <a href="https://fred.stlouisfed.org/graph/?g=M95H">
+          [GDP/yr, new Debt/yr, chequeing]/p
+        </a>
         <h2>
           “Lump with other business, and you could get overcharged,” trypie.com
           admitting insurance false bid pool is a{space}
