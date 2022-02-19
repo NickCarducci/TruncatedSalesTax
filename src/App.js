@@ -2187,6 +2187,13 @@ export default class App extends React.Component {
         with 15 yr olds)
         <br />
         <a href="https://qr.ae/pGQpho">Police staffing is low</a>
+        <br />
+        <br />
+        Can start anew every year with cash accounting of no amortization
+        required, amortized equating balance ($0:$0 good-will:liabilities).
+        <h2>
+          <a href="https://vaults.biz/c1775">terror</a>
+        </h2>
       </div>
     );
   }
