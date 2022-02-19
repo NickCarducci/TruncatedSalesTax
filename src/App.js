@@ -2165,6 +2165,9 @@ export default class App extends React.Component {
         . Please, do testing, or cite your{space}
         <a href="https://www.cmu.edu/common-cold-project/">sources</a>, Dr Hugh
         McTavish, you cannot walk back a century of basis rate fallacy.
+        <br />
+        <br />
+        word salad, mental health is not a biomedical diagnosis.
       </div>
     );
   }
