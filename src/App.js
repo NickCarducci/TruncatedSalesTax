@@ -2095,9 +2095,9 @@ export default class App extends React.Component {
         <br />
         <br />
         not even correlated is virion with death nor symptoms, by derivative,
-        where n{"<"}population is assumed to be mean-found. “The omicron ends
-        the pandemic,” as excess-deaths drops back down to constant population
-        growth, life expectancy ago.
+        where n{"<"}population/all-time is assumed to be mean-found. “The
+        omicron ends the pandemic,” as excess-deaths drops back down to constant
+        population growth, life expectancy ago.
       </div>
     );
   }
