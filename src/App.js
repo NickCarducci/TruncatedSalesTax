@@ -1810,6 +1810,44 @@ export default class App extends React.Component {
         You can’t stop poverty, that is equality of assets when inflation is no
         more than income skew and labor-borne-demand, flat tax is government
         trust, you’re gentrification yourself
+        <br />
+        <br />
+        Faster buying bonds, more money, financing federal spending, big
+        government socialism, supposedly compete with China, just state run
+        Pickens,{space}
+        <a href="https://qr.ae/pGQpho">outrun China</a>? We won’t. Free market
+        economics & entrepreneurship. $200m semiconductors, we don’t need it,
+        {space}
+        <a href="https://qr.ae/pGQtZ8">nor will it accomplish anything</a>.
+        <br />
+        Inflation continues, ways and means,{space}
+        <a href="https://qr.ae/pGQtZ0">cut the spending</a>. Pause, reform
+        welfare without investment bank, by requiring work, then{space}
+        <a href="https://qr.ae/pGQtZq">
+          meek instead of regime 1% TIPS from new-outstanding
+        </a>
+        {space}(not exactly new issues) quantitative targeting (not{space}
+        <a href="https://qr.ae/pGQtZ2">qualitative</a>
+        {space}by cash accounting standards...).
+        <br />
+        Inflation going up so much, real income coming down. Eventually in a
+        year or two, punch bowl will be taken away and it will cause a
+        productive recession.
+        <br />
+        <br />
+        {/*  Never seen something so silly, can be a compliment
+        <br/>*/}
+        <a href="https://fred.stlouisfed.org/graph/?g=M7KY">
+          (income/hour)/home (efficient-) productivity
+        </a>
+        <br />
+        <a href="https://fred.stlouisfed.org/graph/?g=Llrn">
+          GDP/hour-GDP/p (productive-) efficiency
+        </a>
+        <h3>
+          America first, thru Savers’ land deeds (20% of U.S.), is the dumbest
+          thing to ever cross my ears
+        </h3>
       </div>
     );
   }
