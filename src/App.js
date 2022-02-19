@@ -1920,7 +1920,8 @@ export default class App extends React.Component {
         {space}and you blame your prudeness over open ingredient list pharmacies
         away from licensure on{space}
         <a href="https://vaults.biz/immi">-1% harmless illegals</a>? FUCKING
-        RACIST KEVIN BRADY - he took 4 years and couldn't finish her bro
+        RACIST KEVIN BRADY - he took 4 years and couldn't finish her{space}
+        <a href="https://youtu.be/WlSVwRaO-iQ">bro</a>
       </div>
     );
   }
