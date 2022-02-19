@@ -1822,7 +1822,11 @@ export default class App extends React.Component {
         <br />
         Inflation continues, ways and means,{space}
         <a href="https://qr.ae/pGQtZ0">cut the spending</a>. Pause, reform
-        welfare without investment bank, by requiring work, then{space}
+        welfare without investment bank, by requiring work (
+        <a href="https://qr.ae/pGQtJs">
+          clerical work for credit boycotters in chequeing/bartenders
+        </a>
+        "), then{space}
         <a href="https://qr.ae/pGQtZq">
           meek instead of regime 1% TIPS from new-outstanding
         </a>
@@ -1853,8 +1857,19 @@ export default class App extends React.Component {
         {space}material &{space}
         <a href="https://vaults.biz/nimby">labor</a>, planned intent force
         majeure contractor diligence, due & liable.
-        <br />
-        <br />
+        <h2>
+          reverse the plandemic fraud ppp/bbb/ccc{space}
+          <a href="https://vaults.biz/party">50+ most business owner</a>
+        </h2>
+        <h3>
+          and reverse amortize,{space}
+          <a href="https://youtu.be/YXKigPyw9n4">
+            (cash/debt)*income every year back
+          </a>
+          {space}
+          donee-beneficiary- and borrower-defense (foreseeable intent of force
+          majeure) claims
+        </h3>
         “Emergency lending should not help fossil fuel companies,” is an
         {space}
         <a href="https://qr.ae/pGQtxa">oxymoron</a>. “Renewables is a fractional
@@ -1869,6 +1884,31 @@ export default class App extends React.Component {
         <a href="https://qr.ae/pGQtVt">unless laborless-demand eats it</a>.
         <br />
         <a href="https://vaults.biz/receipts">How to end deficit spending</a>?
+        <br />
+        <br />
+        "Why does the USA have so few doctors per capita compared with other
+        rich countries?" Nick Carducci Chairperson at Saver Party
+        (2020–present)1h Our insurance is more liberal/libertarian, CBO in 2010
+        made it a point that Obamacare price controls will work, in matching
+        mean inflation (excludes assets outright neighborhood value, labor,
+        profits) as supply already doesn’t equate a labor-borne-demand, with
+        false bid pool and investment fund over labor-equity’s
+        currency/chequeing land-deed (20% of U.S.) loss, without causing quality
+        and output of economic welfare, GDP/hour-GDP/p, to fall short of Demand.
+        Education is also relatively more expensive, as again, debt is
+        liberal/libertarian, without regard for the Savers that own the dollars
+        as donee of the contractor (liable) before loitering and laundering. For
+        healthcare and education (e.g. of doctors), the most prudent economic
+        policy would be to ban invoices (1/12 industry max-royalty ok) and
+        insurance on borrower (force majeure/foreseeable intent) and
+        donee-defense (contractor diligence, due) grounds, and closed ingredient
+        lists on duress and trust, rather than trust government gentrification
+        free rider mutable in lieu of such policy, pennywise, for the
+        alternative of insurance is a net loss (like a casino, house-win fee,
+        but the ‘prize’ is not insulated and is a donee invoking false bid, let
+        alone an obscure investment bank, ‘general revenue,’ makes up 44% of
+        $829.5b/yr Medicare of $2.7/yr “healthcare” today, the impact of the 19%
+        ‘disabled,’ enumerated).
       </div>
     );
   }
