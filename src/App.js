@@ -2230,7 +2230,11 @@ export default class App extends React.Component {
         <br />
         <br />
         Mention reasonable doubt to prom the assumptions made by the protagonist
-        scientist, J. Swire
+        scientist, J. Swire.
+        <br />
+        <br />
+        "The only people that eat foie gras are seriously posh{space}
+        <a href="https://occupywallst.quora.com">people</a>."
       </div>
     );
   }
