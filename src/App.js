@@ -2111,6 +2111,7 @@ export default class App extends React.Component {
             average age Alzheimer’s sewage
           </a>
         </h2>
+        choose active citizenship by voting, "no-candidate"
       </div>
     );
   }
