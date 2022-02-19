@@ -2189,6 +2189,24 @@ export default class App extends React.Component {
         <a href="https://qr.ae/pGQpho">Police staffing is low</a>
         <br />
         <br />
+        <Cable
+          onError={handleScollImgError}
+          img={true}
+          style={{
+            height: "auto"
+          }}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://www.dl.dropboxusercontent.com/s/swikj0ojjsteida/Screen%20Shot%202022-02-19%20at%206.23.55%20PM.png?dl=0"
+          }
+          float="right"
+          title="doing all you can, brother? https://humanharvest.info/polio"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         Can start anew every year with cash accounting of no amortization
         required, amortized equating balance ($0:$0 good-will:liabilities).
         <h2>
@@ -2204,6 +2222,7 @@ export default class App extends React.Component {
         government profits defeats the purpose of government anti-trust, in
         fighting monopolies. Trying to secure ventilators with an investment
         bank over the currency just lowers poverty and equality, by labor skew.
+        {/*that money is not going to the right place - don't be a chode*/}
       </div>
     );
   }
