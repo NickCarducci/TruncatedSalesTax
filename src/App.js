@@ -2207,6 +2207,8 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
+        Pay up front respect business
+        <br />
         Can start anew every year with cash accounting of no amortization
         required, amortized equating balance ($0:$0 good-will:liabilities).
         <h2>
@@ -2235,6 +2237,14 @@ export default class App extends React.Component {
         <br />
         "The only people that eat foie gras are seriously posh{space}
         <a href="https://occupywallst.quora.com">people</a>."
+        {/**Andrew Doyle */}
+        "NHS money to spin from gambling, or is it bona fide?" This gives
+        grounds by freedom to do unto those that they have done to you, no
+        matter the intranational licensure, closed and pejorative is not with
+        standing. to stopping the saveface lest malpractice experts, or any
+        other conflict of interest you find in juris over tort reform/false bid
+        pool loss donee/whistleblowers or ftc conspiracy for investment banks
+        over chequeing, and SSA, disabled by the olds for $170t/$2t GDP/currency
       </div>
     );
   }
