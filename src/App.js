@@ -2097,8 +2097,12 @@ export default class App extends React.Component {
         not even correlated is virion with death nor symptoms, by derivative,
         where n{"<"}population/all-time is assumed to be mean-found. “The
         omicron ends the pandemic,” as excess-deaths drops back down to constant
-        population growth, life expectancy ago.
+        population growth, life expectancy ago. If you (Dr. Bharat Pankhania)
+        garbage-collect one has no impact of aggregate hospitalizations nor
+        death, doctors shouldn't be doing statistics, they should consult
+        independent-professionals.
       </div>
     );
   }
 }
+
