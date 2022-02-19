@@ -1983,11 +1983,9 @@ export default class App extends React.Component {
         <br />
         <Cable
           onError={handleScollImgError}
-          //img={true}
+          img={true}
           style={{
-            maxwidth: "100%",
-            width: "300px",
-            height: "400px"
+            height: "auto"
           }}
           src={
             this.state.noyoutube
