@@ -1965,7 +1965,8 @@ export default class App extends React.Component {
           non-insulated house-win fee ‘prize’ payout/outlay
         </h2>
         <a href="https://qr.ae/pGQnr0">infrastructure</a>? tea pharmacy{space}
-        <a href="https://qr.ae/pGQtZ0">critics</a>?
+        <a href="https://qr.ae/pGQtZ0">critics</a>?<br />
+        profit is a loss, poverty is competition
       </div>
     );
   }
