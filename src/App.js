@@ -1848,13 +1848,27 @@ export default class App extends React.Component {
           America first, thru Savers’ land deeds (20% of U.S.), is the dumbest
           thing to ever cross my ears
         </h3>
-        growth is tech deprecation, planned intent force majeure contractor
-        diligence, due & liable.
+        growth is tech deprecation, not{space}
+        <a href="https://qr.ae/pGQtJs">worker first</a>
+        {space}material &{space}
+        <a href="https://vaults.biz/nimby">labor</a>, planned intent force
+        majeure contractor diligence, due & liable.
         <br />
         <br />
         “Emergency lending should not help fossil fuel companies,” is an
-        oxymoron. “Renewables is a fractional portion at this point, by labor
-        skew cornering (lower poverty, that excludes productive-ward).”
+        {space}
+        <a href="https://qr.ae/pGQtxa">oxymoron</a>. “Renewables is a fractional
+        portion at this point, by labor skew cornering (lower poverty, that
+        excludes productive-ward).”
+        {space}
+        <a href="https://lightte.ch">Business</a>' that{space}
+        <a href="vaults.biz/newecon">don't take profits</a>
+        {space}except copy, science-credits, and chores (nominally) contribute
+        to lower prices "more money chasing more goods,"
+        labor-competition-elasticity stops scarcity{space}
+        <a href="https://qr.ae/pGQtVt">unless laborless-demand eats it</a>.
+        <br />
+        <a href="https://vaults.biz/receipts">How to end deficit spending</a>?
       </div>
     );
   }
