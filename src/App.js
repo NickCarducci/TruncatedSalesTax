@@ -1887,28 +1887,40 @@ export default class App extends React.Component {
         <br />
         <br />
         "Why does the USA have so few doctors per capita compared with other
-        rich countries?" Nick Carducci Chairperson at Saver Party
-        (2020–present)1h Our insurance is more liberal/libertarian, CBO in 2010
-        made it a point that Obamacare price controls will work, in matching
-        mean inflation (excludes assets outright neighborhood value, labor,
-        profits) as supply already doesn’t equate a labor-borne-demand, with
-        false bid pool and investment fund over labor-equity’s
-        currency/chequeing land-deed (20% of U.S.) loss, without causing quality
-        and output of economic welfare, GDP/hour-GDP/p, to fall short of Demand.
-        Education is also relatively more expensive, as again, debt is
-        liberal/libertarian, without regard for the Savers that own the dollars
-        as donee of the contractor (liable) before loitering and laundering. For
-        healthcare and education (e.g. of doctors), the most prudent economic
-        policy would be to ban invoices (1/12 industry max-royalty ok) and
-        insurance on borrower (force majeure/foreseeable intent) and
-        donee-defense (contractor diligence, due) grounds, and closed ingredient
-        lists on duress and trust, rather than trust government gentrification
-        free rider mutable in lieu of such policy, pennywise, for the
-        alternative of insurance is a net loss (like a casino, house-win fee,
-        but the ‘prize’ is not insulated and is a donee invoking false bid, let
-        alone an obscure investment bank, ‘general revenue,’ makes up 44% of
-        $829.5b/yr Medicare of $2.7/yr “healthcare” today, the impact of the 19%
-        ‘disabled,’ enumerated).
+        rich countries?"
+        <br />
+        Nick Carducci Chairperson at Saver Party (2020–present)
+        <br />
+        Our insurance is more liberal/libertarian, CBO in 2010 made it a point
+        that Obamacare price controls will work, in matching mean inflation
+        (excludes assets outright neighborhood value, labor, profits) as supply
+        already doesn’t equate a labor-borne-demand, with false bid pool and
+        investment fund over labor-equity’s currency/chequeing land-deed (20% of
+        U.S.) loss, without causing quality and output of economic welfare,
+        GDP/hour-GDP/p, to fall short of Demand. Education is also relatively
+        more expensive, as again, debt is liberal/libertarian, without regard
+        for the Savers that own the dollars as donee of the contractor (liable)
+        before loitering and laundering. For healthcare and education (e.g. of
+        doctors), the most prudent economic policy would be to ban invoices
+        (1/12 industry max-royalty ok) and insurance on borrower (force
+        majeure/foreseeable intent) and donee-defense (contractor diligence,
+        due) grounds, and closed ingredient lists on duress and trust, rather
+        than trust government gentrification free rider mutable in lieu of such
+        policy, pennywise, for the alternative of insurance is a net loss (like
+        a casino, house-win fee, but the ‘prize’ is not insulated and is a donee
+        invoking false bid, let alone an obscure investment bank, ‘general
+        revenue,’ makes up 44% of $829.5b/yr Medicare of $2.7/yr “healthcare”
+        today, the impact of the 19% ‘disabled,’ enumerated).
+        <br />
+        <br />
+        tough on the border:{space}
+        <a href="https://teapharmacy.party/drugs">
+          parcels are as low as 2% unchecked
+        </a>
+        {space}and you blame your prudeness over open ingredient list pharmacies
+        away from licensure on{space}
+        <a href="https://vaults.biz/immi">-1% harmless illegals</a>? FUCKING
+        RACIST KEVIN BRADY - he took 4 years and couldn't finish her bro
       </div>
     );
   }
