@@ -1525,10 +1525,14 @@ export default class App extends React.Component {
         plaintiff; it only works for speeding like price controls work for
         operational monopolies, intent for implausible landlord purchase use
         above 5, and
+        <TwitterTweetEmbed
+          style={{ width: "300px", float: "left" }}
+          key="1425460613711605760"
+          tweetId="1425460613711605760"
+        />
         <h3>
           quality for minimal viable product duress or surrender by false bid.
         </h3>
-        <br />
         Hardly can jail for speeding, warning, tort and jail, still. Ingredient
         list open without licensure. Intranet convict NFC MotorVehicle consumer
         surrogate.
@@ -1536,7 +1540,11 @@ export default class App extends React.Component {
         <br />
         Conflict of interest begets lesser jury-industry variable threshold.
         <br />
-        Virion is a weapon or not correlated by artifact per capita:
+        Virion is a weapon{space}
+        <a href="https://youtu.be/mlEFtVlivjs">
+          or not correlated by artifact per capita
+        </a>
+        :
         <br />• deaths per case matches deaths per population, single age
         specific, fixing for biological average age at death being Alzheimer’s
         age and presented by lifetime-poop (sewage’s effect on{space}
