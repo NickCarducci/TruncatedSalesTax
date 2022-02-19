@@ -2008,7 +2008,13 @@ export default class App extends React.Component {
         any politician with{space}
         <a href="https://qr.ae/pGQnCi">blind trust</a>
         {space}(good will of branded-IP and land) is anti-american (20% dollar
-        deed for U.S.)
+        deed for U.S.).
+        <br />
+        <br />
+        "We bought a lot of excess stuff, buying more goods," no one is
+        over-eating, the demand is all laborless money, not actual. "Higher
+        prices cure higher prices," the only price increase is because of
+        userers: insurers, lenders and landlords, MY bid
       </div>
     );
   }
