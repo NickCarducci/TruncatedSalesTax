@@ -2103,11 +2103,15 @@ export default class App extends React.Component {
         independent-professionals.
         {/**level change [time,but just afterwards oh look deads while now] of rate */}
         <br />
-        <br />
-        "proper mask," stops dust, which spittle doesn't use. Bacteria causes
-        disease, but pandemic was expected by econometrists like me
+        <br />"<a href="https://vaults.biz/moldmask">proper mask</a>," stops
+        dust, which spittle doesn't use. Bacteria causes disease, but pandemic
+        was expected by econometrists like me
+        <h2>
+          <a href="https://humanharvest.info/polio">
+            average age Alzheimer’s sewage
+          </a>
+        </h2>
       </div>
     );
   }
 }
-
