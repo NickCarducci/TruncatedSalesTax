@@ -2177,6 +2177,16 @@ export default class App extends React.Component {
         10% of what apple and Spotify make stream (stem Kanye): service time
         copy but non-compete for those copies? Exclusive contracts but Kanye can
         sell elsewhere, no matter what rights he thinks he can surrender
+        <br />
+        <br />
+        jury system is broken for whistleblowers on torts - state vic conflict
+        of interest per diem incarceration by bond loss and investment bank
+        insurance false bid pool loss.
+        <br />
+        "Out on bail, without bail, choose," says Newsmax and 77WABC (sexting
+        with 15 yr olds)
+        <br />
+        <a href="https://qr.ae/pGQpho">Police staffing is low</a>
       </div>
     );
   }
