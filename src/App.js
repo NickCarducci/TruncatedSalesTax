@@ -2142,7 +2142,11 @@ export default class App extends React.Component {
         <br />
         “Get every dollar you are entitled to,” $167t unfunded liabilities that
         go to value $170t good-will of brand-IP/land. No wonder G-d gave you
-        prostate cancer, my guy
+        prostate cancer, my guy.
+        <br />
+        <br />
+        Health professionals, shouldn’t statisticians? Do you not understand
+        conflict of interest?
       </div>
     );
   }
