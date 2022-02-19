@@ -1976,7 +1976,9 @@ export default class App extends React.Component {
         <a href="https://qr.ae/pGQtJs">deprecation</a>. so important for
         conciousness stream to be unique, for 'unsorted'{space}
         <a href="https://qr.ae/pGQnYg">mean-finding</a>, at least, whatever the
-        fuck now that means.
+        fuck now that means. "Absolutely right,” bona fide, might be wrong for
+        unseen endogenous correlation to explain unmatching of newfound mean
+        from last sample.
         <br />
         <br />
         <Cable
