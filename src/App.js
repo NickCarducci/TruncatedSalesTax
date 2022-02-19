@@ -1887,7 +1887,9 @@ export default class App extends React.Component {
         <br />
         <br />
         "Why does the USA have so few doctors per capita compared with other
-        rich countries?"
+        {space}
+        <a href="https://qr.ae/pGQtz9">rich</a>
+        {space}countries?"
         <br />
         Nick Carducci Chairperson at Saver Party (2020–present)
         <br />
@@ -1905,12 +1907,16 @@ export default class App extends React.Component {
         (1/12 industry max-royalty ok) and insurance on borrower (force
         majeure/foreseeable intent) and donee-defense (contractor diligence,
         due) grounds, and closed ingredient lists on duress and trust, rather
-        than trust government gentrification free rider mutable in lieu of such
-        policy, pennywise, for the alternative of insurance is a net loss (like
-        a casino, house-win fee, but the ‘prize’ is not insulated and is a donee
-        invoking false bid, let alone an obscure investment bank, ‘general
-        revenue,’ makes up 44% of $829.5b/yr Medicare of $2.7/yr “healthcare”
-        today, the impact of the 19% ‘disabled,’ enumerated).
+        than{space}
+        <a href="https://qr.ae/pGQtzH">
+          trust government gentrification free rider mutable
+        </a>
+        {space}in lieu of such policy, pennywise, for the alternative of
+        insurance is a net loss (like a casino, house-win fee, but the ‘prize’
+        is not insulated and is a donee invoking false bid, let alone an obscure
+        investment bank, ‘general revenue,’ makes up 44% of $829.5b/yr Medicare
+        of $2.7/yr “healthcare” today, the impact of the 19% ‘disabled,’
+        enumerated).
         <br />
         <br />
         tough on the border:{space}
