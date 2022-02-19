@@ -2162,7 +2162,8 @@ export default class App extends React.Component {
         <a href="https://www.pfizer.com/news/articles/viral_vs_bacterial_pneumonia_understanding_the_difference">
           all-cause
         </a>
-        .
+        . Please, do testing, or cite your{space}
+        <a href="https://www.cmu.edu/common-cold-project/">sources</a>.
       </div>
     );
   }
