@@ -1931,6 +1931,29 @@ export default class App extends React.Component {
         <a href="https://vaults.biz/immi">-1% harmless illegals</a>? FUCKING
         RACIST KEVIN BRADY - he took 4 years and couldn't finish her{space}
         <a href="https://youtu.be/WlSVwRaO-iQ">bro</a>
+        <br />
+        <br />
+        profit and good will IP/land is a cost away from Science.
+        <br />
+        <br />
+        "How does inflation erode away debt in a practical sense?"
+        <br />
+        Nick Carducci - Statistician, Historian of Markets and Propaganda
+        (2012–present)
+        <br />
+        Debt is ‘good-will’ last traded neighborhood price, it DOES{space}
+        <a href="https://fred.stlouisfed.org/graph/?g=Mf9q">NOT</a>
+        {space}amount to more than the ‘corrected’ collateral except for the
+        Annual Percentage Rate of Interest (e.g. 5% doubles in 20 years), that
+        makes ‘value’ (**not price, inflation=material+rents, cpi, PCE** of
+        {space}
+        <a href="https://vaults.biz/gdp">GDP/p</a>, with{space}
+        <a href="https://froth.app">structures</a>), from liability, and that
+        which is nominal && true by collateralized-, compound and general-income
+        payday, loans (alternative: 1/12 industry max-royalty). ‘Inflation is
+        too much ‘money’ (or ‘
+        <a href="https://www.yardeni.com/pub/monetagg.pdf">savings</a>,’ not
+        checking) chasing too few goods,’ is a confusing monicker.
       </div>
     );
   }
