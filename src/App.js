@@ -2163,7 +2163,8 @@ export default class App extends React.Component {
           all-cause
         </a>
         . Please, do testing, or cite your{space}
-        <a href="https://www.cmu.edu/common-cold-project/">sources</a>.
+        <a href="https://www.cmu.edu/common-cold-project/">sources</a>, Dr Hugh
+        McTavish, you cannot walk back a century of basis rate fallacy.
       </div>
     );
   }
