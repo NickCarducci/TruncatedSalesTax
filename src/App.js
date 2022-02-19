@@ -1964,6 +1964,8 @@ export default class App extends React.Component {
           <a href="https://vaults.biz/insurance">loss</a>, donee invoicing for
           non-insulated house-win fee ‘prize’ payout/outlay
         </h2>
+        <a href="https://qr.ae/pGQnr0">infrastructure</a>? tea pharmacy{space}
+        <a href="https://qr.ae/pGQtZ0">critics</a>?
       </div>
     );
   }
