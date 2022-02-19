@@ -2128,7 +2128,12 @@ export default class App extends React.Component {
         <br />
         <a href="https://qr.ae/pGQnDu">excess</a>
         {space}and{space}
-        <a href="https://youtu.be/UiprxrmHhbQ">GDP integrally p</a>
+        <a href="https://youtu.be/UiprxrmHhbQ">GDP</a>
+        {space}integrally{space}
+        <a href="https://youtu.be/7Jy9JyrukCY">p</a>.{space}
+        <a href="https://youtu.be/AQ7h_U5G0fY">artifact</a>
+        {space}by{space}
+        <a href="https://youtu.be/WlSVwRaO-iQ">what</a>?
         <br />
         <br />
         freedom to{space}
