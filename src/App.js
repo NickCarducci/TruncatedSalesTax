@@ -1537,10 +1537,10 @@ export default class App extends React.Component {
         Conflict of interest begets lesser jury-industry variable threshold.
         <br />
         Virion is a weapon or not correlated by artifact per capita:
-        <br />
-        • deaths per case matches deaths per population, single age specific,
-        fixing for biological average age at death being Alzheimer’s age and
-        presented by lifetime-poop (sewage’s effect on bacteria) -
+        <br />• deaths per case matches deaths per population, single age
+        specific, fixing for biological average age at death being Alzheimer’s
+        age and presented by lifetime-poop (sewage’s effect on{space}
+        <a href="https://youtu.be/MTM2Pw73Ol0">bacteria</a>) -
         <br />
         like education/employment (more employment by education artifact without
         basis or derivative negative for gentrification elasticity of labor
@@ -2060,6 +2060,11 @@ export default class App extends React.Component {
         produce nothing actual, or *nominally-true*.
         <br />
         <br />
+        <TwitterTweetEmbed
+          style={{ width: "300px", float: "left" }}
+          key="1413909110140149768"
+          tweetId="1413909110140149768"
+        />
         Education, healthcare, welfare, childcare, and eldercare as
         infrastructure (*especially when funneled in investment banks over
         currency competition as they are today*), merely displaces the pricing
@@ -2114,6 +2119,10 @@ export default class App extends React.Component {
         choose active citizenship by voting, "no-candidate"
         <br />
         <a href="https://qr.ae/pGQnDu">excess and GDP integrally p</a>
+        <br />
+        <br />
+        freedom to{space}
+        <a href="https://youtu.be/1D6n2om9I6A">kill</a>
       </div>
     );
   }
