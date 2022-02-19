@@ -2155,6 +2155,14 @@ export default class App extends React.Component {
         <br />
         you don't need to socialize to be happy, you can also gain satisfaction
         by inventing. you just want us to collect our things for a loss.
+        <br />
+        <br />
+        "asymptomatic don't spread the disease much," bacteria is feces and
+        {space}
+        <a href="https://www.pfizer.com/news/articles/viral_vs_bacterial_pneumonia_understanding_the_difference">
+          all-cause
+        </a>
+        .
       </div>
     );
   }
