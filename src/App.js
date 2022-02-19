@@ -1805,6 +1805,11 @@ export default class App extends React.Component {
         due process nor law, any accord they want to, past couple hours -
         blocking traffic for livlihood, kill Trudeau! (30% still there, after
         window breaking drivers)
+        <br />
+        <br />
+        You can’t stop poverty, that is equality of assets when inflation is no
+        more than income skew and labor-borne-demand, flat tax is government
+        trust, you’re gentrification yourself
       </div>
     );
   }
