@@ -2126,7 +2126,9 @@ export default class App extends React.Component {
         </h2>
         choose active citizenship by voting, "no-candidate"
         <br />
-        <a href="https://qr.ae/pGQnDu">excess and GDP integrally p</a>
+        <a href="https://qr.ae/pGQnDu">excess</a>
+        {space}and{space}
+        <a href="https://youtu.be/UiprxrmHhbQ">GDP integrally p</a>
         <br />
         <br />
         freedom to{space}
