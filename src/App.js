@@ -2227,6 +2227,10 @@ export default class App extends React.Component {
         <br />
         wet nurses stopped 1905 - heated and stored cool is notwithstanding in
         actuality
+        <br />
+        <br />
+        Mention reasonable doubt to prom the assumptions made by the protagonist
+        scientist, J. Swire
       </div>
     );
   }
