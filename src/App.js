@@ -2225,7 +2225,8 @@ export default class App extends React.Component {
         {/*that money is not going to the right place - don't be a chode*/}
         <br />
         <br />
-        wet nurses stopped 1905
+        wet nurses stopped 1905 - heated and stored cool is notwithstanding in
+        actuality
       </div>
     );
   }
