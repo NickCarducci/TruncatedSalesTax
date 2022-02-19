@@ -1824,9 +1824,12 @@ export default class App extends React.Component {
         <a href="https://qr.ae/pGQtZ0">cut the spending</a>. Pause, reform
         welfare without investment bank, by requiring work (
         <a href="https://qr.ae/pGQtJs">
-          clerical work for credit boycotters in chequeing/bartenders
+          clerical work for credit boycotters in
+          chequeing/bartenders/cash-accountants
         </a>
-        "), then{space}
+        , scared of a backwards-walk, your debt is my money, your 'good-will' IP
+        and land branding is my competition, by cheque, not 'savings' nor
+        'money'"), then{space}
         <a href="https://qr.ae/pGQtZq">
           meek instead of regime 1% TIPS from new-outstanding
         </a>
