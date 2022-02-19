@@ -1978,12 +1978,36 @@ export default class App extends React.Component {
         <a href="https://qr.ae/pGQnYg">mean-finding</a>, at least, whatever the
         fuck now that means.
         <br />
-        <br />“<a href="https://vaults.biz/russia">Russian</a>-backed
-        separatists.” Forcing women and children to leave and force young men to
-        fight.
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          style={{
+            maxwidth: "100%",
+            width: "300px",
+            height: "400px"
+          }}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://www.dl.dropboxusercontent.com/s/69eqxfx7ehtg1zc/brother%20can.jpeg?dl=0"
+          }
+          float="right"
+          title="doing all you can, brother?"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        “<a href="https://vaults.biz/russia">Russian</a>-backed separatists.”
+        Forcing women and children to leave and force young men to fight.
         <h2>
           <a href="https://vaults.biz/receipts">anything washes</a>
         </h2>
+        any politician with{space}
+        <a href="https://qr.ae/pGQnCi">blind trust</a>
+        {space}(good will of branded-IP and land) is anti-american (20% dollar
+        deed for U.S.)
       </div>
     );
   }
