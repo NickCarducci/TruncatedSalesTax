@@ -2193,8 +2193,18 @@ export default class App extends React.Component {
         required, amortized equating balance ($0:$0 good-will:liabilities).
         <h2>
           <a href="https://vaults.biz/c1775">terror</a>
+          {space}It could be to yield or not.
+          <br />
+          Whose honor.
+          <br />
+          “You have to be funded by someone, don’t you.” Or you do it on the
+          side, with savings, work seasonally, like beach bartending….
         </h2>
+        employ more people is tech advancement, pay taxes to employ people for
+        government profits defeats the purpose of government anti-trust, in
+        fighting monopolies.
       </div>
     );
   }
 }
+
