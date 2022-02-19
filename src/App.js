@@ -2232,7 +2232,9 @@ export default class App extends React.Component {
         <br />
         <br />
         Mention reasonable doubt to prom the assumptions made by the protagonist
-        scientist, J. Swire.
+        scientist, J. Swire. Polygraph, accurate 80-90% of the time, like to
+        find a smoking gun afterwards, or they did a later similar crime to that
+        acquitted?
         <br />
         <br />
         "The only people that eat foie gras are seriously posh{space}
