@@ -2014,7 +2014,76 @@ export default class App extends React.Component {
         "We bought a lot of excess stuff, buying more goods," no one is
         over-eating, the demand is all laborless money, not actual. "Higher
         prices cure higher prices," the only price increase is because of
-        userers: insurers, lenders and landlords, MY bid
+        userers: insurers, lenders and landlords, MY bid.
+        <br />
+        <br />
+        spending boom stim, flying on plans, going to be awesome! what a fucking
+        retard, inflation is going up over time," not necessarily. See 1800-1913
+        0%/yr+ GDP/p amidst 3%/yr+ basis. "Give money for education," most work
+        doesn't rewuire education, retard, it would be better to open source
+        ingredient lists and trade secrets with labor-competition 16-19.
+        <br />
+        <br />
+        "'money' printed," is an oxymoron.
+        <br />
+        "Historically, have big investments in infrastructure helped or hurt
+        America?"
+        <br />
+        Nick Carducci - Chairperson at Saver Party (2020–present)
+        <br />
+        If you should view -<a href="https://vaults.biz/gdp">GDP/p</a>
+        {space}as tech advancement, infrastructure (when automatic rolling is
+        available) has only{space}
+        <a href="https://fred.stlouisfed.org/graph/?g=M7KY">**harmed**</a>
+        {space}
+        by input cost monopsony trust building, often defeating the purpose or
+        causing the problem. Faux economists, with Nobel Prizes, will claim
+        hiring more teachers and forcing children and young adults into school
+        has increased employment of our now working age, 25–54.
+        <br />
+        <br />
+        Free rider immutable services like sewage (gravity toilets; by the way,
+        lifesaving, notwithstanding inelastic labor-borne Supply and Demand, see
+        India and Alzheimer’s prevalence) police and lawsuits should only be
+        equalized by receipt and scope in truncated production tax as to not
+        impose state-victimization, sleaze nor monopsony, over even operational
+        monopsony (target-margin instead), profit by bonds, ‘money’ (or
+        ‘savings,’ not chequeing) invokes a conflict of interest loss (longer
+        imprisonment).
+        <br />
+        <br />
+        Tax for free rider mutable, like spectrum/bridge/pipelines, is elastic
+        (1/0 rise/run slope of price for additional unit of economic-welfare,
+        GDP/hour-GDP/p (https://fred.stlouisfed.org/graph/?g=Llrn), by
+        MUI=MPR=MC), nor does unequal bond-tax for free rider immutables,
+        produce nothing actual, or *nominally-true*.
+        <br />
+        <br />
+        Education, healthcare, welfare, childcare, and eldercare as
+        infrastructure (*especially when funneled in investment banks over
+        currency competition as they are today*), merely displaces the pricing
+        of these services, or counts non-chores for ones’ own dependents as
+        “productive.” The same actual work is completed, however, lest class
+        sizes are larger, then comparative advantage kicks in, but the effect by
+        price elasticity by money (*Demand shift by labor-borne shifts Supply to
+        q* and p* just the same, if all profits from account are outlaid to
+        income, immediately-to-a-year from a flaccid collective loss towards a
+        Marginal Utility Indifference of the producer over their inventory and
+        chequeing*), still imposes itself as useless and fruitless stimulus,
+        especially when the producer knows of consumers’ newfound capacity, by
+        way of the states’ assets, which are far from fungible for the Peoples’
+        nor Savers’, and supply does not actually equate demand, with a
+        dead-weight-box, to which even pennywise price and quality controls
+        would help, and not disable the quality skew trade for appropriate
+        labor-demand.
+        <br />
+        <br />
+        taxes will be lower, can be higher, so it won't, 3%under2k equal in
+        receipt and scope sewage police lawsuits only.
+        <br />
+        <br />
+        how do 19% disabled take out Social Security from investment bank over
+        Savers' currency 1/11 GDP=m2*v2/yr? MY fuickign bid
       </div>
     );
   }
