@@ -2054,8 +2054,9 @@ export default class App extends React.Component {
         <br />
         Tax for free rider mutable, like spectrum/bridge/pipelines, is elastic
         (1/0 rise/run slope of price for additional unit of economic-welfare,
-        GDP/hour-GDP/p (https://fred.stlouisfed.org/graph/?g=Llrn), by
-        MUI=MPR=MC), nor does unequal bond-tax for free rider immutables,
+        {space}
+        <a href="https://fred.stlouisfed.org/graph/?g=Llrn)">GDP/hour-GDP/p</a>,
+        by MUI=MPR=MC), nor does unequal bond-tax for free rider immutables,
         produce nothing actual, or *nominally-true*.
         <br />
         <br />
@@ -2083,7 +2084,14 @@ export default class App extends React.Component {
         <br />
         <br />
         how do 19% disabled take out Social Security from investment bank over
-        Savers' currency 1/11 GDP=m2*v2/yr? MY fuickign bid
+        Savers'{space}
+        <a href="https://qr.ae/pGQnu9">currency</a>
+        {space}1/11 GDP=m2*v2/yr? MY fuickign bid.
+        <br />
+        <br />
+        G-d forbid you have an emergency in good will of brand IP land
+        collateralized last traded neighrboorhood price, non-concurrrentable and
+        value by liabilities, cash accounting amortize balance sheets
       </div>
     );
   }
