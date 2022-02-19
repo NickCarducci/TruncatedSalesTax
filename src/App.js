@@ -2172,6 +2172,11 @@ export default class App extends React.Component {
         (compound/general-income donee) no question it caused deaths than
         prevented, you need to fix excess for specific age, and n=2019-20 is not
         a mean extrapolatable.
+        <br />
+        <br />
+        10% of what apple and Spotify make stream (stem Kanye): service time
+        copy but non-compete for those copies? Exclusive contracts but Kanye can
+        sell elsewhere, no matter what rights he thinks he can surrender
       </div>
     );
   }
