@@ -1921,7 +1921,7 @@ export default class App extends React.Component {
         <br />
         tough on the border:{space}
         <a href="https://teapharmacy.party/drugs">
-          parcels are as low as 2% unchecked
+          parcels are as low as 2%, unchecked
         </a>
         {space}and you blame your prudeness over open ingredient list pharmacies
         away from licensure on{space}
