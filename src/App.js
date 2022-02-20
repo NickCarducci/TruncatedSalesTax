@@ -2446,7 +2446,12 @@ export default class App extends React.Component {
         <br />
         "people who need help with homelessness or poverty are left in squalar."
         as a Choring Bookkeeper for a Home-Contractor, you need to{space}
-        <a href="https://vaults.biz/nimby">sprint</a>
+        <a href="https://vaults.biz/nimby">sprint</a>.
+        <br />
+        <br />
+        Go to the ghetto and hand out the constitution to tell them of the
+        freedoms we don’t have. I'll fucking kill you beforehand. I yield back,
+        until you become unreasonable.
       </div>
     );
   }
