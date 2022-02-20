@@ -2609,7 +2609,11 @@ export default class App extends React.Component {
         <br />
         "We have to assess why they would want to invest in the country, to keep
         new issues and outstanding bid untitzed? Clean bill of health, no place
-        for leppers,” says the firefighter and trade unionist on GBNews
+        for leppers,” says the firefighter and trade unionist on GBNews.
+        <br />
+        <br />
+        You can settle anywhere in the world, for comparative advantage is a
+        boon to efficiency and productivity. All else are thruways, blocked.
       </div>
     );
   }
