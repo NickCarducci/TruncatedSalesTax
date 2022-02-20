@@ -2617,7 +2617,12 @@ export default class App extends React.Component {
         <br />
         <br />
         Morals for beneficial economically by plundering wares and
-        productive-ward, is not what you think, retard.
+        productive-ward, is not what you think, retard. pay all the tax they
+        could, goes to investment bank ypocricy over trust-breaking
+        gentrification operational monopsony purpose, versus
+        target-margin/quality warn/tort/jail non-state-vic nor criminal anything
+        washes/duress minimal viable product Tranquil and voluntary trade, for
+        no less than microeconomic Supply and Demand, GDP/hour-GDP/p
       </div>
     );
   }
