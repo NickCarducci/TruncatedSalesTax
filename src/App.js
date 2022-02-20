@@ -2325,7 +2325,56 @@ export default class App extends React.Component {
         <br />a lot of jobs, from taxes, for gentrification of services -
         Savers' lands, stolen by Keystone. "consumers end up passed paying tax
         -" John Thune - actually, the consumers pay the tax by market prices,
-        supply and demand is only witnessed by the bookie/auctioneer
+        supply and demand is only witnessed by the bookie/auctioneer.
+        <br />
+        <br />
+        Article 1.8 unequal bond-tax especially for foreigners is Treason of
+        Tranquil and voluntary trade.
+        <br />
+        <br />
+        What I was told,” every word is a naming device for science Gorka you
+        westward douche.
+        <br />
+        <br />
+        "Why does Africa remain in perpetual poverty despite huge mineral
+        resources beneath its soils?"
+        <br />
+        Nick Carducci - Chairperson at Saver Party (2020–present)
+        <br />
+        Poverty maintains abundance of materials (or resources after mining and
+        logging) over income, equality of assets (scientific-indifference),
+        without much for labor skew, making a more equal, and therefore
+        competitive and efficient, economy, in productive-ward. Relief of debt
+        forgiveness, as well as inception of it, all contribute to a lower
+        poverty rate by average labor as producers still consume the credit as
+        if donee beneficiary did reap benefits as opposed to the borrower
+        loitering. If you want competition, productivity (income/hour)/home and
+        efficiency GDP/hour-GDP/p, (cash/debt)*income every year back, this
+        would make poverty remain, but the economy will be competitive and
+        efficient, instead of eating all gains for userer: lender, landlord and
+        insurer by open ingredient list no liability, games of chance only, not
+        life for donee beneficiary payout from investment bank and per diem
+        incarceration conflict of interest, 1/12 industry-vertical max-royalty.
+        <br />
+        <br />
+        "Will the republicans support America or Russia if there is a war?"
+        <br />
+        Nick Carducci - Chairperson at Saver Party (2020-present)
+        <br />
+        Stopping the{space}
+        <a href="https://vaults.biz/russia">Nordstream</a>
+        {space}
+        <a href="https://vaults.biz/gmu">pipeline</a>, and forging the NATO
+        alliance, is a 2/3 *voter*, *plural-minorities-*bipartisan *(counting
+        non-voters as, “no-candidate”)*, open threat. Those parties want war for
+        self-deprecating, incomparative advantage, efficiency{space}
+        <a href="https://fred.stlouisfed.org/graph/?g=LmzU">GDP/hour-GDP/p</a>
+        {space}
+        and productivity{space}
+        <a href="https://fred.stlouisfed.org/graph/?g=M7mh">
+          (income/hour)/home
+        </a>
+        {space}gains.
       </div>
     );
   }
