@@ -2251,8 +2251,31 @@ export default class App extends React.Component {
           insulated house-win fee prize donee insurance savings by NOT bundling
           now
         </h2>
+        <Cable
+          onError={handleScollImgError}
+          img={true}
+          style={{
+            height: "auto"
+          }}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://www.dl.dropboxusercontent.com/s/s59dbu68n6y778s/Screen%20Shot%202022-02-19%20at%207.16.24%20PM.png?dl=0"
+          }
+          float="left"
+          title="doing all you can, brother? https://humanharvest.info/polio"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         to say 'tard' or censor 'retard' is ableist. no liability open source
-        -lest intent deduces
+        -lest intent deduces.
+        <br />
+        <br />
+        sack the filthy vaxx dodgers, wash with dog catchers. “People who wish
+        to be free, are now quietly singing the Canadian national anthem,” Neil
+        Oliver “Average dying of covid is older than average life expectancy.”
       </div>
     );
   }
