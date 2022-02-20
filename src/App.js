@@ -2499,6 +2499,14 @@ export default class App extends React.Component {
         />
         "How can inefficiencies contributing to public sector failures be
         solved?"
+        <br />
+        <br />
+        “Democrats don’t want Biden to be a punching bag for their brand in the
+        primary.” -dm
+        <br />
+        $500b electric charging stations, who gets the contracts, patronizes and
+        goodies to expense, rake in contributions to the campaign. Give a guy an
+        orchard and they will firesale apple pies
       </div>
     );
   }
