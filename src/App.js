@@ -2424,6 +2424,9 @@ export default class App extends React.Component {
         the party of liberty wants to control drop deaders, scapegoating
         'prosecutors,' and freedoms. jim jordan
         <br />
+        whther ytou are a trump suporter or not, whether you are a Democrat or
+        not, Laura Trump.
+        <br />
         "Will the republicans support America or Russia if there is a war?"
         <br />
         Nick Carducci - Chairperson at Saver Party (2020-present)
