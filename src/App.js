@@ -2597,7 +2597,11 @@ export default class App extends React.Component {
         <br />
         Robust particularly in rural, if you are going to service demand, you
         don’t need to share-split their currency, in money contractor liable
-        spending
+        spending.
+        <h2>
+          anything washes, from fines (state-vic) to share-split
+          government-crime
+        </h2>
       </div>
     );
   }
