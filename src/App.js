@@ -2605,6 +2605,11 @@ export default class App extends React.Component {
         etract judicial salary for upper-court appeals -"Can’t be
         fully-compensated possibly," well what is possible is also what is due,
         bitch
+        <br />
+        <br />
+        "We have to assess why they would want to invest in the country, to keep
+        new issues and outstanding bid untitzed? Clean bill of health, no place
+        for leppers,” says the firefighter and trade unionist on GBNews
       </div>
     );
   }
