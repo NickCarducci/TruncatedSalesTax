@@ -2602,7 +2602,9 @@ export default class App extends React.Component {
           anything washes, from fines (state-vic) to share-split
           government-crime
         </h2>
-        etract judicial salary for upper-court appeals
+        etract judicial salary for upper-court appeals -"Can’t be
+        fully-compensated possibly," well what is possible is also what is due,
+        bitch
       </div>
     );
   }
