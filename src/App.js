@@ -2699,7 +2699,9 @@ export default class App extends React.Component {
             Endogenous is correlation to explain bivariate cause, as a solution
           </a>
         </h2>
-        mostly mentally ill are homeless, like CT scan?
+        mostly mentally ill are homeless, like CT scan? Not forcibly, convince
+        them to get the services they need.” I abject, as a home-contractor
+        choring bookkeeper
       </div>
     );
   }
