@@ -2252,6 +2252,7 @@ export default class App extends React.Component {
           now
         </h2>
         to say 'tard' or censor 'retard' is ableist. no liability open source
+        -lest intent deduces
       </div>
     );
   }
