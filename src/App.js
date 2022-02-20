@@ -2614,6 +2614,10 @@ export default class App extends React.Component {
         <br />
         You can settle anywhere in the world, for comparative advantage is a
         boon to efficiency and productivity. All else are thruways, blocked.
+        <br />
+        <br />
+        Morals for beneficial economically by plundering wares and
+        productive-ward, is not what you think, retard.
       </div>
     );
   }
