@@ -2316,6 +2316,14 @@ export default class App extends React.Component {
           </a>
           {space}patronage to build support;”
         </h2>
+        Long covid: “Consistent overconsumption of sugar can cause a harmful
+        condition known as "metabolic slowdown." Warning signs include unwanted
+        belly flab, "brain fog", slower metabolism, tiredness, constipation, and
+        even difficulty concentrating. Metabolic slowdown currently affects tens
+        of millions of Americans.”
+        <br />
+        <br />a lot of jobs, from taxes, for gentrification of services -
+        Savers' lands, stolen by Keystone
       </div>
     );
   }
