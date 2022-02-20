@@ -2444,6 +2444,22 @@ export default class App extends React.Component {
         {space}gains.
         <br />
         <br />
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          style={{ width: "100%", height: "660px" }}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://fred.stlouisfed.org/graph/graph-landing.php?g=M9j8&width=500&height=600"
+          }
+          float="left"
+          title="https://fred.stlouisfed.org/graph/?g=Hc1R"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         "people who need help with homelessness or poverty are left in squalar."
         as a Choring Bookkeeper for a Home-Contractor, you need to{space}
         <a href="https://vaults.biz/nimby">sprint</a>
