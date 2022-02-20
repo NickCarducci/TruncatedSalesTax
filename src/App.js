@@ -2506,7 +2506,84 @@ export default class App extends React.Component {
         <br />
         $500b electric charging stations, who gets the contracts, patronizes and
         goodies to expense, rake in contributions to the campaign. Give a guy an
-        orchard and they will firesale apple pies
+        orchard and they will firesale apple pies.
+        <br />
+        <br />
+        Excess is just year to year, like income kept in flaccid collective
+        profits accounts, 50m worldwide and 1.2m U.S. was expected, just look at
+        population growth a life expectancy ago, you cannot assume significance
+        from n=2019-20 as the CDC says.
+        <br />
+        <br />
+        excess doesn’t fix for population growth life expectancy ago or anything
+        like that.
+        <br />
+        <br />
+        Welfare is an investment bank $829.5b/yr Medicare 19% “disabled” of
+        $2.7t/yr “healthcare” of real-life not game-game, donee=beneficiary
+        contractor liable prize non-insulated.
+        <br />
+        <br />
+        not correlated as artifact derivative, like asymptomatic testing has
+        proven, when it doesn’t matter it is correlated, as in exists in all
+        cases, growth from population etymology of baby boomers, 20%/yr+ excess
+        1942, WWII average age at death ago. Alzheimers was not caused by good
+        sewage, but I can predict prevalence of such in India in the next
+        decade.
+        <br />
+        <br />
+        Debt ceiling can truncated production tax geohash/mo from spoonable
+        precinct your pay tech of choice report to accounting software and
+        eventually Congress and the Public 3% under $2k.
+        <br />
+        Education by employment of similar class size making employment, or
+        drug-user mental-ill non-biomedical CT scan alone saying drug use causes
+        depressed feelings.
+        <br />
+        Freedom means sewage police lawsuits Article 1.8 bond-tax non hypocrisy
+        trust monopsony equal in scope and receipt by flat flat tax if you like,
+        truncated production tax, spectrum/bridge/pipelines, operational
+        monopsony, but still free rider mutable, so target margin, quality,
+        duress by price there works like Obamacare investment bank, pennywise
+        tying to mean inflation, which excludes assets/ productive-ward, as with
+        poverty inflation/income, that better is seen as (income/hour)/home,
+        minimal viable product and max-royalty by 1 or 11/12 industry regime of
+        “collateral” (reverse amortize cash/debt)*income every year back, not to
+        ignore actual income,
+        <br />
+        amortize cash accountants amortize balance sheets to zero, and
+        liabilities value assets.
+        <br />
+        Medicare is an investment bank, and jury.
+        <br />
+        General Maintenance Unit, sponsor permit mvp duress Tranquil and
+        voluntary trade.
+        <br />
+        <br />
+        Take away children and dogs.
+        <br />
+        <br />
+        Purgery is duress so moot, like surrendering what you think you can is
+        contractor liable, like collateralization of land-deeds 20% of the U.S.
+        being depositary of the currency, not money nor savings now, that is
+        GDP, something totally different, we do not know velocity of currency.
+        <br />
+        Efficient economy makes nominal but not actual, balance of trade, per
+        quality and unit, just inefficient when poverty is Low and unfunded
+        liabilities envalue assets, cash accountants amortize balance sheet to
+        zero.
+        <br />
+        policymaking around their book with blind trust, retail and brokers have
+        diff reporting requirements, instead of currency 20% land-deed
+        depositary, Savers chequing need to stand up against this
+        donee-beneficiary-surrendered-freedoms to bid in insurance, lenders and
+        landlords. just reverse amortize by the cash/debt ratio, not outright
+        reverse wo we have some semblance of historical accounting.
+        <br />
+        Progressives don’t know Medicare $829.5b/yr of $2.7t/yr is an investment
+        bank, ACA pennywise for a pound loss to stop,
+        donee-beneficiary-surrendered-freedoms to bid in insurance, lenders and
+        landlords.
       </div>
     );
   }
