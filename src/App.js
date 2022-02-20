@@ -2251,7 +2251,7 @@ export default class App extends React.Component {
           insulated house-win fee prize donee insurance savings by NOT bundling
           now
         </h2>
-        to say 'tard' or censor 'retard' is ableist.
+        to say 'tard' or censor 'retard' is ableist. no liability open source
       </div>
     );
   }
