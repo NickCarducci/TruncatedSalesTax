@@ -2592,8 +2592,12 @@ export default class App extends React.Component {
         <br />
         <br />
         Borrower (force majeure intent, repo-cycle kept-down, loitering damages
-        on donee bid notwithstanding) and donee-beneficiary product (not
-        game-prize)
+        on donee bid notwithstanding) and donee-be.
+        <br />
+        <br />
+        Robust particularly in rural, if you are going to service demand, you
+        don’t need to share-split their currency, in money contractor liable
+        spending
       </div>
     );
   }
