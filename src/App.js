@@ -2473,6 +2473,9 @@ export default class App extends React.Component {
         Go to the ghetto and hand out the constitution to tell them of the
         freedoms we don’t have. I'll fucking kill you beforehand. I yield back,
         until you become unreasonable.
+        <br />
+        <br />A lot of dirty hands, let’s make a deal,” no my lying under oath
+        to get out of jail is duress and moot. You are going to jail
       </div>
     );
   }
