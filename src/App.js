@@ -2442,6 +2442,11 @@ export default class App extends React.Component {
           (income/hour)/home
         </a>
         {space}gains.
+        <br />
+        <br />
+        "people who need help with homelessness or poverty are left in squalar."
+        as a Choring Bookkeeper for a Home-Contractor, you need to{space}
+        <a href="https://vaults.biz/nimby">sprint</a>
       </div>
     );
   }
