@@ -2439,6 +2439,27 @@ export default class App extends React.Component {
           </a>
           {space}patronage to build support;”
         </h2>
+        <h1>the Queen is shaking hands, opening hospitalizations</h1>
+        "Is there a different between economic welfare and social welfare?"
+        <br />
+        Nick Carducci - BA in Political Science & Economics, Johns Hopkins
+        University (Graduated 2015)
+        <br />
+        Microeconomists use the word, ‘economic welfare,’ to describe the output
+        by efficiency or productivity (income/hour)/home of Supply and Labor
+        (Demand), all else in a market being dead-weight-box of a lower quality
+        and less partial consumers setting price, like a price control when
+        supply already equates demand (x-axis is literally economic-welfare,
+        that I’ve likened to enumerate as [productive-]efficiency,
+        <a href="https://fred.stlouisfed.org/graph/?g=Llrn">GDP/hour-GDP/p</a>).
+        <br />
+        Pennywise gentrification for a pound of assets/productive-ward, they are
+        quite opposites, for social welfare, Supply != Labor, and a
+        dead-weight-box ensues.
+        <br />
+        Social welfare now means practically investment bank welfare.
+        <br />
+        <br />
         Long covid: “Consistent overconsumption of sugar can cause a harmful
         condition known as "metabolic slowdown." Warning signs include unwanted
         belly flab, "brain fog", slower metabolism, tiredness, constipation, and
