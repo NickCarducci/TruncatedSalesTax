@@ -2292,6 +2292,21 @@ export default class App extends React.Component {
         -lest intent deduces.
         <br />
         <br />
+        Report (ableist):
+        <br />
+        "Will the republicans support America or Russia if there is a war?"
+        <br />
+        Ashkay Natu - Software Engineer at Numerous Domains
+        <br />
+        "Why the fcuk would American Republican citizens support RUSSIA in a
+        war?? Get back on the blue bus where you belong, Forrest Gump. Learn how
+        to re-tread tires."
+        <br />
+        <br />
+        what did putin do? We sanction pipelines and he is fighting back.
+        Conscript me and I will turn the gun on you.
+        <br />
+        <br />
         sack the filthy vaxx dodgers, wash with dog catchers. “People who wish
         to be free, are now quietly singing the Canadian national anthem,” Neil
         Oliver “Average dying of covid is older than average life expectancy.”
