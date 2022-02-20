@@ -63,8 +63,11 @@ class Cable extends React.Component {
       var between =
         //Math.abs(scrollTop + page.offsetTop - window.scrollY) <
         //girt + window.innerHeight;
-        page.offsetTop - scrollTop > Number(`-${girt}`) &&
-        scrollTopAndHeight - page.offsetTop > Number(`-${girt}`);
+        page.offsetTop - scrollTop <
+        Math.abs(
+          girt
+        ); /*Number(`-${girt}`) &&
+        scrollTopAndHeight - page.offsetTop > Number(`-${girt}`);*/
       /* Math.abs(
             scrollTop +
               page.offsetTop -
@@ -148,6 +151,7 @@ class Cable extends React.Component {
         } /*if (page.innerHTML === "") */ else {
           const children = [...page.children];
           if (
+            //frusterated the second, paniced the first" ca
             cache &&
             (children.length === 0 || !children.find((x) => x === cache))
           ) {
@@ -239,10 +243,11 @@ class Cable extends React.Component {
               //width: "100%",
               border: 0,
               //...this.props.style,
-              height: optionalheight,
-              width: optionalwidth, // "max-content"
-              overflowX: "auto",
-              maxWidth: "100%"
+              //height: optionalheight,
+              //width: optionalwidth, // "max-content"
+              //overflowX: "auto",
+              height: "100%",
+              width: "100%"
             }}
             ref={this.props.fwd}
             src={src}
