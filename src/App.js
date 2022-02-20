@@ -2672,6 +2672,9 @@ export default class App extends React.Component {
         You can’t stop whistleblowers from jury.
         <br />
         The mentally-wrong, hypocritical supposition withstanding rights.
+        <br />
+        People steal not because there is an absence of investment bank
+        “welfare.”
       </div>
     );
   }
