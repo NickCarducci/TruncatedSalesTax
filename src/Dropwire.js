@@ -63,11 +63,8 @@ class Cable extends React.Component {
       var between =
         //Math.abs(scrollTop + page.offsetTop - window.scrollY) <
         //girt + window.innerHeight;
-        page.offsetTop - scrollTop <
-        Math.abs(
-          girt
-        ); /*Number(`-${girt}`) &&
-        scrollTopAndHeight - page.offsetTop > Number(`-${girt}`);*/
+        page.offsetTop - scrollTop > Number(`-${girt}`) &&
+        scrollTopAndHeight - page.offsetTop > Number(`-${girt}`);
       /* Math.abs(
             scrollTop +
               page.offsetTop -
@@ -151,9 +148,9 @@ class Cable extends React.Component {
         } /*if (page.innerHTML === "") */ else {
           const children = [...page.children];
           if (
-            //frusterated the second, paniced the first" ca
             cache &&
-            (children.length === 0 || !children.find((x) => x === cache))
+            (children.length === 0 ||
+              !children.find((x) => x.key === cache.key))
           ) {
             console.log("reloading");
             //console.log("replenishing, new scroll", cache);
@@ -179,21 +176,18 @@ class Cable extends React.Component {
       });
     };
     const optionalwidth =
-      /*(this.state.img || this.state.loaded) && this.state.framewidth
+      (this.state.img || this.state.loaded) && this.state.framewidth
         ? this.state.framewidth
-        :*/ this
-        .props.style && this.props.style.width // &&
+        : this.props.style && this.props.style.width // &&
         ? //!isNaN(this.props.style.width)
           this.props.style.width
-        : 200;
-    const optionalheight =
-      /*this.state.height
+        : "200px";
+    const optionalheight = this.state.height
       ? this.state.height
-      :*/ this.props.style &&
-      this.props.style.height // &&
-        ? //!isNaN(this.props.style.width)
-          this.props.style.height
-        : "auto";
+      : this.props.style && this.props.style.height // &&
+      ? //!isNaN(this.props.style.width)
+        this.props.style.height
+      : "min-content";
     //console.log(optionalwidth);
     return (
       <div
@@ -201,17 +195,16 @@ class Cable extends React.Component {
         style={{
           boxShadow: "inset 0px 0px 50px 15px rgb(200,100,120)",
           //width: this.state.framewidth,
+          //width: optionalwidth,
           ...this.props.style,
           //overflowX: "auto",
           shapeOutside: "rect()",
           float,
           overflow: "hidden",
-          height: optionalheight,
-          /*this.state.frameheight
+          height: this.state.frameheight
             ? this.state.frameheight + 10
-            : "max-content",*/
-          width: optionalwidth // "max-content"
-          //maxWidth: "100%"
+            : "max-content",
+          maxWidth: "100%"
           //minWidth: optionalwidth // "max-content"
         }}
       >
@@ -225,9 +218,9 @@ class Cable extends React.Component {
             style={{
               //width: "100%",
               border: src === "" ? "2px gray solid" : 0,
-              //...this.props.style,
               height: optionalheight,
-              width: optionalwidth, // "max-content"
+              minWidth: optionalwidth, // "max-content"
+              ...this.props.style,
               overflowX: "auto",
               maxWidth: "100%"
             }}
@@ -242,12 +235,11 @@ class Cable extends React.Component {
             style={{
               //width: "100%",
               border: 0,
-              //...this.props.style,
-              //height: optionalheight,
-              //width: optionalwidth, // "max-content"
-              //overflowX: "auto",
-              height: "100%",
-              width: "100%"
+              height: optionalheight,
+              width: optionalwidth, // "max-content"
+              ...this.props.style,
+              overflowX: "auto",
+              maxWidth: "100%"
             }}
             ref={this.props.fwd}
             src={src}
@@ -349,10 +341,13 @@ export default React.forwardRef((props, ref) => <Cable fwd={ref} {...props} />);
       const data = JSON.parse(event.data)
       console.log("Hello World?", data)
     }
+
     window.addEventListener("message", handler)
+
     // clean up
     return () => window.removeEventListener("message", handler)
   }, []) // empty array => run only once
+
   return (
     <div>
       <iframe
