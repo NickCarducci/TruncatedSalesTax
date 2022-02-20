@@ -2309,6 +2309,13 @@ export default class App extends React.Component {
         he thinks he can surrender)
         <br />• cap rental-income and minimal viable product duress by 11/12
         industry jury permit, or implausible use 5 storefronts and condominiums.
+        <h2>
+          “
+          <a href="https://www.quora.com/Historically-have-big-investments-in-infrastructure-helped-or-hurt-America/answer/Nick-Carducci">
+            Infrastructure
+          </a>
+          {space}patronage to build support;”
+        </h2>
       </div>
     );
   }
