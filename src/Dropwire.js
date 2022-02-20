@@ -206,8 +206,8 @@ class Cable extends React.Component {
           /*this.state.frameheight
             ? this.state.frameheight + 10
             : "max-content",*/
-          width: optionalwidth, // "max-content"
-          maxWidth: "100%"
+          width: optionalwidth // "max-content"
+          //maxWidth: "100%"
           //minWidth: optionalwidth // "max-content"
         }}
       >
@@ -236,9 +236,8 @@ class Cable extends React.Component {
             onError={onError}
             title={title}
             style={{
-              backgroundColor: "blue",
               //width: "100%",
-              border: "1px blue solid",
+              border: 0,
               //...this.props.style,
               height: optionalheight,
               width: optionalwidth, // "max-content"
@@ -374,4 +373,3 @@ export default React.forwardRef((props, ref) => <Cable fwd={ref} {...props} />);
   )
 }
   */
-
