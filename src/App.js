@@ -2323,7 +2323,9 @@ export default class App extends React.Component {
         of millions of Americans.”
         <br />
         <br />a lot of jobs, from taxes, for gentrification of services -
-        Savers' lands, stolen by Keystone
+        Savers' lands, stolen by Keystone. "consumers end up passed paying tax
+        -" John Thune - actually, the consumers pay the tax by market prices,
+        supply and demand is only witnessed by the bookie/auctioneer
       </div>
     );
   }
