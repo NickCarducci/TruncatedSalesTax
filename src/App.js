@@ -2378,6 +2378,25 @@ export default class App extends React.Component {
         he thinks he can surrender)
         <br />• cap rental-income and minimal viable product duress by 11/12
         industry jury permit, or implausible use 5 storefronts and condominiums.
+        <Cable
+          onError={handleScollImgError}
+          img={true}
+          style={{
+            width: "100%",
+            height: "auto"
+          }}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://www.dl.dropboxusercontent.com/s/ihpnmaehf8t157n/Screen%20Shot%202022-02-20%20at%204.26.26%20PM.png?dl=0"
+          }
+          float="right"
+          title="GBNews propiganda death rate non-aggregate non-exclusive basis of population insignificance RETARD"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         <h2>
           “
           <a href="https://www.quora.com/Historically-have-big-investments-in-infrastructure-helped-or-hurt-America/answer/Nick-Carducci">
@@ -2680,6 +2699,7 @@ export default class App extends React.Component {
             Endogenous is correlation to explain bivariate cause, as a solution
           </a>
         </h2>
+        mostly mentally ill are homeless, like CT scan?
       </div>
     );
   }
