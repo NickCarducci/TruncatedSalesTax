@@ -2622,7 +2622,15 @@ export default class App extends React.Component {
         gentrification operational monopsony purpose, versus
         target-margin/quality warn/tort/jail non-state-vic nor criminal anything
         washes/duress minimal viable product Tranquil and voluntary trade, for
-        no less than microeconomic Supply and Demand, GDP/hour-GDP/p
+        no less than microeconomic Supply and Demand, GDP/hour-GDP/p.
+        <br />
+        <br />
+        Random unshuffled orderly significant, “grip on reality isn’t so
+        secure.” Virus made in when is insane.{space}
+        <a href="https://qr.ae/pGQKo2">Bonkers</a>.'
+        <h2>
+          anything washes to lenders, landlords, insurers, "nice, cushy-job."
+        </h2>
       </div>
     );
   }
