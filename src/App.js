@@ -133,6 +133,11 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          "biggest factor in inflation is spending, stimulus, 'money or
+          savings,' not chequeing." but debt is equal share home, corporate, and
+          federal.
+          <br />
+          <br />
           strengthening supply chains by{space}
           <a href="https://billbiden.org">gentrification</a>, jobs slave for
           fruits government, not Public, profits. If Frank Morano is against it
@@ -2305,7 +2310,9 @@ export default class App extends React.Component {
           scrollTop={this.state.scrollTop}
         />
         to say 'tard' or censor 'retard' is ableist. no liability open source
-        -lest intent deduces. debt is retarded, tards usually abject
+        -lest intent deduces. debt is retarded, tards usually abject. Don’t
+        metaphors ableism, if you are going to do it, make it constructive or
+        poignant
         <br />
         <br />
         Report (ableist - against anti-war):
