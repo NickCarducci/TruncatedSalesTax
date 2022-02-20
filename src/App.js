@@ -1588,11 +1588,30 @@ export default class App extends React.Component {
         plandemic: CPA, "50+ business owners."
         <br />
         <br />
-        "Are prominent economists warming up to central planning?"
+        <Cable
+          onError={handleScollImgError}
+          img={true}
+          style={{
+            height: "auto"
+          }}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://www.dl.dropboxusercontent.com/s/kumos62czc3232n/invisible%20illness.PNG?dl=0"
+          }
+          float="right"
+          title="https://qr.ae/pGQKo2"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        "Are prominent economists{space}
+        <a href="https://qr.ae/pGQKo2">warming up</a>
+        {space}to central planning?"
         <br />
         Nick Carducci - BA in Political Science & Economics, Johns Hopkins
-        University (Graduated 2015)1h Nick Carducci BA in Political Science &
-        Economics, Johns Hopkins University (Graduated 2015)
+        University (Graduated 2015)
         <br />
         That is the ONLY way you become prominent in economics. Millennials
         aren't delinquent like the 19% disabled investment banks over the
@@ -2356,6 +2375,9 @@ export default class App extends React.Component {
         life for donee beneficiary payout from investment bank and per diem
         incarceration conflict of interest, 1/12 industry-vertical max-royalty.
         <br />
+        <br />
+        the party of liberty wants to control drop deaders, scapegoating
+        'prosecutors,' and freedoms. jim jordan
         <br />
         "Will the republicans support America or Russia if there is a war?"
         <br />
