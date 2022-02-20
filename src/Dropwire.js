@@ -182,12 +182,14 @@ class Cable extends React.Component {
         ? //!isNaN(this.props.style.width)
           this.props.style.width
         : 200;
-    const optionalheight = this.state.height
+    const optionalheight =
+      /*this.state.height
       ? this.state.height
-      : this.props.style && this.props.style.height // &&
-      ? //!isNaN(this.props.style.width)
-        this.props.style.height
-      : "min-content";
+      :*/ this.props.style &&
+      this.props.style.height // &&
+        ? //!isNaN(this.props.style.width)
+          this.props.style.height
+        : "auto";
     //console.log(optionalwidth);
     return (
       <div
@@ -197,17 +199,14 @@ class Cable extends React.Component {
           //width: this.state.framewidth,
           ...this.props.style,
           //overflowX: "auto",
-          width:
-            this.props.style && this.props.style.width // &&
-              ? //!isNaN(this.props.style.width)
-                this.props.style.width
-              : 200,
           shapeOutside: "rect()",
           float,
           overflow: "hidden",
-          height: this.state.frameheight
+          height: optionalheight,
+          /*this.state.frameheight
             ? this.state.frameheight + 10
-            : "max-content",
+            : "max-content",*/
+          width: optionalwidth, // "max-content"
           maxWidth: "100%"
           //minWidth: optionalwidth // "max-content"
         }}
@@ -237,8 +236,9 @@ class Cable extends React.Component {
             onError={onError}
             title={title}
             style={{
+              backgroundColor: "blue",
               //width: "100%",
-              border: 0,
+              border: "1px blue solid",
               //...this.props.style,
               height: optionalheight,
               width: optionalwidth, // "max-content"
@@ -374,3 +374,4 @@ export default React.forwardRef((props, ref) => <Cable fwd={ref} {...props} />);
   )
 }
   */
+
