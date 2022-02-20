@@ -2450,7 +2450,11 @@ export default class App extends React.Component {
         <Cable
           onError={handleScollImgError}
           //img={true}
-          style={{ width: "100%", height: "660px" }}
+          style={{
+            width: "100%",
+            maxWidth: "calc(100% - 100px)",
+            height: "700px"
+          }}
           src={
             this.state.noyoutube
               ? ""
@@ -2476,6 +2480,25 @@ export default class App extends React.Component {
         <br />
         <br />A lot of dirty hands, let’s make a deal,” no my lying under oath
         to get out of jail is duress and moot. You are going to jail
+        <br />
+        <br />
+        <Cable
+          onError={handleScollImgError}
+          img={true}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://www.dl.dropboxusercontent.com/s/jc1omjuqxgb3lu0/Screen%20Shot%202022-02-20%20at%2011.51.56%20AM.png?dl=0"
+          }
+          float="right"
+          title="David Adam Suddit - former Accountant, retired (1984-2004)"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
+        "How can inefficiencies contributing to public sector failures be
+        solved?"
       </div>
     );
   }
