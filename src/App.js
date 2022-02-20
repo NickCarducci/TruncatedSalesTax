@@ -2589,6 +2589,11 @@ export default class App extends React.Component {
         bank, ACA pennywise for a pound loss to stop,
         donee-beneficiary-surrendered-freedoms to bid in insurance, lenders and
         landlords.
+        <br />
+        <br />
+        Borrower (force majeure intent, repo-cycle kept-down, loitering damages
+        on donee bid notwithstanding) and donee-beneficiary product (not
+        game-prize)
       </div>
     );
   }
