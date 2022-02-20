@@ -2289,10 +2289,10 @@ export default class App extends React.Component {
           scrollTop={this.state.scrollTop}
         />
         to say 'tard' or censor 'retard' is ableist. no liability open source
-        -lest intent deduces.
+        -lest intent deduces. debt is retarded, tards usually abject
         <br />
         <br />
-        Report (ableist):
+        Report (ableist - against anti-war):
         <br />
         "Will the republicans support America or Russia if there is a war?"
         <br />
@@ -2301,6 +2301,25 @@ export default class App extends React.Component {
         "Why the fcuk would American Republican citizens support RUSSIA in a
         war?? Get back on the blue bus where you belong, Forrest Gump. Learn how
         to re-tread tires."
+        <Cable
+          onError={handleScollImgError}
+          img={true}
+          style={{
+            width: "100%",
+            height: "auto"
+          }}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://www.dl.dropboxusercontent.com/s/ekbwg00ve02w9tj/Screen%20Shot%202022-02-20%20at%2010.02.02%20AM.png?dl=0"
+          }
+          float="left"
+          title="Chapelle (Newsmax) Sunday Morning backdrop"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
         <br />
         <br />
         what did putin do? We sanction pipelines and he is fighting back.
