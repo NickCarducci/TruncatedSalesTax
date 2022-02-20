@@ -2640,6 +2640,38 @@ export default class App extends React.Component {
         <br />
         Artifactual per capita, by population aggregate correlation can have a
         bivariate cause.
+        <br />
+        <br />
+        People steal not because there is an absence of investment bank
+        “welfare.”
+        <br />
+        <br />
+        ccc gerontocracy 19% "disabled" trust building bond-tax hipocrisy
+        notwithstanding hypocrisy, reduced child poverty inflation/average
+        income inequality. is it possible contributing to it, possibly, part of
+        it, absolutely.
+        <br />
+        <br />
+        GDP/p is tech deprecation… FDR only harmed us. Reverse amortize the
+        donee beneficiary surrendered freedoms (cash/debt)*income every year
+        back instead of Savers’ land-deed-split or cancelling.
+        <br />
+        <br />
+        I’m bottom-left, anti-rent-seeker, pro-Occupy: Medicare is an investment
+        bank because of 1937 SSA, 19% “disabled,” are just old your arguments
+        lack… everything. I’m reporting you for racism, as speaking Japanese or
+        German is not harm.
+        <br />
+        Established hunky-dory then.
+        <br />
+        Aren’t you speaking derogatorily and with prejudice (fascist), of
+        foreigners? Hypocrites get criticized, unbarred.
+        <br />
+        “Artistic, autistic, not macho or butch girls.” Dennis Kavanagh
+        <br />
+        You can’t stop whistleblowers from jury.
+        <br />
+        The mentally-wrong, hypocritical supposition withstanding rights.
       </div>
     );
   }
