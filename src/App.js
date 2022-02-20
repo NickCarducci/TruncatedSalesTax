@@ -2276,6 +2276,39 @@ export default class App extends React.Component {
         sack the filthy vaxx dodgers, wash with dog catchers. “People who wish
         to be free, are now quietly singing the Canadian national anthem,” Neil
         Oliver “Average dying of covid is older than average life expectancy.”
+        <br />
+        <br />
+        "What are some progressive movements that I should join?"
+        <br />
+        Nick Carducci Chairperson at Saver Party (2020–present)
+        <br />
+        Progressives seem to follow the investment bank over currency (20% of
+        U.S. land) line, becoming collectivists for corporates and surrendering
+        Marxists’ productive-ward. For instance, instead of stopping monopolies,
+        or help children, they seem to help 19% disabled elderly, parents,
+        sustaining the gerontocracy gentrification trust: 44% of Medicare
+        $829.5b/yr and $1.2t/yr SSA, $2.7t total “healthcare,” $170t
+        assets:liabilities and $2t chequeing.
+        <br />
+        If they understood this, they might get in line with the new
+        bottom-left, Saver Party.
+        <br />
+        • ban invoices for borrower defense (force majeure intent), and donee
+        defense (collateral by compound or general-income) for 1/12 industry
+        vertical max-royalty,
+        <br />
+        • ween cops off conflict of interest per diem incarceration bonds equal
+        in receipt and scope truncated production tax 2025,
+        <br />
+        • cash payout scope house-wins fee, but real life events receipt of
+        surrendered freedom chance, except still a game (sports, private uuid
+        anon abstain holdings with standing),
+        <br />
+        • service time copy, but not non-compete for those copies (e.g.
+        Exclusive contracts but Kanye can sell elsewhere, no matter what rights
+        he thinks he can surrender)
+        <br />• cap rental-income and minimal viable product duress by 11/12
+        industry jury permit, or implausible use 5 storefronts and condominiums.
       </div>
     );
   }
