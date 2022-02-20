@@ -133,6 +133,34 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          50% of your wages paid at home, most are 65+, 19% "disabled"
+          investment bank policy making over currency unequal reporting
+          requirements between{space}
+          <a href="https://qr.ae/pGQ2yq">retail and brokers</a>.
+          <br />
+          <br />
+          Boycotting credit with by copy, and science-notwithstanding
+          <br />
+          <br />
+          Microeconomists use the word, ‘economic welfare,’ to describe the
+          output by efficiency or productivity (income/hour)/home of Supply and
+          Labor (Demand), all else in a market being dead-weight-box of a lower
+          quality and less partial consumers setting price, like a price control
+          when supply already equates demand (x-axis is literally
+          economic-welfare, that I’ve likened to enumerate as
+          [productive-]efficiency,{space}
+          <a href="https://fred.stlouisfed.org/graph/?g=Llrn">GDP/hour-GDP/p</a>
+          ).
+          <br />
+          Social welfare now means practically investment bank welfare.
+          <br />
+          "Let the genius of people shine" comparative advantage,{space}
+          <a href="https://qr.ae/pGQ2KX">
+            government hypocritical "trust-breaking" get all out
+          </a>
+          .
+          <br />
+          <br />
           "biggest factor in inflation is spending, stimulus, 'money or
           savings,' not chequeing." but debt is equal share home, corporate, and
           federal.
