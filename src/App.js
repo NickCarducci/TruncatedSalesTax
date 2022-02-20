@@ -133,6 +133,11 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          strengthening supply chains by{space}
+          <a href="https://billbiden.org">gentrification</a>, jobs slave for
+          fruits government, not Public, profits. If Frank Morano is against it
+          in the economy, you can be sure to go the other way.
+          <br />
           Anti royalty jury, max royalty business.
           <br />
           Trust break monopsonies where supply != demand.
