@@ -133,6 +133,11 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          Anti royalty jury, max royalty business.
+          <br />
+          Trust break monopsonies where supply != demand.
+          <br />
+          <br />
           "At lester Glen, giving our customer the best experience is our top
           priority, as with competing with consumers."
           <br />
