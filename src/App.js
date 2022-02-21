@@ -105,6 +105,7 @@ export default class App extends React.Component {
     return (
       <div
         style={{
+          overflowX: "hidden",
           fontFamily: "arial, sans serif",
           wordBreak: "break-word",
           textAlign: "left",
