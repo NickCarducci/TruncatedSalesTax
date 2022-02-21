@@ -2894,7 +2894,8 @@ export default class App extends React.Component {
         -GDP/p is tech advancement (pro-people), so negative people are
         grounded-optimists; hardly are narcissists in such a way about absolute
         measures rather than rates or change-rates, unless they are critiquing
-        quality.
+        quality, thereafter the assessment is again a rate by
+        /(utility-indifference).
         <br />
         <br />
         What are the chances of another stimulus payment?
