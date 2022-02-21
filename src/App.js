@@ -3122,6 +3122,9 @@ export default class App extends React.Component {
         periphery enclaves, Woefully short of what to do about this, put them
         out of business, unleashing Savers’ land-exploration rights. I will kill
         you cornel.
+        <br />
+        <br />a problem in search of a solution. Karma by reason or firesale.
+        Clarity and resolve
       </div>
     );
   }
