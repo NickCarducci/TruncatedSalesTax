@@ -3069,6 +3069,10 @@ export default class App extends React.Component {
         <br />I have to think this thru this for all of you, uncounted in GDP,
         actually it lowers it, and that is technological advancement, as is
         unemployment-as-artifact.
+        <br />
+        <br />
+        closing the border, spectrum nor debt is conservative, retard Dan
+        O'Donnell.
       </div>
     );
   }
