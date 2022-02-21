@@ -2780,7 +2780,10 @@ export default class App extends React.Component {
         outside the market/land-deed (dollar) share-split (raises bid for no
         gain, 1/0 elasticity).
         <br />
-        Save America broad 501c4 Saver descriptive
+        <br />
+        Save America broad 501c4 Saver descriptive. “Platform needs to get a
+        judge to desist.” - Jimmy Dore
+        <br />
         <br />
         Everyone died on time, ‘excess’ year-to-year’ is expected and n=2019–20
         cannot draw significance from such an assumed mean (of reality).
