@@ -3102,6 +3102,11 @@ export default class App extends React.Component {
         <br />
         <br />
         Bitch: "if they were sure to make use green wouldn't they gentrify?"
+        <br />
+        <br />
+        "who is going to pay for the healthcare costs?" good will assets valued
+        by ask set by liabilities. welfare is an investment bank, otherwise,
+        immigration is productive for -GDP/p tech advancement. fat bitch
       </div>
     );
   }
