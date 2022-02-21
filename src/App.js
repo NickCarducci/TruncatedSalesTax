@@ -2926,6 +2926,13 @@ export default class App extends React.Component {
         <br />
         4c. tort by state vic or criminalization banned: warn, tort, jail
         without financial conflict of interest incarcaration per diem.
+        <br />
+        <br />
+        Stupidity is a killer.
+        <br />
+        Over your heads.
+        <br />
+        Points are slipping by you.
       </div>
     );
   }
