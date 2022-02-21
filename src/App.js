@@ -602,11 +602,11 @@ export default class App extends React.Component {
           onError={handleScollImgError}
           //img={true}
           src={
-            this.state.serviceCancelingImages
+            this.state.noyoutube
               ? ""
               : "https://drive.google.com/file/d/1NGR6kw3SJvf-L64eVhCK9QVgP2YovMqD/preview"
           }
-          float="left"
+          float="right"
           title="Dr Henderson Review on Google, recinding of mental-illness claim online, apologizing for my 'knee appointment'"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + scrollnum()]}
@@ -696,7 +696,7 @@ export default class App extends React.Component {
               : "https://www.youtube.com/embed/Jxj0-TaTm4o"
           }
           float="left"
-          title=""
+          title="nj 101.5 jim and judy - gaslighting, red herring, scapegoating"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + scrollnum()]}
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
@@ -789,7 +789,7 @@ export default class App extends React.Component {
               ? ""
               : "https://www.linkedin.com/embed/feed/update/urn:li:share:6841120482733916160"
           }
-          float="left"
+          float="right"
           title="https://www.linkedin.com/posts/nickcarducci_unemploymentbenefits-activity-6841120483153330176-xhhz"
           scrolling={this.state.scrolling}
           fwd={this["scrollImg" + scrollnum()]}
@@ -3055,9 +3055,9 @@ export default class App extends React.Component {
           monopsony-investment-bank-welfare, and taxation, the cause of war
         </h3>
         we don't need your sanctions after we are bombed." I would blow both
-        countries up. Millions of swords, no shields. Let’s make a deal, flaccid
-        corporate-profit-account loss. No spin - honest. Guru Time-tested n Mean
-        about right.
+        countries up{/**"is there any downside," Bachmann */}. Millions of
+        swords, no shields. Let’s make a deal, flaccid corporate-profit-account
+        loss. No spin - honest. Guru Time-tested n Mean about right.
         <br />
         <br />
         putin's kink for blood, and poisoning political competition
