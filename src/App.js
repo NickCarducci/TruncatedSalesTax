@@ -2783,8 +2783,7 @@ export default class App extends React.Component {
         <br />
         Everyone died on time, ‘excess’ year-to-year’ is expected and n=2019–20
         cannot draw significance from such an assumed mean (of reality).
-        <br />
-        <br />
+        <h2>John Catsimitidis needs to die</h2>
         "How much money has Schumer gotten for NY, a zillion dollars, he needs
         to have more courage to go against the woke culture. I’ve known Trump
         for 30 years, but he does some things some times, he could have been the
