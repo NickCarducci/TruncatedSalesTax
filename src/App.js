@@ -2877,8 +2877,9 @@ export default class App extends React.Component {
         a CT-scan you scum bitch criminals off the street, put them in rikers,
         criminals by what?
         <h2>Bipartisan minorities conflicting on all the wrong reasons</h2>
+        Hypocritical conviction just shows how laws are subjective and
+        precedence is standing, not grounds like comparative innocence.
       </div>
     );
   }
 }
-
