@@ -2920,6 +2920,9 @@ export default class App extends React.Component {
         condominiums rental-income cap.
         <br />
         4b. receipt: Geohash/mo precinct spoofable 3$ under $2k.
+        <br />
+        4c. tort by state vic or criminalization banned: warn, tort, jail
+        without financial conflict of interest incarcaration per diem.
       </div>
     );
   }
