@@ -2976,7 +2976,14 @@ export default class App extends React.Component {
         inequality].
         <br />
         <br />
-        keystone is Savers' land-deeds, it is sold upon 11/12 vote:population
+        keystone is Savers' land-deeds, it is sold upon 11/12 vote:population.
+        <div style={{ marginLeft: "5px", borderLeft: "3px blue solid" }}>
+          In 2020, the Alberta government agreed to provide financial support to
+          TC Energy to help advance pipeline construction. This investment
+          included C$1.5 billion in equity investment in 2020 and a C$6 billion
+          loan guarantee in 2021.
+        </div>
+        republicans are social-retards
       </div>
     );
   }
