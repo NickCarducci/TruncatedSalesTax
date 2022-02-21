@@ -3199,7 +3199,17 @@ export default class App extends React.Component {
         third party cause
         <h1>if it hurts, don't do it</h1>
         the right: 1/0 elasticity self-deprecation Prosperity laborless demand
-        and freedom or equality competition poverty and efficiency
+        and freedom or equality competition poverty and efficiency.
+        <br />
+        <br />
+        the slander is as bewildering as the Ad council saying DUI isn't a
+        government scapegoat gerotocratic 19% "disabled" gentrification scam for
+        uppers. “Crime and rapes at the southern border,” says JD. Vance,
+        illegal aliens are less violent per capita than citizens, are you going
+        by square mile or the trek? 216/day missing children still beats your
+        cartel statistics that are caused by $4t/yr 40%
+        donee-beneficiary-surrendered-freedom with $2t chequeing concurrentable
+        spending by the bipartisan minorities
       </div>
     );
   }
