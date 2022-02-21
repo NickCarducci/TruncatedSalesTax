@@ -2798,7 +2798,7 @@ export default class App extends React.Component {
         walk it back, warmongers.
         <br />
         <br />
-        "What is the economist Joan Robinson's theory on "monopsony" exactly?"
+        "What is the economist Joan Robinson's theory on 'monopsony' exactly?"
         <br />
         Nick Carducci - BA in Political Science & Economics, Johns Hopkins
         University (Graduated 2015)
@@ -2816,8 +2816,12 @@ export default class App extends React.Component {
         controlled when price is controlled (unless supply already doesn’t equal
         demand), causing more laborless-demand granted by high-quality producers
         eating costs just to keep moving.
-        <br />
-        <br />
+        <h2>"feckless," john solomon, "just the news, no opinion nor spin"</h2>
+        <TwitterTweetEmbed
+          style={{ width: "300px", float: "left" }}
+          key="1416803308824633347"
+          tweetId="1416803308824633347"
+        />
         "How would a democratic society handle unrepresented sources of power?"
         <br />
         Nick Carducci - policy-drafting software-developer & microeconomist
@@ -2872,7 +2876,9 @@ export default class App extends React.Component {
         Body dismorphic disorder, how can that be a mental disorder without even
         a CT-scan you scum bitch criminals off the street, put them in rikers,
         criminals by what?
+        <h2>Bipartisan minorities conflicting on all the wrong reasons</h2>
       </div>
     );
   }
 }
+
