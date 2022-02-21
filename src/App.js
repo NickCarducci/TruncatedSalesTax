@@ -2952,6 +2952,31 @@ export default class App extends React.Component {
         <br />
         leisure (scientific contribution) is productive, GDP/p is
         counterproductive
+        <br />
+        <br />
+        "How high can inflation rise before it becomes an existential threat to
+        an economy, and why?"
+        <br />
+        Nick Carducci - BA in Political Science & Economics, Johns Hopkins
+        University (Graduated 2015)
+        <br />
+        Cpi material inflation, against asset and labor price increases, are
+        **not threatened - but exhausted by** - years of impact; not even one
+        year of 20%/yr will exhaust labor-borne-demand, by laborless-demand - it
+        **only stops when people stop working for financial-userers** in
+        insurers, landlords and lenders, at a diminishing return.
+        <div style={{ marginLeft: "5px", borderLeft: "3px blue solid" }}>
+          The limit does not exist!
+        </div>
+        GDP/p has been 0%/yr+{space}
+        <a href="https://vaults.biz/gdp">1800–1913</a>
+        {space}in the U.S., so there is no reason for increased demand by price
+        [never does demand increase per capita beyond basis without
+        laborless-demand borne (inflation/income=poverty) inflation and
+        inequality].
+        <br />
+        <br />
+        keystone is Savers' land-deeds, it is sold upon 11/12 vote:population
       </div>
     );
   }
