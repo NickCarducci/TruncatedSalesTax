@@ -3002,7 +3002,7 @@ export default class App extends React.Component {
         <h2>blind bookmaking - fine judges for appeals</h2>
         I’m from social liberal and financially conservative, and Democrats are
         for welfare and Republicans are for GDP, but Saver is
-        (income/hour)/home. Skew is tech advancement -GDP/p+GDP/hour,
+        (income/hour)/home. Skew is tech advancement -GDP/p+GDP/hour efficiency,
         diminishing return, we don't ban dishwashing, just implausible use
         rental-income
         <br />
@@ -3021,6 +3021,12 @@ export default class App extends React.Component {
         <br />
         "Markets are in turmoil without even firing a shot! It is everything he
         wants!"
+        <h2>
+          productive-ward, equality, poverty, competition, efficiency, labor
+          skew to material diminishing return to productivity:
+          (income/hour)/home.
+        </h2>
+        only experts look at, then do nothing.
       </div>
     );
   }
