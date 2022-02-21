@@ -3043,6 +3043,10 @@ export default class App extends React.Component {
         party like a mortgage partnering with the seller, it is still like an
         option to sell; "designed for end-of-life" 19% "'disabled,'" that the
         loitering-borrower has to pay back - that is NO different.
+        <br />
+        <br />
+        we must protect the seat/eed of our democracy, proact to potentially
+        what we see in the coming years
       </div>
     );
   }
