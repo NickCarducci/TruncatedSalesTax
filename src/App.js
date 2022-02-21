@@ -2789,7 +2789,8 @@ export default class App extends React.Component {
         for 30 years, but he does some things some times, he could have been the
         greatest president ever." Share-split, loitering and laundering
         land-deeds, elasticity of 1/0 and reducing equality, competition and
-        efficiency, for laborless-demand and fat.
+        efficiency, for laborless-demand and fat. "No one wants to affect
+        $1b/day.”
         <br />
         <br />
         prevent WWIII with target margin operational monopsony free rider
