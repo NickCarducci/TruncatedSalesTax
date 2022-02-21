@@ -2909,8 +2909,11 @@ export default class App extends React.Component {
         4. impose equal in receipt and scope (sewage, police, lawsuits free
         rider immutables) truncated production tax (2025, nj).
         <br />
-        5. target margin operational monopolies, 11/12 multiple industry jury
-        permit duress minimal viable product
+        4a. scope: Target margin operational monopolies, 11/12 multiple industry
+        jury permit duress minimal viable product, 5 storefronts and
+        condominiums rental-income cap.
+        <br />
+        4b. receipt: Geohash/mo precinct spoofable 3$ under $2k.
       </div>
     );
   }
