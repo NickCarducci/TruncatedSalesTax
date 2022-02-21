@@ -3215,6 +3215,45 @@ export default class App extends React.Component {
         inflation. fucking idiots. people with a long list of crime able to roam
         the cities,
         <h1>Rush Limbaugh: "making money tighter won't stop inflation."</h1>
+        Prosperity laborless demand and freedom or equality competition poverty
+        and efficiency.
+        <br />
+        “Crime and rapes at the southern border,” says JD. Vance, illegal aliens
+        are less violent per capita than citizens, are you going by square mile
+        or the trek? 216/day missing children still beats your cartel statistics
+        that are caused by $4t/yr 40% donee-beneficiary-surrendered-freedom with
+        $2t chequeing concurrentable spending by the bipartisan minorities.
+        <br />
+        If you let gristedes control behavior, and you elope from medication,
+        you aren’t allowed to slit their throats?!?
+        <br />
+        Chief commissioner of New York.
+        <br />
+        Bill bratton, you are dead you fucker.
+        <br />
+        8.5m NY ageee with Eric Adams, for voting, “no candidate.”
+        <br />
+        There is a couple nuts who organized the thing
+        <br />
+        What is your analyst you prejudiced fuck? I have to tell you I’m
+        analyzing and deducing cash fucking accounting because you are a farce?
+        I have to say it with every word in the dictionary?
+        <br />
+        Looking at problems as problems instead of solution is defeatist and
+        retarded. CIA are interested in trade secrets, not education.
+        <br />
+        Retarded for our county, and the world. Just because you retard your
+        scientific advancement doesn't mean you win, you actually lose, slow
+        progression, waste labor-borne-demand for GDP/p laborless-demand and
+        tech deprecation.
+        <br />
+        Anticompetitive inequality science rent seeking and counterproductivity.
+        <br />
+        Business is consumer s not prisoners.
+        <br />
+        Inflation is destroying the investment bank defense.
+        <br />
+        Putin wants to do chinas work for them. What?
       </div>
     );
   }
