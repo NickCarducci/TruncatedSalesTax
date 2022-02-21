@@ -2950,8 +2950,8 @@ export default class App extends React.Component {
         horizontal 1/12 (industry-)trust, 10/12 jury unbiased.
         <br />
         <br />
-        leisure (scientific contribution) is productive, GDP/p is
-        counterproductive
+        leisure (scientific contribution, 'bad-will' private vs investment bank
+        copyrights, chores/favors) is productive, GDP/p is counterproductive
         <br />
         <br />
         "How high can inflation rise before it becomes an existential threat to
@@ -2998,4 +2998,3 @@ export default class App extends React.Component {
     );
   }
 }
-
