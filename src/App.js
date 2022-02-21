@@ -2983,7 +2983,11 @@ export default class App extends React.Component {
           included C$1.5 billion in equity investment in 2020 and a C$6 billion
           loan guarantee in 2021.
         </div>
-        republicans are social-retards
+        republicans are social-retards. why do you care about illegal aliens
+        when they are pro-tech advancement and{space}
+        <a href="https://vaults.biz/immi">more peaceful than citizens</a>? "they
+        are going to need food, shelter and job, just more pressure on
+        good-tax-paying americans."
       </div>
     );
   }
