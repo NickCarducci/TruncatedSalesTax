@@ -2990,8 +2990,11 @@ export default class App extends React.Component {
         good-tax-paying americans. 80-90% travelling-lookers get raped, even
         after paying cartels. No-cash-bail. They are letting people out before
         evidence of an actual crime. Known-hazards are all self-inflicted
-        wounds."
+        wounds. Term insurance not a game, this is life -
+        donee-beneficiary-surrendered-freedom for laborless-demand and useless
+        1/0 price-elasticity."
       </div>
     );
   }
 }
+
