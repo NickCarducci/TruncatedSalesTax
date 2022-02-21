@@ -3039,7 +3039,10 @@ export default class App extends React.Component {
         <a href="https://vaults.biz/devil">I make no mistakes</a>
         <br />
         <br />
-        drugfare and prosperity
+        drugfare and prosperity. A home equity loan is bid resale, not third
+        party like a mortgage partnering with the seller, it is still like an
+        option to sell; "designed for end-of-life" 19% "'disabled,'" that the
+        loitering-borrower has to pay back - that is NO different.
       </div>
     );
   }
