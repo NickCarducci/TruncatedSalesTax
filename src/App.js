@@ -3005,6 +3005,11 @@ export default class App extends React.Component {
         <br />
         truckers get $40000/trucker. "nobody burned anything down," except my
         fucking equity by etymology/science
+        <br />
+        <br />
+        What’s the deal, who’s dealing?
+        <br />
+        Welfare investment bank
       </div>
     );
   }
