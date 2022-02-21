@@ -3064,7 +3064,7 @@ export default class App extends React.Component {
         putin's kink for blood, and poisoning political competition. enshrined
         right to petition the government and appeak with state-criminalization
         and victimization racket per diem incarceration unequal Article 1.8
-        bond-tax in receipt nor scope.
+        bond-tax in receipt nor scope. Man-date redress of greivances omg faggot
         <br />
         <br />I have to think this thru this for all of you, uncounted in GDP,
         actually it lowers it, and that is technological advancement, as is
@@ -3073,4 +3073,3 @@ export default class App extends React.Component {
     );
   }
 }
-
