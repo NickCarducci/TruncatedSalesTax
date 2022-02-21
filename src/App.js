@@ -3180,8 +3180,11 @@ export default class App extends React.Component {
           scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
           scrollTop={this.state.scrollTop}
         />
+        <h2>
+          anyone who says, "urge the homeless and mentally ill into services,"
+          needs to be slaughtered for promulgating colonialist scapegoating
+        </h2>
       </div>
     );
   }
 }
-
