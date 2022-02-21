@@ -3073,6 +3073,10 @@ export default class App extends React.Component {
         <br />
         closing the border, spectrum nor debt is conservative, retard Dan
         O'Donnell.
+        <br />
+        <br />
+        Stores cannot force customers to do anything, their only discretion is
+        hours and price.
       </div>
     );
   }
