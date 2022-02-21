@@ -2938,7 +2938,12 @@ export default class App extends React.Component {
         Ukraine Crisis: "Loss of life in the Ukrainian army, but no war."
         <br />
         <br />
-        Copper and parent dashboard age verification login.gov malfeasant
+        Copper and parent dashboard age verification login.gov malfeasant.
+        <br />
+        <br />
+        You CANNOT compete with consumers, trust-build, BECAUSE FOR READON THAT
+        -GDP/p tech advancement of laborless-demand (when price-controls
+        suffocates quality supply chain)
       </div>
     );
   }
