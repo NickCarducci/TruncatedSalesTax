@@ -18,7 +18,13 @@ import React from "react";
 class Cable extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { limit: [], cache: null, mountsCount: 0, cacheStyle: "",go:true };
+    this.state = {
+      limit: [],
+      cache: null,
+      mountsCount: 0,
+      cacheStyle: "",
+      go: true
+    };
     this.page = React.createRef();
     this.fwdtwe = React.createRef();
   }
@@ -44,18 +50,18 @@ class Cable extends React.Component {
     clearTimeout(this.setset);
   };
   checkIfBetween = () => {
-    const { frameheight, cache } = this.state;
+    const { /*frameheight,*/ cache } = this.state;
     const { /*scrollTopAndHeight,*/ scrollTop, girth, timeout } = this.props;
     var girt =
       girth && !isNaN(girth)
         ? girth + 500
-        : frameheight
+        : window.innerHeight; /*frameheight
         ? frameheight
         : this.props.style &&
           this.props.style.height &&
           !isNaN(this.props.style.height)
         ? this.props.style.height + 500
-        : 500;
+        : 500;*/
     var timeou = timeout ? timeout : 1500;
     clearTimeout(this.setset);
     this.setset = setTimeout(() => {
@@ -63,9 +69,8 @@ class Cable extends React.Component {
       var between =
         //Math.abs(scrollTop + page.offsetTop - window.scrollY) <
         //girt + window.innerHeight;
-        Math.abs(page.offsetTop - scrollTop) <
-          girt
-        /*Number(`-${girt}`) &&
+        Math.abs(page.offsetTop - scrollTop) < girt;
+      /*Number(`-${girt}`) &&
         scrollTopAndHeight - page.offsetTop > Number(`-${girt}`);*/
       /* Math.abs(
             scrollTop +
