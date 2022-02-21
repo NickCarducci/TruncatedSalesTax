@@ -3037,6 +3037,9 @@ export default class App extends React.Component {
         <br />
         whoops, investment bank welfare accidence - cursing G-d.{space}
         <a href="https://vaults.biz/devil">I make no mistakes</a>
+        <br />
+        <br />
+        drugfare and prosperity
       </div>
     );
   }
