@@ -3054,8 +3054,11 @@ export default class App extends React.Component {
           Torture, donee-beneficiary-surrendered-freedom,
           monopsony-investment-bank-welfare, and taxation, the cause of war
         </h3>
+        we don't need your sanctions after we are bombed." I would blow both
+        countries up. Millions of swords, no shields. Let’s make a deal, flaccid
+        corporate-profit-account loss. No spin - honest. Guru Time-tested n Mean
+        about right
       </div>
     );
   }
 }
-
