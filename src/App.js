@@ -3018,6 +3018,9 @@ export default class App extends React.Component {
         banning whistleblowers in a 12 jury
         <br />
         19% "tards"
+        <br />
+        "Markets are in turmoil without even firing a shot! It is everything he
+        wants!"
       </div>
     );
   }
