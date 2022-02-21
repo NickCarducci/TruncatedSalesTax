@@ -2081,7 +2081,9 @@ export default class App extends React.Component {
         Backed-Separatists.{space}
         <a href="https://anythingwashes.com">anything washes</a>, high rhetoric
         for what? Neither side is describing what they want? Anything beyond
-        Truncated Production Tax, will be their heads.
+        Truncated Production Tax, will be their heads. War has been going on for
+        8 years, Kiev is a corrupt regime, and incursion on Jewish elinski is
+        Neo-Nazi Pales.
         <h2>
           <a href="https://vaults.biz/receipts">anything washes</a>
         </h2>
@@ -3001,3 +3003,4 @@ export default class App extends React.Component {
     );
   }
 }
+
