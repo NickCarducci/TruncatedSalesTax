@@ -2888,7 +2888,9 @@ export default class App extends React.Component {
         (2012–present)
         <br />
         -GDP/p is tech advancement (pro-people), so negative people are
-        grounded-optimists.
+        grounded-optimists; hardly are narcissists in such a way about absolute
+        measures rather than rates or change-rates, unless they are critiquing
+        quality.
         <br />
         <br />
         What are the chances of another stimulus payment?
