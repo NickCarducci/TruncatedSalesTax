@@ -1251,6 +1251,9 @@ export default class App extends React.Component {
         false bid pool investment banks loss is estimate expiring as property,
         that should be illegal advertising by etymology. Trust over currency,
         land-deed keystone Savers.'
+        <span role="img" aria-label="nature">
+          🏞
+        </span>
         <br />
         <br />
         freedom wins by labor skew over inflation, why?
