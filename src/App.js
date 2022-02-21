@@ -3097,6 +3097,9 @@ export default class App extends React.Component {
         tech deprecation keeping 16-19 UNEMPLOYED, which is usually an artifact
         of tech ADVANCEment), 40% debt spending
         donee-beneficiary-surrencered-freedom as land-deed owner, to boot.
+        <br />
+        <br />
+        Bitch: "if they were sure to make use green wouldn't they gentrify?"
       </div>
     );
   }
