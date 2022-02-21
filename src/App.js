@@ -2791,6 +2791,82 @@ export default class App extends React.Component {
         greatest president ever." Share-split, loitering and laundering
         land-deeds, elasticity of 1/0 and reducing equality, competition and
         efficiency, for laborless-demand and fat.
+        <br />
+        <br />
+        prevent WWIII with target margin operational monopsony free rider
+        mutable. NATO expiring premium -training is like an open carry. Just
+        walk it back, warmongers.
+        <br />
+        <br />
+        "What is the economist Joan Robinson's theory on "monopsony" exactly?"
+        <br />
+        Nick Carducci - BA in Political Science & Economics, Johns Hopkins
+        University (Graduated 2015)
+        <br />
+        Monopsony is a competition with consumers of intermediate materials,
+        assets or labor that trust-builds, corners the market and causes a
+        dead-weight-box inefficiency of economic-welfare (GDP/hour-GDP/p) along
+        the price (y-axis) plane.
+        <br />
+        <br />
+        This adapted dead-weight-box between Marginal Utility Indifference
+        propensities of Supply and Demand comes from free rider mutable taxation
+        or debt, and like my rendition of the money market where Supply !=
+        Labor, the monopsony has the same graphical effect: quality-skew is
+        controlled when price is controlled (unless supply already doesn’t equal
+        demand), causing more laborless-demand granted by high-quality producers
+        eating costs just to keep moving.
+        <br />
+        <br />
+        "How would a democratic society handle unrepresented sources of power?"
+        <br />
+        Nick Carducci - policy-drafting software-developer & microeconomist
+        <br />
+        Democracies respect labor-demand for efficiency and productivity,
+        representing earned favors.
+        <br />
+        <br />
+        Authoritarian, monopoly, competing with consumer, cornering the market
+        by labor cost or otherwise, distributional-socialism instead of
+        productive-ward-socialism, are not democracies with representative-,
+        advisory- nor direct-action.
+        <br />
+        <br />
+        Broad nor descriptive copyright may lay claims on science, and such is
+        to be rent-free, open-source, these of which societies today do NOT
+        abide by, neither over free rider mutable trust nor operational
+        monopsony except to replace the latter with the former again
+        (spectrum/bridges/pipelines).
+        <br />
+        <br />
+        "How can inefficiencies contributing to public sector failures be
+        solved?"
+        <br />
+        Nick Carducci - Chairperson at Saver Party (2020–present)
+        <br />
+        Truncated production tax at a rate of 3% under $2k from geohash/mo
+        precinct spoofable paytech report to accounting software and inevitably
+        Congress and the Public. Trading should be out of policymakers’ beyond
+        the dollar,
+        land-deeds-donee-beneficiary-surrendered-freedom-contractor-liable, and
+        uuid anon 2 weeks for retail and brokerages.
+        <br />
+        <br />
+        Article 1.8 bond-tax should be equal in receipt and scope (no
+        free-rider-mutable trust-building), lest be oxymoron-hypocritic. Reverse
+        amortize (cash/debt)*income every year back, 19% “disabled,” 1/12
+        industry vertical “collateralized” max-royalty.
+        <br />
+        <br />
+        Alternatively, governments can target margin operational monopolies, as
+        the Affordable Care Act has done ($829.5b/yr{space}
+        <a href="https://froth.app">Medicare of $2.7t/yr “healthcare”</a>
+        {space}market cash flow), but without so much gentrification pennywise;
+        ban the dead-weight-box of economic welfare, GDP/hour-GDP/p, that is
+        investment bank over currency insurance non-rollover insurance pyramid
+        scheme, that only abet invoices by prisoners’ dilemma, for not a game
+        alone, but real life events (& donee-beneficiary inducing prize), for
+        house-win fee structure.
       </div>
     );
   }
