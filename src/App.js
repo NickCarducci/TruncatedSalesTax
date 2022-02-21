@@ -3191,6 +3191,8 @@ export default class App extends React.Component {
         drug-use? correlation by creating the cause or bivariate of another
         third party cause
         <h1>if it hurts, don't do it</h1>
+        the right: 1/0 elasticity self-deprecation Prosperity laborless demand
+        and freedom or equality competition poverty and efficiency
       </div>
     );
   }
