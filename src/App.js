@@ -3003,7 +3003,8 @@ export default class App extends React.Component {
         for welfare and Republicans are for GDP, but Saver is (income/hour)/home
         <br />
         <br />
-        truckers get $40000/trucker
+        truckers get $40000/trucker. "nobody burned anything down," except my
+        fucking equity by etymology/science
       </div>
     );
   }
