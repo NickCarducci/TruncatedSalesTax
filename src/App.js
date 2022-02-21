@@ -2944,7 +2944,7 @@ export default class App extends React.Component {
         Copper and parent dashboard age verification login.gov malfeasant.
         <br />
         <br />
-        You CANNOT compete with consumers, trust-build, BECAUSE FOR READON THAT
+        You CANNOT compete with consumers, trust-build, BECAUSE FOR REASON THAT
         -GDP/p tech advancement of laborless-demand (when price-controls
         suffocates quality supply chain). Car Sheild is an investment bank
         horizontal 1/12 (industry-)trust, 10/12 jury unbiased.
