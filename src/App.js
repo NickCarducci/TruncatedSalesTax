@@ -3156,6 +3156,30 @@ export default class App extends React.Component {
         cost higher, and this is why poverty=(inflation/income) coincides with
         equality (measured by asset skew) often, and why I measure productivity
         as, (income/hour)/home; (and call efficiency, GDP/hour-GDP/p).
+        <h3>
+          “Need them willing to die for{space}
+          <a href="https://vaults.biz/marx">islamic banking</a>.”
+        </h3>
+        <Cable
+          onError={handleScollImgError}
+          //img={true}
+          style={{
+            width: "100%",
+            maxWidth: "calc(100% - 100px)",
+            height: "700px"
+          }}
+          src={
+            this.state.noyoutube
+              ? ""
+              : "https://www.youtube.com/embed/nKvUf7F4Xn4"
+          }
+          float="left"
+          title="https://youtu.be/nKvUf7F4Xn4"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+          scrollTop={this.state.scrollTop}
+        />
       </div>
     );
   }
