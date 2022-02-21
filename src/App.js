@@ -3209,7 +3209,11 @@ export default class App extends React.Component {
         by square mile or the trek? 216/day missing children still beats your
         cartel statistics that are caused by $4t/yr 40%
         donee-beneficiary-surrendered-freedom with $2t chequeing concurrentable
-        spending by the bipartisan minorities
+        spending by the bipartisan minorities. parcels, the right for double
+        jeporady, per diem incarceration bond launderers, laborless demand,
+        RETARDS, your 2/3 debt mortgage and corporate is because of you for
+        inflation. fucking idiots. people with a long list of crime able to roam
+        the cities,
       </div>
     );
   }
