@@ -2925,7 +2925,7 @@ export default class App extends React.Component {
         4b. receipt: Geohash/mo precinct spoofable 3$ under $2k.
         <br />
         4c. tort by state vic or criminalization banned: warn, tort, jail
-        without financial conflict of interest incarcaration per diem.
+        without financial conflict of interest incarceration per diem.
         <br />
         <br />
         Stupidity is a killer.
@@ -2933,6 +2933,9 @@ export default class App extends React.Component {
         Over your heads.
         <br />
         Points are slipping by you.
+        <br />
+        <br />
+        Ukraine Crisis: "Loss of life in the Ukrainian army, but no war."
       </div>
     );
   }
