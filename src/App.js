@@ -3184,6 +3184,8 @@ export default class App extends React.Component {
           anyone who says, "urge the homeless and mentally ill into services,"
           needs to be slaughtered for promulgating colonialist scapegoating
         </h2>
+        Positive balance of trade is integrally efficiency, though, by
+        GDP/hour-GDP/p, and maybe productivity, (income/hour)/home.
       </div>
     );
   }
