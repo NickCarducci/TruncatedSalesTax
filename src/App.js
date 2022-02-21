@@ -3061,8 +3061,12 @@ export default class App extends React.Component {
         loss. No spin - honest. Guru Time-tested n Mean about right.
         <br />
         <br />
-        putin's kink for blood, and poisoning political competition
+        putin's kink for blood, and poisoning political competition. enshrined
+        right to petition the government and appeak with state-criminalization
+        and victimization racket per diem incarceration unequal Article 1.8
+        bond-tax in receipt nor scope.
       </div>
     );
   }
 }
+
