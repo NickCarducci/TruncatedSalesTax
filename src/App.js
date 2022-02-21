@@ -2953,6 +2953,7 @@ export default class App extends React.Component {
         You CANNOT compete with consumers, trust-build, BECAUSE FOR REASON THAT
         -GDP/p tech advancement of laborless-demand (when price-controls
         suffocates quality supply chain). Car Sheild is an investment bank
+        (balance sheet of market capitalizations{/**market cash flow */})
         horizontal 1/12 (industry-)trust, 10/12 jury unbiased. Free rental car
         assistance and free towing, donee-beneficiary-surrendered-freedom not
         copy, nor time. Sugar for milk, just ignore the experts, they just look
