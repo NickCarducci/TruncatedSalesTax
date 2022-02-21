@@ -2988,7 +2988,9 @@ export default class App extends React.Component {
         <a href="https://vaults.biz/immi">more peaceful than citizens</a>? "they
         are going to need food, shelter and job, just more pressure on
         good-tax-paying americans. 80-90% travelling-lookers get raped, even
-        after paying cartels."
+        after paying cartels. No-cash-bail. They are letting people out before
+        evidence of an actual crime. Known-hazards are all self-inflicted
+        wounds."
       </div>
     );
   }
