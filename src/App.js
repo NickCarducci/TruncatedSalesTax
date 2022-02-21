@@ -3214,6 +3214,7 @@ export default class App extends React.Component {
         RETARDS, your 2/3 debt mortgage and corporate is because of you for
         inflation. fucking idiots. people with a long list of crime able to roam
         the cities,
+        <h1>Rush Limbaugh: "making money tighter won't stop inflation."</h1>
       </div>
     );
   }
