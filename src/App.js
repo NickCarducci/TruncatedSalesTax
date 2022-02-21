@@ -2879,7 +2879,11 @@ export default class App extends React.Component {
         criminals by what?
         <h2>Bipartisan minorities conflicting on all the wrong reasons</h2>
         Hypocritical conviction just shows how laws are subjective and
-        precedence is standing, not grounds like comparative innocence.
+        precedence is standing, not grounds like comparative innocence (the
+        purpose of [local-]government is not '[monopsonize-toll-able, unless
+        toll-less ]roads and bridges,' but stopping monopsonies; that includes
+        housing, healthcare and education investment bank good-will
+        brand-IP/land welfare).
         <br />
         <br />
         "How can negativity be helpful to society?"
