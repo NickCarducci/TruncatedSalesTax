@@ -2953,7 +2953,9 @@ export default class App extends React.Component {
         You CANNOT compete with consumers, trust-build, BECAUSE FOR REASON THAT
         -GDP/p tech advancement of laborless-demand (when price-controls
         suffocates quality supply chain). Car Sheild is an investment bank
-        horizontal 1/12 (industry-)trust, 10/12 jury unbiased.
+        horizontal 1/12 (industry-)trust, 10/12 jury unbiased. Free rental car
+        assistance and free towing, donee-beneficiary-surrendered-freedom not
+        copy, nor time.
         <br />
         <br />
         leisure (scientific contribution, 'bad-will' private vs investment bank
@@ -3026,7 +3028,12 @@ export default class App extends React.Component {
           skew to material diminishing return to productivity:
           (income/hour)/home.
         </h2>
-        only experts look at, then do nothing.
+        only experts look at, then do nothing. Free rental car assistance and
+        free towing, donee-beneficiary-surrendered-freedom not copy, nor time.
+        <br />
+        <br />
+        whoops, investment bank welfare accidence - cursing G-d.{space}
+        <a href="https://vaults.biz/devil">I make no mistakes</a>
       </div>
     );
   }
