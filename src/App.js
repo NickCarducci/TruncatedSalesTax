@@ -3087,7 +3087,7 @@ export default class App extends React.Component {
         calculus-rate-endogeneity, and arithmetic-absolute).
         <br />
         <br />
-        You aren’t bread winners, but jiggers
+        You aren’t bread winners, but jiggers - investment is selling out
       </div>
     );
   }
