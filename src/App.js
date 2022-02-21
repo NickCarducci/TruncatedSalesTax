@@ -3126,6 +3126,10 @@ export default class App extends React.Component {
         <br />a problem in search of a solution. Karma by reason or firesale.
         Clarity and resolve
         <h1>i'll fucking cut your tongue out</h1>
+        interns should be paid, poverty is equality, competition, efficiency,
+        productivity, ahhhhh Nuder, 5 storefronts and condominiums, or gentrify
+        home-contractors, whom treat estimates of material and labor as property
+        and option to sell?
       </div>
     );
   }
