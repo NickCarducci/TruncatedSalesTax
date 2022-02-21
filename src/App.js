@@ -3001,6 +3001,9 @@ export default class App extends React.Component {
         <h2>blind bookmaking - fine judges for appeals</h2>
         I’m from social liberal and financially conservative, and Democrats are
         for welfare and Republicans are for GDP, but Saver is (income/hour)/home
+        <br />
+        <br />
+        truckers get $40000/trucker
       </div>
     );
   }
