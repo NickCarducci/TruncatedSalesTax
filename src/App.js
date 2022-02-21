@@ -2795,7 +2795,7 @@ export default class App extends React.Component {
         <br />
         prevent WWIII with target margin operational monopsony free rider
         mutable. NATO expiring premium -training is like an open carry. Just
-        walk it back, warmongers.
+        walk it back, warmongers. "behavior of building up forces"
         <br />
         <br />
         "What is the economist Joan Robinson's theory on 'monopsony' exactly?"
@@ -2860,10 +2860,10 @@ export default class App extends React.Component {
         free-rider-mutable trust-building), lest be oxymoron-hypocritic. Reverse
         amortize (cash/debt)*income every year back, 19% “disabled,” 1/12
         industry vertical “collateralized” max-royalty.
-        <br />
-        <br />
-        Alternatively, governments can target margin operational monopolies, as
-        the Affordable Care Act has done ($829.5b/yr{space}
+        <h3>
+          Alternatively, governments can target margin operational monopolies
+        </h3>
+        as the Affordable Care Act has done ($829.5b/yr{space}
         <a href="https://froth.app">Medicare of $2.7t/yr “healthcare”</a>
         {space}market cash flow), but without so much gentrification pennywise;
         ban the dead-weight-box of economic welfare, GDP/hour-GDP/p, that is
@@ -2879,6 +2879,37 @@ export default class App extends React.Component {
         <h2>Bipartisan minorities conflicting on all the wrong reasons</h2>
         Hypocritical conviction just shows how laws are subjective and
         precedence is standing, not grounds like comparative innocence.
+        <br />
+        <br />
+        "How can negativity be helpful to society?"
+        <br />
+        Nick Carducci - CEO & Founder at Thumbprint.us - Social Calendar
+        (2012–present)
+        <br />
+        -GDP/p is tech advancement (pro-people), so negative people are
+        grounded-optimists.
+        <br />
+        <br />
+        What are the chances of another stimulus payment?
+        <br />
+        Nick Carducci - Chairperson at Saver Party (2020–present)
+        <br />
+        Share-split land-deeds will not happen again 1/0
+        price-elasticity/trust-building/donee-beneficiary-surrendered-freedom;
+        instead, we will:
+        <br />
+        1. reverse amortize (cash/debt)*income every year back,
+        <br />
+        2. cap rental-income at 5 storefronts and condominiums,
+        <br />
+        3. hold investments to 1/12 industry-vertical max-royalty and investment
+        banks but not for welfare (gentrification, monopsony), and
+        <br />
+        4. impose equal in receipt and scope (sewage, police, lawsuits free
+        rider immutables) truncated production tax (2025, nj).
+        <br />
+        5. target margin operational monopolies, 11/12 multiple industry jury
+        permit duress minimal viable product
       </div>
     );
   }
