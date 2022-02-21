@@ -2955,7 +2955,10 @@ export default class App extends React.Component {
         suffocates quality supply chain). Car Sheild is an investment bank
         horizontal 1/12 (industry-)trust, 10/12 jury unbiased. Free rental car
         assistance and free towing, donee-beneficiary-surrendered-freedom not
-        copy, nor time.
+        copy, nor time. Sugar for milk, just ignore the experts, they just look
+        at the textbooks and make hypothesis, never proven without deduction of
+        reasonable doubts, alternative hypothesis for an incorrect test
+        (endogenous) or negative cause (combustion/solution).
         <br />
         <br />
         leisure (scientific contribution, 'bad-will' private vs investment bank
