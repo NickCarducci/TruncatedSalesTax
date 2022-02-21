@@ -2078,7 +2078,10 @@ export default class App extends React.Component {
         <br />“<a href="https://vaults.biz/russia">Russian</a>-backed
         separatists.” Forcing women and children to leave and force young men to
         fight. Shelling settlements beween Ukrainian Security Forces and Russian
-        Backed-Separatists.
+        Backed-Separatists.{space}
+        <a href="https://anythingwashes.com">anything washes</a>, high rhetoric
+        for what? Neither side is describing what they want? Anything beyond
+        Truncated Production Tax, will be their heads.
         <h2>
           <a href="https://vaults.biz/receipts">anything washes</a>
         </h2>
