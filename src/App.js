@@ -2083,7 +2083,8 @@ export default class App extends React.Component {
         for what? Neither side is describing what they want? Anything beyond
         Truncated Production Tax, will be their heads. War has been going on for
         8 years, Kiev is a corrupt regime, and incursion on Jewish elinski is
-        Neo-Nazi Pales.
+        Neo-Nazi Pales, bombarding the red-line, another injury in the last
+        24hrs - chaotic occupied settlements.
         <h2>
           <a href="https://vaults.biz/receipts">anything washes</a>
         </h2>
@@ -3000,7 +3001,10 @@ export default class App extends React.Component {
         1/0 price-elasticity."
         <h2>blind bookmaking - fine judges for appeals</h2>
         I’m from social liberal and financially conservative, and Democrats are
-        for welfare and Republicans are for GDP, but Saver is (income/hour)/home
+        for welfare and Republicans are for GDP, but Saver is
+        (income/hour)/home. Skew is tech advancement -GDP/p+GDP/hour,
+        diminishing return, we don't ban dishwashing, just implausible use
+        rental-income
         <br />
         <br />
         truckers get $40000/trucker. "nobody burned anything down," except my
