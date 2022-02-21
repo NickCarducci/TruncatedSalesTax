@@ -3132,8 +3132,32 @@ export default class App extends React.Component {
         and option to sell?
         <br />
         <br />
-        does not stop dish<a href="https://anythingwashes.com">washing</a>
+        "What is a good monthly growth rate?"
+        <br />
+        Nick Carducci - BA Political Science & Economics, Johns Hopkins
+        University (2015)
+        <br />
+        -GDP/p is tech advancement, so -2% diminishing to labor-borne-demand
+        normality.
+        <br />
+        Ban rental-income beyond 5 storefronts and condominiums, 1/12 industry
+        max-royalty, false bid pool loss, welfare investment bank gentrification
+        education trade secret per diem incarceration scapegoat market skew
+        pharmacy trust racketeering state victimization and criminalization for
+        that anything washes for conflict of interest unequal bond-tax Article
+        1.8.
+        <br />
+        Ween cops off bonds, good-will, and closed-source-licensures. Jury of 12
+        must allow whistleblowers again.
+        <br />
+        <br />
+        does not stop dish<a href="https://anythingwashes.com">washing</a>. The
+        business skew will be affected, however. Labor is certainly an input
+        cost higher, and this is why poverty=(inflation/income) coincides with
+        equality (measured by asset skew) often, and why I measure productivity
+        as, (income/hour)/home; (and call efficiency, GDP/hour-GDP/p).
       </div>
     );
   }
 }
+
