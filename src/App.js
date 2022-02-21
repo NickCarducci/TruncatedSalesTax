@@ -3164,9 +3164,8 @@ export default class App extends React.Component {
           onError={handleScollImgError}
           //img={true}
           style={{
-            width: "100%",
-            maxWidth: "calc(100% - 100px)",
-            height: "700px"
+            width: "300px",
+            height: "500px"
           }}
           src={
             this.state.noyoutube
@@ -3185,7 +3184,12 @@ export default class App extends React.Component {
           needs to be slaughtered for promulgating colonialist scapegoating
         </h2>
         Positive balance of trade is integrally efficiency, though, by
-        GDP/hour-GDP/p, and maybe productivity, (income/hour)/home.
+        GDP/hour-GDP/p, and maybe productivity, (income/hour)/home. 10 yr old
+        boy record, hospitals maintain their own investment bank "general
+        revenue" 19% "disabled" too, gerontocratic-gentrification. "some kind of
+        brain disease, genetic disease," without a CT scan? Or from voluntary
+        drug-use? correlation by creating the cause or bivariate of another
+        third party cause
       </div>
     );
   }
