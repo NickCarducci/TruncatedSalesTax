@@ -2077,7 +2077,8 @@ export default class App extends React.Component {
         <br />
         <br />“<a href="https://vaults.biz/russia">Russian</a>-backed
         separatists.” Forcing women and children to leave and force young men to
-        fight.
+        fight. Shelling settlements beween Ukrainian Security Forces and Russian
+        Backed-Separatists.
         <h2>
           <a href="https://vaults.biz/receipts">anything washes</a>
         </h2>
