@@ -3068,7 +3068,7 @@ export default class App extends React.Component {
         right to petition the government and appeak with state-criminalization
         and victimization racket per diem incarceration unequal Article 1.8
         bond-tax in receipt nor scope. Man-date domestic Violence redress of
-        greivances omg faggot
+        greivances omg faggot (toolkit in the toolbag)
         <br />
         <br />I have to think this thru this for all of you, uncounted in GDP,
         actually it lowers it, and that is technological advancement, as is
@@ -3117,6 +3117,11 @@ export default class App extends React.Component {
         when supply doesn't already equal demand and you target-margin (i.e.
         spectrum/bridge/pipeline) tax for (sewage police lawsuits) grounds by
         (Tranquil and voluntary trade)
+        <br />
+        <br />
+        periphery enclaves, Woefully short of what to do about this, put them
+        out of business, unleashing Savers’ land-exploration rights. I will kill
+        you cornel.
       </div>
     );
   }
