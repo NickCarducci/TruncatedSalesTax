@@ -3077,6 +3077,14 @@ export default class App extends React.Component {
         <br />
         Stores cannot force customers to do anything, their only discretion is
         hours and price.
+        <br />
+        <br />
+        We need to work for a living, say that to insurers, lenders and
+        landlords: $12k/64 debt/cash borrower defense (force majeure intent,
+        reasoning Tranquil and voluntary trade by microeconomic MUI propensity
+        Supply and Demand, GDP/hour-GDP/p before Lawyers, there is
+        econometricians-rate, by statistics-population-aversion,
+        calculus-rate-endogeneity, and arithmetic-absolute).
       </div>
     );
   }
