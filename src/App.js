@@ -3047,8 +3047,11 @@ export default class App extends React.Component {
         <br />
         <br />
         we must protect the seat/eed of our democracy, proact to potentially
-        what we see in the coming years
+        what we see in the coming years. Divine visitations, powerful
+        experiences,{space}
+        <a href="https://qr.ae/pGQHb8">totally-insane</a>
       </div>
     );
   }
 }
+
