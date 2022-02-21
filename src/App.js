@@ -2987,7 +2987,8 @@ export default class App extends React.Component {
         when they are pro-tech advancement and{space}
         <a href="https://vaults.biz/immi">more peaceful than citizens</a>? "they
         are going to need food, shelter and job, just more pressure on
-        good-tax-paying americans."
+        good-tax-paying americans. 80-90% travelling-lookers get raped, even
+        after paying cartels."
       </div>
     );
   }
