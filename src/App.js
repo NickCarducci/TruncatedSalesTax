@@ -3076,7 +3076,9 @@ export default class App extends React.Component {
         <br />
         <br />
         closing the border, spectrum nor debt is conservative, retard Dan
-        O'Donnell.
+        O'Donnell. "Conservatives are 50% of eligible voters," that is double
+        counting Anti-Rent-Seeking{space}
+        <a href="https://occupywallst.quora.com">Occupy Wall St</a>.
         <br />
         <br />
         Stores cannot force customers to do anything, their only discretion is
