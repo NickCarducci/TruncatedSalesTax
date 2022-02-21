@@ -3088,7 +3088,12 @@ export default class App extends React.Component {
         calculus-rate-endogeneity, and arithmetic-absolute).
         <br />
         <br />
-        You aren’t bread winners, but jiggers - investment is selling out
+        You aren’t bread winners, but jiggers - investment is selling out.
+        "State leaders asking federal tax relief on milk, gas, electricity," =
+        for corporate and income taxes (property is education trade secrets and
+        tech deprecation keeping 16-19 UNEMPLOYED, which is usually an artifact
+        of tech ADVANCEment), 40% debt spending
+        donee-beneficiary-surrencered-freedom as land-deed owner, to boot.
       </div>
     );
   }
