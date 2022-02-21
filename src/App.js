@@ -2933,7 +2933,7 @@ export default class App extends React.Component {
         <br />
         4a. scope: Target margin operational monopolies, 11/12 multiple industry
         jury permit duress minimal viable product, 5 storefronts and
-        condominiums rental-income cap.
+        condominiums rental-income cap; disgusted conviction is prejudice.
         <br />
         4b. receipt: Geohash/mo precinct spoofable 3$ under $2k.
         <br />
