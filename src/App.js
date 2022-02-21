@@ -3057,7 +3057,10 @@ export default class App extends React.Component {
         we don't need your sanctions after we are bombed." I would blow both
         countries up. Millions of swords, no shields. Let’s make a deal, flaccid
         corporate-profit-account loss. No spin - honest. Guru Time-tested n Mean
-        about right
+        about right.
+        <br />
+        <br />
+        putin's kink for blood, and poisoning political competition
       </div>
     );
   }
