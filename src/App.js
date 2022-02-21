@@ -3014,6 +3014,10 @@ export default class App extends React.Component {
         What’s the deal, who’s dealing?
         <br />
         Welfare investment bank
+        <br />
+        banning whistleblowers in a 12 jury
+        <br />
+        19% "tards"
       </div>
     );
   }
