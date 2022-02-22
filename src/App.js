@@ -134,6 +134,13 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          Georgia 2008, Crimea 2014 (6+), (pat fallon: "putin was scared of
+          TRUMP, he would be sanctioning the shit out of Ukraine rn"), now 2022
+          (8+)
+          <h3>
+            “Consolidating gains is an illusion speaking collectively now on
+            behalf of all the voices in my head.” - Bob Sellers
+          </h3>
           if Putin is killing people, then you can just take him out. sanctions
           is just scapegoating
           <h3>
@@ -3331,3 +3338,4 @@ export default class App extends React.Component {
     );
   }
 }
+
