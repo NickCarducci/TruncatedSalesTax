@@ -57,10 +57,10 @@ class Cable extends React.Component {
         ? girth + 500
         : window.innerHeight; /*frameheight
         ? frameheight
-        : this.props.style &&
-          this.props.style.height &&
-          !isNaN(this.props.style.height)
-        ? this.props.style.height + 500
+        : Style &&
+          Style.height &&
+          !isNaN(Style.height)
+        ? Style.height + 500
         : 500;*/
     var timeou = timeout ? timeout : 1500;
     clearTimeout(this.setset);
@@ -168,10 +168,11 @@ class Cable extends React.Component {
     }, timeou);
   };
   render() {
-    const { mount /*, cacheStyle */ } = this.state;
-    const { src, float, title, img } = this.props;
+    const { mount, stopfail /*, cacheStyle */ } = this.state;
+    const { src, float, title, img, style: Style } = this.props;
     //const limited = limit.find((x) => x === Object.keys(this.props.fwd));
     const onError = (e) => {
+      this.setState({ stopfail: true });
       //this.props.fwd.current.remove();
       this.props.onError(e);
     }; //ternaries remove the node and element; display removes the element, but not the node
@@ -183,21 +184,24 @@ class Cable extends React.Component {
       });
     };
     const optionalwidth =
+      !stopfail &&
       /*(this.state.img || this.state.loaded) && this.state.framewidth
         ? this.state.framewidth
         :*/ this
-        .props.style && this.props.style.width // &&
-        ? //!isNaN(this.props.style.width)
-          this.props.style.width
+        .props.style &&
+      Style.width // &&
+        ? //!isNaN(Style.width)
+          Style.width
         : 200;
     const optionalheight =
+      !stopfail &&
       /*this.state.height
       ? this.state.height
-      :*/ this.props.style &&
-      this.props.style.height // &&
-        ? //!isNaN(this.props.style.width)
-          this.props.style.height
-        : "auto";
+      :*/ Style &&
+      Style.height &&
+      !isNaN(Style.height)
+        ? Style.height
+        : "100%";
     //console.log(optionalwidth);
     return (
       <div
@@ -205,7 +209,7 @@ class Cable extends React.Component {
         style={{
           boxShadow: "inset 0px 0px 50px 15px rgb(200,100,120)",
           //width: this.state.framewidth,
-          ...this.props.style,
+          ...Style,
           //overflowX: "auto",
           shapeOutside: "rect()",
           float,
@@ -229,11 +233,11 @@ class Cable extends React.Component {
             style={{
               //width: "100%",
               border: src === "" ? "2px gray solid" : 0,
-              //...this.props.style,
-              height: optionalheight,
-              width: optionalwidth, // "max-content"
-              overflowX: "auto",
-              maxWidth: "100%"
+              //...Style,
+              height: Style && isNaN(Style.width) ? "auto" : "100%",
+              width: Style && isNaN(Style.height) ? "auto" : "100%" // "max-content"
+              //overflowX: "auto",
+              //maxWidth: "100%"
             }}
             ref={this.props.fwd}
             src={src}
@@ -246,7 +250,7 @@ class Cable extends React.Component {
             style={{
               //width: "100%",
               border: 0,
-              //...this.props.style,
+              //...Style,
               //height: optionalheight,
               //width: optionalwidth, // "max-content"
               //overflowX: "auto",
