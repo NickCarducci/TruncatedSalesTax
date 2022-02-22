@@ -134,6 +134,16 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          we have no intention of fighting russia, this is offensive, we will
+          abide by commitments made to NATO, even laundering
+          donee-beneficiary-surrendered-freedom of our future customers in
+          rent-seeking, even defeating the purpose of the solution of the
+          problem of gentrification, monopsony, inequality, anticompetitiveness,
+          AND EXTRA WORK FOR LABOR-BORNE-DEMAND FOR LABORLESS-DEMAND. "...Can't
+          trade in debt, they should share in the economic pain as well, because
+          they killed 14k/8yrs," - Biden writing down
+          <a href="https://billbiden.org">bond-index-funds, m2</a>.<br />
+          <br />
           "insurance companies have ability in setting prices," above efficiency
           0y/1x GDP/hour-GDP/p, like an investment bank
           donee-beneficiary-surrendered-freedom of bid life-prize && house-wins
