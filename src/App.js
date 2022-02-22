@@ -134,7 +134,14 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
-          we have no intention of fighting russia, this is offensive, we will
+          <h2>
+            "IT IS RUSSIA AND RUSSIA ALONE WHOM BEARS THE RESPONSIBILITY, as we
+            esecure energy supplies of russia, we will plunder comparative
+            advantage and tech advncement for oil firesale, instead of treating
+            your cdollars as 20% of the U.S. as land-deeds' exploration
+            royalties and 11/12 voting rights to drill.
+          </h2>
+          We have no intention of fighting russia, this is offensive, we will
           abide by commitments made to NATO, even laundering
           donee-beneficiary-surrendered-freedom of our future customers in
           rent-seeking, even defeating the purpose of the solution of the
