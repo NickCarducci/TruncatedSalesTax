@@ -3254,6 +3254,13 @@ export default class App extends React.Component {
         Inflation is destroying the investment bank defense.
         <br />
         Putin wants to do chinas work for them. What?
+        <br />
+        <br />
+        Bo deitl all about{space}
+        <a href="https://vaults.biz/homelessness">
+          home contractor gentrification
+        </a>
+        , and I am mentally-perturbed
       </div>
     );
   }
