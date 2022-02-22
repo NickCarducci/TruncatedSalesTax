@@ -3271,7 +3271,16 @@ export default class App extends React.Component {
         Trump made the U.S. an exporter of energy and natural gas invisible
         methane by donee-beneficiary-surrendered-freedom of Savers’ land-deeds.
         Sounds retarded to me, Nay
+        <br />
+        <br />
+        If you have valuations of property, you are in trouble: only if you
+        haven’t paid it off cash/debt down - collateral (compound or general
+        income) is fake, you actually will own it. Favoring capital loss
+        amortized to new laborless-demand, (cash/debt)*income1800- just makes it
+        shorter for down payments to be paid, reducing by the actualized
+        damages.
       </div>
     );
   }
 }
+
