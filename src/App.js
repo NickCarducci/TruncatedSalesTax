@@ -134,6 +134,8 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          if Putin is killing people, then you can just take him out. sanctions
+          is just scapegoating
           <h3>
             "
             <a href="https://qr.ae/pGQ56L">
