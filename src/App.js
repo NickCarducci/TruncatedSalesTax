@@ -134,6 +134,10 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          <h2>
+            the companies that exploit exploration rights of currency, will be
+            richer, that is a firesale
+          </h2>
           <h3>
             The people that have leases are doing better than ever, actually the
             landlords are?
@@ -3290,3 +3294,4 @@ export default class App extends React.Component {
     );
   }
 }
+
