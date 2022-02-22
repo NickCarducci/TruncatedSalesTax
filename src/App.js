@@ -134,6 +134,13 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          <h3>
+            "
+            <a href="https://qr.ae/pGQ56L">
+              the safety net isn't what it used to be
+            </a>
+            ," 1y/0x elastic gain is useless.
+          </h3>
           make people work for it
           <br />
           <br />
@@ -145,7 +152,7 @@ export default class App extends React.Component {
               maxHeight: "80vw"
             }}
             onError={handleScollImgError}
-            //img={true}
+            img={true}
             src={
               this.state.noyoutube
                 ? ""
