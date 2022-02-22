@@ -134,6 +134,10 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          "insurance companies have ability in setting prices," above efficiency
+          0y/1x GDP/hour-GDP/p, like an investment bank
+          donee-beneficiary-surrendered-freedom of bid life-prize && house-wins
+          fee.
           <h1>hypocritical civil disobedience firesale</h1>
           Georgia 2008, Crimea 2014 (6+), (pat fallon: "putin was scared of
           TRUMP, he would be sanctioning the shit out of Ukraine rn"), now 2022
