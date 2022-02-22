@@ -134,6 +134,8 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          <h1>Consolidating gains is an illusion</h1>
+          <h2>1800-1913 0% GDP/p, (population-)basis-, change-rate, 3%/yr+</h2>
           50% of your wages paid at home, most are 65+, 19% "disabled"
           investment bank policy making over currency unequal reporting
           requirements between{space}
