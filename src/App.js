@@ -134,6 +134,15 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          Paralytic polio literally matches multiple sclerosis so shut the fuck
+          up.
+          <br />
+          <br />
+          ONLY THE FACTS - spread doesn't mean cause, it is actually the same
+          sniffles and deaths per capita. n=2019-20 expreapolated
+          population-mean (all-time), assumed, cannot identify significance.
+          <br />
+          <br />
           A state of Minnesota recruiter, Cindi Camarillo, asks if I am, “ok?”
           after spending my money.
           <br />
@@ -3373,3 +3382,4 @@ export default class App extends React.Component {
     );
   }
 }
+
