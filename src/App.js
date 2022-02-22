@@ -3265,7 +3265,12 @@ export default class App extends React.Component {
         <br />
         Reality is not the balance sheet, that is why cash accountants amortize
         to $0 and microeconomists describe laborless-demand as dead weight, by
-        Unfunded Liabilities as the ask
+        Unfunded Liabilities as the ask.
+        <br />
+        <br />
+        Trump made the U.S. an exporter of energy and natural gas invisible
+        methane by donee-beneficiary-surrendered-freedom of Savers’ land-deeds.
+        Sounds retarded to me, Nay
       </div>
     );
   }
