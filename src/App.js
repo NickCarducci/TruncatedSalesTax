@@ -134,6 +134,12 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          <h2>stealing my stuff is more than emotion-provoking-disturbance</h2>
+          If supply chain is made better by money, that means science is being
+          withheld. Government spending doesn't make actual demand (not
+          nominal).
+          <br />
+          <br />
           Paralytic polio literally matches multiple sclerosis so shut the fuck
           up.
           <br />
@@ -3382,4 +3388,3 @@ export default class App extends React.Component {
     );
   }
 }
-
