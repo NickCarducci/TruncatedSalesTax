@@ -2086,9 +2086,10 @@ export default class App extends React.Component {
         <a href="https://anythingwashes.com">anything washes</a>, high rhetoric
         for what? Neither side is describing what they want? Anything beyond
         Truncated Production Tax, will be their heads. War has been going on for
-        8 years, Kiev is a corrupt regime, and incursion on Jewish elinski is
-        Neo-Nazi Pales, bombarding the red-line, another injury in the last
-        24hrs - chaotic occupied settlements.
+        8 years ("14k killed by Russian backed separatists.” Lucas thomilson),
+        Kiev is a corrupt regime, and incursion on Jewish elinski is Neo-Nazi
+        Pales, bombarding the red-line, another injury in the last 24hrs -
+        chaotic occupied settlements.
         <h2>
           <a href="https://vaults.biz/receipts">anything washes</a>
         </h2>
@@ -3283,4 +3284,3 @@ export default class App extends React.Component {
     );
   }
 }
-
