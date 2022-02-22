@@ -3260,7 +3260,12 @@ export default class App extends React.Component {
         <a href="https://vaults.biz/homelessness">
           home contractor gentrification
         </a>
-        , and I am mentally-perturbed
+        , and I am mentally-perturbed.
+        <br />
+        <br />
+        Reality is not the balance sheet, that is why cash accountants amortize
+        to $0 and microeconomists describe laborless-demand as dead weight, by
+        Unfunded Liabilities as the ask
       </div>
     );
   }
