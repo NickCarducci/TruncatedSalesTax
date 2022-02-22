@@ -236,8 +236,8 @@ class Cable extends React.Component {
               //width: "100%",
               border: src === "" ? "2px gray solid" : 0,
               //...Style,
-              height: Style && !isNaN(Style.width) ? "auto" : "100%", //optionalheight, //"100%"
-              width: Style && !isNaN(Style.height) ? "auto" : "100%" //optionalwidth // "100%" // "max-content"
+              height: Style && !isNaN(Style.width) ? "auto" : optionalheight, //"100%"
+              width: Style && !isNaN(Style.height) ? "auto" : optionalwidth // "100%" // "max-content"
               //overflowX: "auto",
               //maxWidth: "100%"
             }}
