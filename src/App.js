@@ -134,6 +134,30 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          make people work for it
+          <br />
+          <br />
+          <Cable
+            style={{
+              height: "580px",
+              width: "400px",
+              maxWidth: "100%",
+              maxHeight: "80vw"
+            }}
+            onError={handleScollImgError}
+            //img={true}
+            src={
+              this.state.noyoutube
+                ? ""
+                : "https://www.dl.dropboxusercontent.com/s/jiwzjiuzzm8636z/Screen%20Shot%202022-02-22%20at%2012.42.44%20PM.png?dl=0"
+            }
+            float="left"
+            title="Why doesn't one announcement lead to prosperity for everyone? https://qr.ae/pGQ5UG"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + scrollnum()]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
           <h2>
             the companies that exploit exploration rights of currency, will be
             richer, that is a firesale
