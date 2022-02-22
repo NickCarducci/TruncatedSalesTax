@@ -134,6 +134,11 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          thriving democracies and mebers of NATO, we are not the aggressor, we
+          are clear eyed, we are open to diplomacy, if it is serious, we will
+          judge Russia by their actions, not their words and respond with
+          conviction and clarity, we hope diplomacy is still available. thank
+          you very much
           <h2>
             "IT IS RUSSIA AND RUSSIA ALONE WHOM BEARS THE RESPONSIBILITY, as we
             esecure energy supplies of russia, we will plunder comparative
@@ -3360,3 +3365,4 @@ export default class App extends React.Component {
     );
   }
 }
+
