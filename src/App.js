@@ -2130,8 +2130,9 @@ export default class App extends React.Component {
         8 years ("
         <a href="https://www.google.com/search?q=russian+military+deaths+2020">
           14k killed by Russian backed separatists
-        </a>
-        .” Lucas thomilson), Kiev is a corrupt regime, and incursion on Jewish
+        </a>{" "}
+        enabling, how would Ukrainian President be able to end that? haha .”
+        Lucas thomilson), Kiev is a corrupt regime, and incursion on Jewish
         elinski is Neo-Nazi Pales, bombarding the red-line, another injury in
         the last 24hrs - chaotic occupied settlements.
         <h2>
