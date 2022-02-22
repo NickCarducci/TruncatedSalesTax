@@ -134,6 +134,26 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          <Cable
+            style={{
+              height: "580px",
+
+              maxWidth: "100%"
+            }}
+            onError={handleScollImgError}
+            img={true}
+            src={
+              this.state.noyoutube
+                ? ""
+                : "https://www.dl.dropboxusercontent.com/s/xl08l1y4tmlu0j8/Screen%20Shot%202022-02-22%20at%206.15.14%20PM.png?dl=0"
+            }
+            float="left"
+            title="BA in Political Science & Economics, Johns Hopkins University (Graduated 2015) Will consumer goods and rent prices ever actually go back down? GDP/p is a good thing. This is so dumb! https://qr.ae/pGQwmV"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + scrollnum()]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
           <h2>
             19% "disabled" gerontocracy are deskinnable if I have anything to do
             with it
@@ -209,7 +229,6 @@ export default class App extends React.Component {
           <Cable
             style={{
               height: "580px",
-              width: "400px",
               maxWidth: "100%",
               maxHeight: "80vw"
             }}
@@ -465,7 +484,7 @@ export default class App extends React.Component {
           <Cable
             style={{
               height: "580px",
-              width: "400px",
+
               maxWidth: "100%",
               maxHeight: "80vw"
             }}
@@ -497,7 +516,7 @@ export default class App extends React.Component {
           <Cable
             style={{
               height: "580px",
-              width: "400px",
+
               maxWidth: "100%",
               maxHeight: "80vw"
             }}
@@ -706,7 +725,7 @@ export default class App extends React.Component {
           scrollTop={this.state.scrollTop}
         />
         <Cable
-          style={{ width: "400px", maxWidth: "100vw", height: "400px" }}
+          style={{ maxWidth: "100vw", height: "200px" }}
           onError={handleScollImgError}
           //img={true}
           src={
@@ -1248,7 +1267,7 @@ export default class App extends React.Component {
             style={{
               maxwidth: "100%",
               width: "300px",
-              height: "400px"
+              height: "200px"
             }}
             src={
               this.state.noyoutube
@@ -3395,3 +3414,4 @@ export default class App extends React.Component {
     );
   }
 }
+
