@@ -135,6 +135,7 @@ export default class App extends React.Component {
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
           A state of Minnesota recruiter, Cindi Camarillo, asks if I am, “ok?”
+          after spending my money.
           <br />
           <br />
           thriving democracies and mebers of NATO, we are not the aggressor, we
