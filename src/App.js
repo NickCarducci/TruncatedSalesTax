@@ -134,6 +134,10 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          <h3>
+            The people that have leases are doing better than ever, actually the
+            landlords are?
+          </h3>
           <h1>Consolidating gains is an illusion</h1>
           <h2>1800-1913 0% GDP/p, (population-)basis-, change-rate, 3%/yr+</h2>
           50% of your wages paid at home, most are 65+, 19% "disabled"
