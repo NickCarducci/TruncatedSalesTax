@@ -207,6 +207,7 @@ class Cable extends React.Component {
       <div
         ref={this.page}
         style={{
+          position: "relative",
           boxShadow: "inset 0px 0px 50px 15px rgb(200,100,120)",
           //width: this.state.framewidth,
           ...Style,
@@ -231,11 +232,12 @@ class Cable extends React.Component {
             onError={onError}
             alt={title}
             style={{
+              position: "relative",
               //width: "100%",
               border: src === "" ? "2px gray solid" : 0,
               //...Style,
-              height: Style && isNaN(Style.width) ? "auto" : "100%",
-              width: Style && isNaN(Style.height) ? "auto" : "100%" // "max-content"
+              height: Style && !isNaN(Style.width) ? "auto" : "100%", //optionalheight, //"100%"
+              width: Style && !isNaN(Style.height) ? "auto" : "100%" //optionalwidth // "100%" // "max-content"
               //overflowX: "auto",
               //maxWidth: "100%"
             }}
@@ -248,6 +250,7 @@ class Cable extends React.Component {
             onError={onError}
             title={title}
             style={{
+              position: "relative",
               //width: "100%",
               border: 0,
               //...Style,
