@@ -255,8 +255,16 @@ export default class App extends React.Component {
             "IT IS RUSSIA AND RUSSIA ALONE WHOM BEARS THE RESPONSIBILITY, as we
             esecure energy supplies of russia, we will plunder comparative
             advantage and tech advncement for oil firesale, instead of treating
-            your cdollars as 20% of the U.S. as land-deeds' exploration
-            royalties and 11/12 voting rights to drill.
+            your{space}
+            <span
+              style={{
+                color: "rgb(100,100,250)"
+              }}
+            >
+              dollars as (fungible for) 20% of the U.S.
+            </span>{" "}
+            (land-deeds' exploration royalties and 11/12 voting rights to
+            drill).
           </h2>
           We have no intention of fighting russia, this is offensive, we will
           abide by commitments made to NATO, even laundering
