@@ -134,8 +134,8 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
-          “The state took responsibility for the bond, so it wasn’t a cost to
-          the officers.”
+          bill, in florida cooper city, in firesales “The state took
+          responsibility for the bond, so it wasn’t a cost to the officers.”
           <h3>known-hazard and warn, tort, jail.</h3>
           <h4>
             Just highly-trained officers doing what they were trained and open
@@ -3504,3 +3504,4 @@ export default class App extends React.Component {
     );
   }
 }
+
