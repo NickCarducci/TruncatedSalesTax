@@ -178,8 +178,15 @@ export default class App extends React.Component {
             <span style={{ fontSize: "12px" }}>modular</span>
           </h2>
           <h3>
-            I won't only not 'die for' others, but I will kill conscriptors
-            first.
+            I won't only{space}
+            <span
+              style={{
+                color: "rgb(100,150,100)"
+              }}
+            >
+              not 'die for' others
+            </span>
+            , but I will kill conscriptors first.
           </h3>
           Mark Levin and the genocidal Rich Valdes say, "false bid pools makes
           it easier to pay mechanics." "Insurance companies that provide the
