@@ -139,7 +139,14 @@ export default class App extends React.Component {
           protection to build the project," actually, just defending waiver for
           known hazards would protect enough. A state that torts beyond capacity
           of the defendant is too far. "Trump sanctioned Nordstream for no
-          reason."
+          reason." Comparative advantage is technological advancement the only
+          way for price decreases to surmount laborless-demand from the
+          financial-left and -right. "You can pay me now or you can pay me
+          later," is 1y/0x elastic and surrendered-freedom-donee-beneficiary
+          bid. I am going to kill every U.S. General with a single spoon.
+          "Energy independece is when we steal Savers' land-deed exploration
+          rights." Balance of trade with Russia is just nominal, actual trade is
+          the same, because we are so inefficient with inflation/income.
           <br />
           <br />
           <Cable
