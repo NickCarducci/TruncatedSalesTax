@@ -124,6 +124,7 @@ export default class App extends React.Component {
               shapeOutside: "rect()",
               float: "right",
               width: "max-content",
+              maxWidth: "100%",
               padding: "0px 10px",
               //fontSize: "20px",
               fontFamily: "'Pacifico', sans-serif"
@@ -134,6 +135,10 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          <h1>
+            "We are treaty bound to protect these countries. If you surrender
+            anothers' freedom, I'm not liable."
+          </h1>
           Mark Levin and the genocidal Rich Valdes say, "false bid pools makes
           it easier to pay mechanics." "Insurance companies that provide the
           protection to build the project," actually, just defending waiver for
@@ -3433,3 +3438,4 @@ export default class App extends React.Component {
     );
   }
 }
+
