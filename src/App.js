@@ -134,7 +134,14 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
-          Mark Levin and the genocidal Rich Valdes say, "false bid pools makes it easier to pay mechanics."<br/><br/>
+          Mark Levin and the genocidal Rich Valdes say, "false bid pools makes
+          it easier to pay mechanics." "Insurance companies that provide the
+          protection to build the project," actually, just defending waiver for
+          known hazards would protect enough. A state that torts beyond capacity
+          of the defendant is too far. "Trump sanctioned Nordstream for no
+          reason."
+          <br />
+          <br />
           <Cable
             style={{
               height: "580px",
