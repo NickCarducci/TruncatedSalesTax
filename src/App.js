@@ -135,6 +135,9 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          All for a flag, if Putin doesn’t want Truncated Production Tax
+          geohash/mo spoofable precinct 3% under $2k, kill him. cyber fixed by
+          CORS origin
           <h3>every aggressor, at least, is a war criminal</h3>
           human right is not sanctions, cornering, competing with consumers -
           competition is on a copaseting mechanism
@@ -3449,4 +3452,3 @@ export default class App extends React.Component {
     );
   }
 }
-
