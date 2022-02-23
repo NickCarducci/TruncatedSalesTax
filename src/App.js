@@ -135,6 +135,16 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          "we generate a ton of reveue from financial-userers: insurers,
+          landlords and lenders. We may lose money but that is uncounted gains
+          over untruncated{space}
+          <a href="https://www.quora.com/profile/Nick-Carducci">tax</a>
+          {space}by slander. Young{space}
+          <a href="https://qr.ae/pGQnr0">people don't</a>
+          {space}want to{space}
+          <a href="https://vaults.biz/party">work</a>."
+          <br />
+          <br />
           "biden to help with 1y/0x money on U.S. ports."
           <h2>"already spoonfed all the kids in their own lifetime."</h2>
           <h3>
@@ -146,7 +156,7 @@ export default class App extends React.Component {
           CORS origin. In order to stop the impact of monopsony, instead of
           target margin free rider mutable pipelines, and allow 11/12 Savers to
           vote to sell fungible for dollar land-deeds, they spread finance
-          laborless-demand to clerical work.
+          laborless-demand to clerical work. Tech advancement industry jobs down
           <h3>every aggressor, at least, is a war criminal</h3>
           human right is not sanctions, cornering, competing with consumers -
           competition is on a copaseting mechanism
