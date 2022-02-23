@@ -148,7 +148,9 @@ export default class App extends React.Component {
           rights." Balance of trade with Russia is just nominal, actual trade is
           the same, because we are so inefficient with inflation/income. “I’ll
           admit I’m a hypocrite,” as a jurisdiction is a way to fine lower
-          judges for appeals.
+          judges for appeals. “Get your regret your 2020 vote yet?” Non-voters
+          won, so no. “You are going to have to invest in corporations in order
+          to have the freedom you deserve.”
           <br />
           <br />
           <Cable
@@ -3431,4 +3433,3 @@ export default class App extends React.Component {
     );
   }
 }
-
