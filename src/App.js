@@ -134,6 +134,14 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          “The state took responsibility for the bond, so it wasn’t a cost to
+          the officers.”
+          <h4>
+            Just highly-trained officers doing what they were trained and open
+            ingredient{space}
+            <a href="https://www.facebook.com/scopebook">listeners</a>
+            {space}to do, says the Nazi.
+          </h4>
           <a href="https://qr.ae/pGQWRf">People</a>
           {space}just want money and pussy
           <br />
