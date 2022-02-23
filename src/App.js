@@ -146,7 +146,9 @@ export default class App extends React.Component {
           bid. I am going to kill every U.S. General with a single spoon.
           "Energy independece is when we steal Savers' land-deed exploration
           rights." Balance of trade with Russia is just nominal, actual trade is
-          the same, because we are so inefficient with inflation/income.
+          the same, because we are so inefficient with inflation/income. “I’ll
+          admit I’m a hypocrite,” as a jurisdiction is a way to fine lower
+          judges for appeals.
           <br />
           <br />
           <Cable
@@ -3429,3 +3431,4 @@ export default class App extends React.Component {
     );
   }
 }
+
