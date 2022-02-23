@@ -134,6 +134,9 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          open uuid harm financially with disparate retail- and
+          broker-profiling.
+          <h3>Expected you need to choose, you can’t be both</h3>
           “They are{space}
           <a href="https://teapharmacy.party/drugs">killing our youth</a>,
           hiding fentanyl in marijuana and heroine is terrorism.”
@@ -3525,4 +3528,3 @@ export default class App extends React.Component {
     );
   }
 }
-
