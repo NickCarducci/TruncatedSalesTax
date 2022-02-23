@@ -134,6 +134,12 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          "with trypie.com, we bundle vertically, not horizonally that would
+          save cash flow if you would UNbundle." Only rollover is
+          collective-bargain, for Marginal Utility Indifference of the seller's
+          (only premium - producer - labor - dead-weight on 0y/1x
+          economic-welfare, GDP/hour-GDP/p) asking-price.
+          <br />
           open uuid harm financially with disparate retail- and
           broker-profiling.
           <h3>Expected you need to choose, you can’t be both</h3>
