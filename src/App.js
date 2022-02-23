@@ -134,6 +134,10 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          <h4>
+            "Government push back and no one stops it, why not? Supreme Court
+            can stop the pentagon." David Harsani National Review NY Post
+          </h4>
           I will support Reciprocation or “escalation” from livelihood.
           <br />
           Upon unreasonability (not contempt of court of no declarative
