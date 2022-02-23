@@ -123,7 +123,6 @@ export default class App extends React.Component {
             style={{
               shapeOutside: "rect()",
               float: "right",
-              width: "max-content",
               maxWidth: "100%",
               padding: "0px 10px",
               //fontSize: "20px",
@@ -135,6 +134,9 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          <a href="https://qr.ae/pGQWRf">People</a>
+          {space}just want money and pussy
+          <br />
           "a day late and a dollar short," admits that{space}
           <a href="https://github.com/NickCarducci/NickCarducci/blob/main/README.md">
             time is arbitrary
