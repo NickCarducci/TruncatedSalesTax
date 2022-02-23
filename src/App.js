@@ -134,11 +134,19 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
-          reactionary times, "Article 4 is dictatorial-behavior"
+          I will support Reciprocation or “escalation” from livelihood.
+          <br />
+          Upon unreasonability (not contempt of court of no declarative
+          juris-fides). oath and
+          <br />
+          Reactionary times, "Article 4 is dictatorial-behavior"
           <h1>
             islamic banking force majeure intent
             donee-beneficiary-surrender-freedom
           </h1>
+          is duress/moot/bonk/hypocritical-criminal.
+          <br />
+          <br />
           bill{/**bruce */}, in florida cooper city, in firesales “The state
           took responsibility for the bond, so it wasn’t a cost to the
           officers.”
