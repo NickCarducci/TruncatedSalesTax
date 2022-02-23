@@ -136,6 +136,7 @@ export default class App extends React.Component {
           </a>
           “The state took responsibility for the bond, so it wasn’t a cost to
           the officers.”
+          <h3>known-hazard and warn, tort, jail.</h3>
           <h4>
             Just highly-trained officers doing what they were trained and open
             ingredient{space}
