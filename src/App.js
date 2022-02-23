@@ -134,6 +134,8 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          “They are killing our youth, hiding fentanyl in marijuana and heroine
+          is terrorism.”
           <h4>
             "Government push back and no one stops it, why not? Supreme Court
             can stop the pentagon." David Harsani National Review NY Post
