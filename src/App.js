@@ -135,6 +135,13 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          "a day late and a dollar short," admits that{space}
+          <a href="https://github.com/NickCarducci/NickCarducci/blob/main/README.md">
+            time is arbitrary
+          </a>
+          {space}and donee-beneficiary-surrendered-freedom
+          <br />
+          <br />
           "we generate a ton of reveue from financial-userers: insurers,
           landlords and lenders. We may lose money but that is uncounted gains
           over untruncated{space}
