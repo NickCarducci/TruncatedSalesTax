@@ -2479,10 +2479,13 @@ export default class App extends React.Component {
         words, nothing.
         <br />
         Kneeing to the head.
-        <br />
-        <br />“<a href="https://vaults.biz/russia">Russian</a>-backed
-        separatists.” Forcing women and children to leave and force young men to
-        fight. Shelling settlements beween Ukrainian Security Forces and Russian
+        <h2>
+          Jens Stoltenberg, SG: "NATO has helped them with defense forces, trust
+          funds, and differing-activities."
+        </h2>
+        “<a href="https://vaults.biz/russia">Russian</a>-backed separatists.”
+        Forcing women and children to leave and force young men to fight.
+        Shelling settlements beween Ukrainian Security Forces and Russian
         Backed-Separatists.{space}
         <a href="https://anythingwashes.com">anything washes</a>, high rhetoric
         for what? Neither side is describing what they want? Anything beyond
@@ -3690,4 +3693,3 @@ export default class App extends React.Component {
     );
   }
 }
-
