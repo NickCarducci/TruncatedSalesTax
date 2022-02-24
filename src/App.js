@@ -191,8 +191,12 @@ export default class App extends React.Component {
           , the problem is
           <br />
           <br />
-          paying in advance for a non-concurrentable, non-compete nor rollover,
-          pyramid scheme.
+          <a href="https://fred.stlouisfed.org/graph/?g=MopM">
+            paying in advance
+          </a>
+          , for a non-concurrentable, non-compete nor rollover, pyramid scheme -
+          false bid pool (<a href="https://qr.ae/pGQezm">a.k.a</a>
+          {space}"name your price tool") loss is 1y/0x.
           <br />
           <br />
           Consumer costs are increased by laborless-demand of debt 1y/0x
@@ -218,7 +222,7 @@ export default class App extends React.Component {
           <br />
           open uuid harm financially with disparate retail- and
           broker-profiling.
-          <h3>Expected you need to choose, you can’t be both</h3>
+          <h3>Expected-, that, you need to choose; you can’t be both.</h3>
           “They are{space}
           <a href="https://teapharmacy.party/drugs">killing our youth</a>,
           hiding fentanyl in marijuana and heroine is terrorism.”
