@@ -136,8 +136,9 @@ export default class App extends React.Component {
           </a>
           Don’t say cause, but comes into, and don’t say "s, but artifact of;
           each remind the listener/reader/protagonist about coincidence and
-          reasonable doubt, by correlations that do not share a basis, even in
-          change-rate as to average a sample mean to u population mean.
+          bivariate reasonable doubt (alternative, withstanding), by
+          correlations that do not share a basis, even in change-rate as to
+          average a sample mean to u population mean.
           <h3>
             <a href="https://www.goldmansachs.com/insights/archive/millennials/">
               mental- and age-scapegoating for a self-induced homeless and
