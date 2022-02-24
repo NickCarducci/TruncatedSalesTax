@@ -134,6 +134,18 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          Bail would not stop crime, interest rates would not stop debt, just
+          move in on her.
+          <br />
+          <br />
+          “If there is anything we can do to help the Ukrainian people let us
+          know;” then{space}
+          <a href="https://fred.stlouisfed.org/graph/?g=MoHs">
+            stop selling insurance, AAA is 1y/0x elastic false bid
+          </a>
+          .
+          <br />
+          <br />
           Don’t say cause, but comes into, and don’t say "s, but artifact of;
           each remind the listener/reader/protagonist about coincidence and
           bivariate reasonable doubt (alternative, withstanding), by
@@ -2480,8 +2492,17 @@ export default class App extends React.Component {
         <br />
         Kneeing to the head.
         <h2>
-          Jens Stoltenberg, SG: "NATO has helped them with defense forces, trust
-          funds, and differing-activities."
+          Jens Stoltenberg, SG: "NATO has helped them with defense forces,
+          {space}
+          <a
+            href="https://qr.ae/pGQcig"
+            style={{
+              color: "pink"
+            }}
+          >
+            trust funds
+          </a>
+          , and differing-activities.
         </h2>
         “<a href="https://vaults.biz/russia">Russian</a>-backed separatists.”
         Forcing women and children to leave and force young men to fight.
