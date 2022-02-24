@@ -138,7 +138,11 @@ export default class App extends React.Component {
           each remind the listener/reader/protagonist about coincidence and
           bivariate reasonable doubt (alternative, withstanding), by
           correlations that do not share a basis, even in change-rate as to
-          average a sample mean to u population mean.
+          average a{space}
+          <a href="https://adailyimpeachment.quora.com/">
+            sample mean to u population mean
+          </a>
+          .
           <h3>
             mental- and age-scapegoating for a self-induced homeless and
             retirement crisis: investment bank over 20% fungible lands,{space}
