@@ -3155,10 +3155,11 @@ export default class App extends React.Component {
         <br />
         <br />
         prevent WWIII with target margin operational monopsony free rider
-        mutable. NATO expiring premium -training is like an open carry. Just
-        walk it back, warmongers. "Behavior of building up forces, We can’t have
-        Putin and Biden have peace talks over energy because I’m concerned Biden
-        will blunder, 60% German nat gas," delinquent boomers.
+        mutable. NATO expiring premium -training (3.3m NATO to 1m Russians) is
+        like an open carry. Just walk it back, warmongers. "Behavior of building
+        up forces, We can’t have Putin and Biden have peace talks over energy
+        because I’m concerned Biden will blunder, 60% German nat gas,"
+        delinquent boomers.
         <br />
         <br />
         "What is the economist Joan Robinson's theory on 'monopsony' exactly?"
@@ -3630,3 +3631,4 @@ export default class App extends React.Component {
     );
   }
 }
+
