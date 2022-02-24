@@ -134,6 +134,11 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          Security of supply complacency is laborless-demand, bad for
+          efficiency, comparative advantage, tech advancement and more
+          economical-efforts.
+          <br />
+          <br />
           How are you so against the Soviet Union but not state control,
           domestically, West?
           <br />
@@ -3631,4 +3636,3 @@ export default class App extends React.Component {
     );
   }
 }
-
