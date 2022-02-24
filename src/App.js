@@ -134,6 +134,10 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          How are you so against the Soviet Union but not state control,
+          domestically, West?
+          <br />
+          <br />
           Free universal testing (44% investment bank, "general revenue") and
           speeding up science is not factual by money 1y/0x, nor plundering
           firesale, but utility of patents open ingredient list and open design,
@@ -3626,4 +3630,3 @@ export default class App extends React.Component {
     );
   }
 }
-
