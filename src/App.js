@@ -134,6 +134,18 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          Aw they are black as all hell these people of color
+          <br />
+          Like dirt
+          <br />
+          Boston is allowed to do commerce with terrorists
+          <br />
+          “Putin chose this war, now give me some oil.”
+          <br />
+          Why would Putin bomb Ukrain, land that he wants, unless it is
+          insurance fraud?
+          <br />
+          <br />
           Bail would not stop crime, interest rates would not stop debt, just
           move in on her.
           <br />
@@ -3714,3 +3726,4 @@ export default class App extends React.Component {
     );
   }
 }
+
