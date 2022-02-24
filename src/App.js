@@ -1951,6 +1951,18 @@ export default class App extends React.Component {
         conflict of interst Article 1.8 bond-tax oxymoron{space}&bull;{space}
         investment bank cops
         <br />
+        <br />“
+        <a href="https://qr.ae/pGQtZ0">
+          Money is tight for government as much as anybody else
+        </a>
+        ,” like Savers?{space}
+        <a href="https://occupywallst.quora.com">35% rent, 65% mortgage</a>, the
+        rest{space}
+        <a href="https://www.goldmansachs.com/insights/archive/millennials/">
+          lend, a hand with
+        </a>
+        ,
+        <br />
         <br />
         leisure (chore, copy, science) financial goals GDP - integrally
         population and GDP/p furthermore is{space}
