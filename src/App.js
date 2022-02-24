@@ -134,6 +134,12 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          Don’t say cause, but comes into, and don’t say "s, but artifact of;
+          each remind the listener/reader/protagonist about coincidence and
+          reasonable doubt, by correlations that do not share a basis, even in
+          change-rate as to average a sample mean to u population mean.
+          <br />
+          <br />
           Ecology and nature comes into feeding ourselves, as, 'security of
           supply complacency' is bad for efficiency, comparative advantage, tech
           advancement and more economical-efforts, for cornering the market,
