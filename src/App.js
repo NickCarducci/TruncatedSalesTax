@@ -134,6 +134,43 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          <Cable
+            style={{ width: "100px" }}
+            onError={handleScollImgError}
+            img={true}
+            src={
+              this.state.noyoutube
+                ? ""
+                : "https://www.dl.dropboxusercontent.com/s/cp1vzypyfh1sb03/Thumbprint%20corp%20logo%20-%20colors_round%20%282%29.png?dl=0"
+            }
+            float="left"
+            title="thumbprint logo 2018"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + scrollnum()]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          That would be a problem with Apple, not TikTok.
+          <Cable
+            onError={handleScollImgError}
+            img={true}
+            src={
+              this.state.noyoutube
+                ? ""
+                : "https://www.dl.dropboxusercontent.com/s/m0vev6yp2gw7tcm/Screen%20Shot%202022-02-24%20at%202.58.19%20AM.png?dl=0"
+            }
+            float="right"
+            title="https://www.facebook.com/producthunt/photos/a.1965673097052529/3213566225596537/"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + scrollnum()]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          <h1>
+            How is it not expected that Apple is, and be surprised that is not,
+            in fact,{space}
+            <a href="https://youtu.be/vu3_01y4sLk">privacy</a>?
+          </h1>
           <a href="https://qr.ae/pGQe4S">
             Somebody else paying for it is 1y/0x elastic
           </a>
