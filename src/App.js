@@ -141,11 +141,14 @@ export default class App extends React.Component {
           average a sample mean to u population mean.
           <h3>
             mental- and age-scapegoating for a self-induced homeless and
-            retirement crisis: investment bank over 20% fungible lands, (
+            retirement crisis: investment bank over 20% fungible lands,{space}
             <a href="https://www.goldmansachs.com/insights/archive/millennials/">
-              1982-1996
+              (1982-1996{space}
+              <span role="img" aria-label="party boat moon">
+                🎉🛳🌕
+              </span>
+              )
             </a>
-            )
           </h3>
           <Cable
             onError={handleScollImgError}
