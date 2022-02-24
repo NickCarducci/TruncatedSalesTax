@@ -134,6 +134,27 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          <a href="https://qr.ae/pGQe4S">
+            Somebody else paying for it is 1y/0x elastic
+          </a>
+          , the problem is
+          <br />
+          <br />
+          paying in advance for a non-concurrentable, non-compete nor rollover,
+          pyramid scheme.
+          <br />
+          <br />
+          Consumer costs are increased by laborless-demand of debt 1y/0x
+          (elasticity/output) having nothing to do with interest rates when
+          principal is a factor of price - and the ability for supply’s
+          asking-price to not have to settle, down; 1/12 industry max-royalty
+          can handle all investor-entrepreneur **opportunity costs**, that only
+          decrease GDP/p over time, anyway, not increase by the absence of
+          (*1800–1913 0%/yr+ amongst 3%/yr+ population proves debt is not
+          required for inflation to stop, in fact it is the cause,{space}
+          <a href="https://fred.stlouisfed.org/graph/?g=Moh5">1/3 share</a>,
+          each **being mortgage, corporate and federal*). paying in advance for
+          a non-concurrentable, non-compete nor rollover, pyramid scheme.
           <h2>
             “Put it thru insurance, and it costs $2.61.” 50-yr old whom doesn’t
             know HOW TO BALANCE A CHECKBOOK
