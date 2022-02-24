@@ -134,6 +134,14 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          “Whether I have a commission by{space}
+          <a href="https://www.google.com/search?q=paul+craig+roberts">
+            Dr. Roberts
+          </a>
+          {space}is my business,” well that is Morano’s business to …await your
+          statement.
+          <br />
+          <br />
           <Cable
             style={{ width: "100px" }}
             onError={handleScollImgError}
@@ -3596,3 +3604,4 @@ export default class App extends React.Component {
     );
   }
 }
+
