@@ -134,9 +134,14 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
-          Security of supply complacency is laborless-demand, bad for
-          efficiency, comparative advantage, tech advancement and more
-          economical-efforts.
+          Ecology and nature comes into feedin ourselves as 'security of supply
+          complacency' is bad for efficiency, comparative advantage, tech
+          advancement and more economical-efforts, for cornering the market,
+          competing with consumers, dead-weight-box of{space}
+          <a href="https://github.com/NickCarducci/NickCarducci">
+            Laborless-Demand
+          </a>
+          .
           <br />
           <br />
           How are you so against the Soviet Union but not state control,
