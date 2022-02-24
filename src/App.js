@@ -134,14 +134,24 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
-          Ecology and nature comes into feedin ourselves as 'security of supply
+          Ecology and nature comes into feeding ourselves, as, 'security of supply
           complacency' is bad for efficiency, comparative advantage, tech
           advancement and more economical-efforts, for cornering the market,
           competing with consumers, dead-weight-box of{space}
           <a href="https://github.com/NickCarducci/NickCarducci">
             Laborless-Demand
           </a>
-          .
+          . Those are Savers' exploratory rights, the British Pound, and
+          especially for firesale-plundering, life-bid, not game,{space}
+          <a href="https://qr.ae/pGQZ1j">
+            donee-beneficiary-surrendered-freedom
+          </a>
+          {space}flaccid collective account is no bargain, as Marginal Utility
+          Indifferences align Supply and Labor-Demand, not infinite to
+          efficiency, or perfect equillibrium, but as perfect as it can be,
+          n=population of labor-borne-demand, exclusively, lest it be a
+          dead-weight-box 1x/0y quality-skew elasticity, lost for GDP/hour-GDP/p
+          efficiency and (income/hour)/home, thereby.
           <br />
           <br />
           How are you so against the Soviet Union but not state control,
