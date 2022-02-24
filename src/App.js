@@ -146,6 +146,14 @@ export default class App extends React.Component {
           insurance fraud?
           <br />
           <br />
+          Terrorist because what? Selling treasuries.
+          <br />
+          “We need to open up our pipelines, that will help NATO.” What?
+          <br />
+          Leasing pipelines free rider mutable? Isn’t that a huge waste, not
+          conservative? 11/12 consensus sale or bust.
+          <br />
+          <br />
           Bail would not stop crime, interest rates would not stop debt, just
           move in on her.
           <br />
@@ -3726,4 +3734,3 @@ export default class App extends React.Component {
     );
   }
 }
-
