@@ -134,6 +134,12 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          Free universal testing (44% investment bank, "general revenue") and
+          speeding up science is not factual by money 1y/0x, nor plundering
+          firesale, but utility of patents open ingredient list and open design,
+          alone..
+          <br />
+          <br />
           “Whether I have a commission by{space}
           <a href="https://www.google.com/search?q=paul+craig+roberts">
             Dr. Roberts
