@@ -134,8 +134,8 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
-          Ecology and nature comes into feeding ourselves, as, 'security of supply
-          complacency' is bad for efficiency, comparative advantage, tech
+          Ecology and nature comes into feeding ourselves, as, 'security of
+          supply complacency' is bad for efficiency, comparative advantage, tech
           advancement and more economical-efforts, for cornering the market,
           competing with consumers, dead-weight-box of{space}
           <a href="https://github.com/NickCarducci/NickCarducci">
@@ -151,7 +151,11 @@ export default class App extends React.Component {
           efficiency, or perfect equillibrium, but as perfect as it can be,
           n=population of labor-borne-demand, exclusively, lest it be a
           dead-weight-box 1x/0y quality-skew elasticity, lost for GDP/hour-GDP/p
-          efficiency and (income/hour)/home, thereby.
+          efficiency and (income/hour)/home, thereby. Balance of trade actual is
+          proper, and proves that a strong currency is efficient, competitive,
+          and draws a positive nominal balance of trade, even when actually the
+          goods are of same quality, &{space}
+          <a href="https://qr.ae/pGQZhf">quantity/skew</a>.
           <br />
           <br />
           How are you so against the Soviet Union but not state control,
