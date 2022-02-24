@@ -134,6 +134,10 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          <h2>
+            “Put it thru insurance, and it costs $2.61.” 50-yr old whom doesn’t
+            know HOW TO BALANCE A CHECKBOOK
+          </h2>
           "with trypie.com, we bundle vertically, not horizonally that would
           save cash flow if you would UNbundle." Only rollover is
           collective-bargain, for Marginal Utility Indifference of the seller's
