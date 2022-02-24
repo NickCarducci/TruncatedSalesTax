@@ -140,10 +140,12 @@ export default class App extends React.Component {
           correlations that do not share a basis, even in change-rate as to
           average a sample mean to u population mean.
           <h3>
+            mental- and age-scapegoating for a self-induced homeless and
+            retirement crisis: investment bank over 20% fungible lands, (
             <a href="https://www.goldmansachs.com/insights/archive/millennials/">
-              mental- and age-scapegoating for a self-induced homeless and
-              retirement crisis
+              1982-1996
             </a>
+            )
           </h3>
           <Cable
             onError={handleScollImgError}
@@ -3681,3 +3683,4 @@ export default class App extends React.Component {
     );
   }
 }
+
