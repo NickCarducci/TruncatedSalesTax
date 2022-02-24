@@ -138,8 +138,27 @@ export default class App extends React.Component {
           each remind the listener/reader/protagonist about coincidence and
           reasonable doubt, by correlations that do not share a basis, even in
           change-rate as to average a sample mean to u population mean.
-          <br />
-          <br />
+          <h3>
+            <a href="https://www.goldmansachs.com/insights/archive/millennials/">
+              mental- and age-scapegoating for a self-induced homeless and
+              retirement crisis
+            </a>
+          </h3>
+          <Cable
+            onError={handleScollImgError}
+            img={true}
+            src={
+              this.state.noyoutube
+                ? ""
+                : "https://www.dl.dropboxusercontent.com/s/jprn28k3cjcb072/Screen%20Shot%202022-02-24%20at%205.41.23%20AM.png?dl=0"
+            }
+            float="left"
+            title=" nj 101.5 murphy social security offices "
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + scrollnum()]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
           Ecology and nature comes into feeding ourselves, as, 'security of
           supply complacency' is bad for efficiency, comparative advantage, tech
           advancement and more economical-efforts, for cornering the market,
