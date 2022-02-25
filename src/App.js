@@ -134,8 +134,9 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
-          If there is no punishment that you can provide yourself, you aren’t
-          bound, imbicile
+          If there is no punishment that you cannot provide yourself, you aren’t
+          bound, imbicile. "let's build nuclear and drill on federal lands,"
+          that is Savers' fungible by dollars. I'll kill you before your cancer
           <br />
           <br />
           Save you $1k/mo, not in principal, which is all that matters because
@@ -3752,3 +3753,4 @@ export default class App extends React.Component {
     );
   }
 }
+
