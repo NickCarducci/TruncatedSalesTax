@@ -134,7 +134,7 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
-          If there is no punishment that you cannot provide yourself, you aren’t
+          If there is no punishment that you can provide yourself, you aren’t
           bound, imbicile
           <br />
           <br />
