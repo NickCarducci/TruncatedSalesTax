@@ -134,6 +134,12 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          Car shield takes care of all the rest, non-concurrentable mechanic
+          hours is 1y/0x loss. I’ll kill you all.
+          <br />
+          That is my surrendered-freedom-donee-beneficiary bid.
+          <br />
+          <br />
           Aw they are black as all hell these people of color
           <br />
           Like dirt
