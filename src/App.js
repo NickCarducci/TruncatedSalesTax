@@ -134,6 +134,10 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          <a href="https://qr.ae/pGQlHc">Bookkeepers</a>’ cash flow amortizes
+          accountants, bona fide accountants are cash accountants:
+          <br />
+          <br />
           I got my pce right here - "not getting the eduction they were
           promised." - Madison Cartherne believe people in my gen especially
           that lean conservative, this Pandemic has shown us horsshoe is true,
