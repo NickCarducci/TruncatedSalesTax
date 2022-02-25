@@ -143,13 +143,16 @@ export default class App extends React.Component {
           hate today or ideas in general. Why co-parent with the Unites States’
           government? I firmly reject this arrangement and hope you guys will as
           well, state-radical-feminism 1970 what said don’t stay at home, be a
-          man, go to work, don’t make sandwich, success is not marriage and
-          children, but corporates is equality, mothers as state education, such
-          a custodial transfer, …trus“ the experts you need to put a filthy
-          cloths on, don’t ask questions, ever changing, minute by minute
-          science, Fauci bill gates science,” “sustained his body everything he
-          is for a year. I can decipher his cries. When it comes to my son, I am
-          the expert.”
+          man, go to work,{space}
+          <a href="https://www.linkedin.com/posts/profgalloway_via-the-new-yorker-activity-6898374657855361025-Ofca">
+            don’t make sandwich
+          </a>
+          , success is not marriage and children, but corporates is equality,
+          mothers as state education, such a custodial transfer, …trus“ the
+          experts you need to put a filthy cloths on, don’t ask questions, ever
+          changing, minute by minute science, Fauci bill gates science,”
+          “sustained his body everything he is for a year. I can decipher his
+          cries. When it comes to my son, I am the expert.”
           <br />
           <br />
           "No candidate" won, you can't. North Slope local 11/12 imo, ok (for 12
