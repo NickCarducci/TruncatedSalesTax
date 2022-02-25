@@ -134,6 +134,55 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          Quality-fixing is efficiency-ward 0y/1x when supply doesn’t already
+          equal labor-demand
+          <h1>
+            "Killers of environmental offenders and corporate abusers,”
+            <br />
+            <Cable
+              onError={handleScollImgError}
+              img={true}
+              src={
+                this.state.noyoutube
+                  ? ""
+                  : "https://www.dl.dropboxusercontent.com/s/rt1hv19yfv2gq07/Screen%20Shot%202022-02-25%20at%209.56.57%20AM.png?dl=0"
+              }
+              float="right"
+              title="https://www.facebook.com/disruptionlab/videos/333852102027005/"
+              scrolling={this.state.scrolling}
+              fwd={this["scrollImg" + scrollnum()]}
+              scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+              scrollTop={this.state.scrollTop}
+            />
+            Sam Leon
+          </h1>
+          "There is no mandatory due diligence of deforestation currently,
+          <br />
+          Of course, what we would want is absolutely NO financing of
+          deforestation, but the question is
+          <br />
+          Or the issue is
+          <br />
+          All these organizations can sign up to these voluntary agreements, but
+          the DON’T ACT, in these voluntary agreements
+          <br />
+          We must compel institutions to take deforestation, seriously
+          <br />
+          In those things they finance
+          <br />
+          Remove financing going to companies that are complicit and are found
+          to be complicit in deforestation and what I think is quite exciting
+          about some of this work and this is about the Data Investigations TEAM
+          is often we see the excuse from the banks and the companies that say
+          it is too difficult, there is not enough data , we can’t, we don’t
+          know what is going on with indirect supply chains of cattle. And I
+          think by prototyping this stuff, you know, with a relatively-, with
+          and organization, uhrm a relatively smol-team, you know, Louie was the
+          lead engineer on this, you know, nowhere near the amount of technical
+          capacity that a bank or asset manager might have , he was able to come
+          up."
+          <br />
+          <br />
           If there is no punishment that you can provide yourself, you aren’t
           bound, imbicile. "let's build nuclear and drill on federal lands,"
           that is Savers' fungible by dollars. I'll kill you before your cancer
