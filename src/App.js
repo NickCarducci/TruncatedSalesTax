@@ -142,8 +142,8 @@ export default class App extends React.Component {
           violate them without our consent, masking, sexualizing, ideologies of
           hate today or ideas in general. Why co-parent with the Unites States’
           government? I firmly reject this arrangement and hope you guys will as
-          well, state-radical-feminism 1970 what said don’t stay at home, be a
-          man, go to work,{space}
+          well, state-radical-feminism 1970 what said don’t stay at home,{space}
+          <a href="https://qr.ae/pGQqne">be a man</a>, go to work,{space}
           <a href="https://www.linkedin.com/posts/profgalloway_via-the-new-yorker-activity-6898374657855361025-Ofca">
             don’t make sandwich
           </a>
@@ -2641,7 +2641,7 @@ export default class App extends React.Component {
         Truncated Production Tax, will be their heads. War has been going on for
         8 years ("
         <a href="https://www.google.com/search?q=russian+military+deaths+2020">
-          14k killed by Russian backed separatists
+          14k killed by Russian backed separatists, 400/day killed by Ukrainians
         </a>{" "}
         enabling, how would Ukrainian President be able to end that? haha .”
         Lucas thomilson), Kiev is a corrupt regime, and incursion on Jewish
@@ -3842,3 +3842,4 @@ export default class App extends React.Component {
     );
   }
 }
+
