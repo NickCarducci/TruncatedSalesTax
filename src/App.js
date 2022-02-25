@@ -134,11 +134,18 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          "No candidate" won, you can't. North Slope local 11/12 imo, ok (for 12
+          industry jury is normal variance)
+          <h3>
+            The locale for interior damages and dollar for monetary fungibility
+          </h3>
+          <h2>
+            Dollars are fungible for all states, federal lands (20% of U.S.)
+          </h2>
           <a href="https://qr.ae/pGQlHc">Bookkeepers</a>’ cash flow amortizes
           accountants, bona fide accountants are cash accountants:
           <br />
-          <br />
-          I got my pce right here - "not getting the eduction they were
+          <br />I got my pce right here - "not getting the eduction they were
           promised." - Madison Cartherne believe people in my gen especially
           that lean conservative, this Pandemic has shown us horsshoe is true,
           but GOP is party of no, but woke-ism selling out, across the sea,
@@ -147,7 +154,8 @@ export default class App extends React.Component {
           century, we are going to go on offense instead of, just defense. Big
           tech, labor, gov, smal little guy and small business owners,
           trust-buiulding existing mom and pops, 50+ is almost all small
-          business owners, douche
+          business owners, douche; certainly if{space}
+          <a href="https://vaults.biz/party">include income</a>.
           <br />
           <br />
           People are in the conservative movement, making projects to prevent
