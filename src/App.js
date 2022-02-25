@@ -134,6 +134,22 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          I got my pce right here - "not getting the eduction they were
+          promised." - Madison Cartherne believe people in my gen especially
+          that lean conservative, this Pandemic has shown us horsshoe is true,
+          but GOP is party of no, but woke-ism selling out, across the sea,
+          work, prosper in pce, no eternal winter because insane mortage,
+          corporate and treasury-bonds, Amazon stock 100m people in the last
+          century, we are going to go on offense instead of, just defense. Big
+          tech, labor, gov, smal little guy and small business owners,
+          trust-buiulding existing mom and pops, 50+ is almost all small
+          business owners, douche
+          <br />
+          <br />
+          People are in the conservative movement, making projects to prevent
+          Selling America to the highest bidder
+          <br />
+          <br />
           Quality-fixing is efficiency-ward 0y/1x when supply doesn’t already
           equal labor-demand
           <h1>
@@ -3793,3 +3809,4 @@ export default class App extends React.Component {
     );
   }
 }
+
