@@ -134,6 +134,24 @@ export default class App extends React.Component {
           >
             Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
           </a>
+          <h1>I am tech maker, destroyer of jobs</h1>
+          “Hunters hunt male bears because infanticide and cannibalism cubs,
+          female isn’t in heat, just for sex.” Candice Carty-Williams
+          <br />
+          “[Yet,] ...seeing a man is a threat to children whom themselves
+          violate them without our consent, masking, sexualizing, ideologies of
+          hate today or ideas in general. Why co-parent with the Unites States’
+          government? I firmly reject this arrangement and hope you guys will as
+          well, state-radical-feminism 1970 what said don’t stay at home, be a
+          man, go to work, don’t make sandwich, success is not marriage and
+          children, but corporates is equality, mothers as state education, such
+          a custodial transfer, …trus“ the experts you need to put a filthy
+          cloths on, don’t ask questions, ever changing, minute by minute
+          science, Fauci bill gates science,” “sustained his body everything he
+          is for a year. I can decipher his cries. When it comes to my son, I am
+          the expert.”
+          <br />
+          <br />
           "No candidate" won, you can't. North Slope local 11/12 imo, ok (for 12
           industry jury is normal variance)
           <h3>
@@ -3821,4 +3839,3 @@ export default class App extends React.Component {
     );
   }
 }
-
