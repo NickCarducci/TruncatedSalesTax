@@ -183,26 +183,20 @@ class Cable extends React.Component {
         loaded: true
       });
     };
-    const optionalwidth =
-      !stopfail &&
-      /*(this.state.img || this.state.loaded) && this.state.framewidth
-        ? this.state.framewidth
-        :*/ this
-        .props.style &&
-      Style.width // &&
-        ? //!isNaN(Style.width)
-          Style.width
-        : 200;
-    const optionalheight =
-      !stopfail &&
-      /*this.state.height
-      ? this.state.height
-      :*/ Style &&
-      Style.height &&
-      !isNaN(Style.height)
-        ? Style.height
-        : "100%";
-    //console.log(optionalwidth);
+
+    var optionalheight = "min-content";
+    var optionalwidth = 200;
+    if (Style) {
+      optionalheight =
+        !stopfail && Style.height && !isNaN(Style.height)
+          ? this.props.img
+            ? "100%"
+            : "min-content"
+          : Style.height && this.state.loaded
+          ? Style.height
+          : "min-content";
+      optionalwidth = !stopfail && Style.width ? Style.width : 200;
+    }
     return (
       <div
         ref={this.page}
@@ -257,7 +251,9 @@ class Cable extends React.Component {
               //height: optionalheight,
               //width: optionalwidth, // "max-content"
               //overflowX: "auto",
-              height: "100%",
+              //height: "100%",
+              height: optionalheight, //"100%"
+
               width: "100%"
             }}
             ref={this.props.fwd}
