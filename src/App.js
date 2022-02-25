@@ -137,7 +137,11 @@ export default class App extends React.Component {
           Car shield takes care of all the rest, non-concurrentable mechanic
           hours is 1y/0x loss. I’ll kill you all.
           <br />
-          That is my surrendered-freedom-donee-beneficiary bid.
+          That is my surrendered-freedom-donee-beneficiary bid. A false bid is
+          my bid
+          <br />
+          do you know how to balance assets and liabilities? We cash accountants
+          value your “job” as worthless . Your debts are my money.
           <br />
           <br />
           Aw they are black as all hell these people of color
