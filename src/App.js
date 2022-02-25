@@ -796,12 +796,6 @@ export default class App extends React.Component {
           security detail. Undermines comparative standing for New Yorkers -
           Mona Davis
           <Cable
-            style={{
-              height: "580px",
-
-              maxWidth: "100%",
-              maxHeight: "80vw"
-            }}
             onError={handleScollImgError}
             //img={true}
             src={
@@ -829,10 +823,7 @@ export default class App extends React.Component {
           <br />
           <Cable
             style={{
-              height: "580px",
-
-              maxWidth: "100%",
-              maxHeight: "80vw"
+              height: "440px"
             }}
             onError={handleScollImgError}
             //img={true}
@@ -3753,4 +3744,3 @@ export default class App extends React.Component {
     );
   }
 }
-
