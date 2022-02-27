@@ -3840,6 +3840,29 @@ export default class App extends React.Component {
         amortized to new laborless-demand, (cash/debt)*income1800- just makes it
         shorter for down payments to be paid, reducing by the actualized
         damages.
+        <br />
+        <br />
+        NY GOP: “Tax payers for US Senate!”
+        <br />
+        Jon Catsimitidis: “Keep spending money in NY!”
+        <br />
+        <br />
+        "It is what it is, liabilities price assets.
+        <br />
+        <br />
+        The unemployment benefits are greater than stimulus, let alone an
+        investment bank, driving inequality and a trust-breaking,
+        government-hypocrisy. Finally, this does not make up for that prevention
+        of commerce, loss.
+        <br />
+        Preventing commerce is not innovative, let the prices go to the next,
+        lower, bidder! Then, let’s end rent with capping by 5 storefronts and
+        condominiums. Vote Truncated Production Tax 2025.
+        <br />
+        Bidding for government-monopsony is 1y/0x elastic, these are free rider
+        mutable, you essentially made windmills $4.37b more expensive, for NO
+        GAIN in intermediate goods, just preventing commerce! Making bond
+        holders and producers rich, sacrificing consumers!"
       </div>
     );
   }
