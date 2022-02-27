@@ -3863,6 +3863,38 @@ export default class App extends React.Component {
         mutable, you essentially made windmills $4.37b more expensive, for NO
         GAIN in intermediate goods, just preventing commerce! Making bond
         holders and producers rich, sacrificing consumers!"
+        <br />
+        <br />
+        "We can drill Savers' lands and lease it back to them. Prices has
+        increased due to shortage, benefiting Putin, first and foremost."
+        <br />
+        <br />
+        "Why do some countries have high wages and standard of living compared
+        to others?"
+        <br />
+        Standard of living, measured by low poverty (pce/income average) and
+        high wages, is *less* **equal**, for *wages are an input cost of
+        living*, and to get there, they usually price **assets** by liabilities.
+        To make the standard of living higher by *equality, competition,
+        efficiency (****GDP/hour-GDP/p****)*, and a *nominally-positive balance
+        of actually-equal trade*, ban lenders, landlords and insurers. Tangibly,
+        this amounts to 1/12 industry-type as “collateral,” reverse amortization
+        capital loss deflation (cash/debt)*income every year back, cap
+        implausible use leases at 5 storefronts and condominiums, and prevent
+        donee-beneficiary-surrendered-freedom/force-majeure-intent of invoices,
+        outright, and bid, in false bid pool investment bank insurance loss.
+        Keep government from hypocritically creating the problem of
+        trust-building by trust-breaking by trust-building, for 1y/0x
+        elasticity, **GDP/hour** useless yet higher prices, **GDP/p**.
+        <br />
+        <br />
+        Republicans are pro-gentrification. Blind trust is making policy around
+        their book over currency, still. Spectrum/bridges/pipelines, are all
+        free rider mutable; the only Public thing is so-science it has no
+        operational costs, unless it is free rider immutable like sewage, police
+        and lawsuits. Not to per diem incarcerate, conflict of interest
+        incentive to prejudice-skew, but NFC with Motor Vehicle Fee, or
+        post-rated in the toll-revenue.
       </div>
     );
   }
