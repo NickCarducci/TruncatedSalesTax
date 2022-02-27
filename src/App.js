@@ -132,9 +132,19 @@ export default class App extends React.Component {
             }}
             href="https://carducci.us"
           >
-            Vote Truncated Sales Tax 2025 against Menendez - 3under2.us
+            Vote Truncated Production Tax 2025 against Menendez - 3under2.us
           </a>
-          <h1>I am tech maker, destroyer of jobs</h1>
+          <h1>
+            I am tech maker, destroyer of{space}
+            <a href="https://vaults.biz/party">jobs</a>
+          </h1>
+          <h3>
+            "
+            <a href="https://qr.ae/pGQfGW">
+              It is not caring to put people out of work
+            </a>
+            ."
+          </h3>
           “Hunters hunt male bears because infanticide and cannibalism cubs,
           female isn’t in heat, just for sex.” Candice Carty-Williams
           <br />
@@ -3899,3 +3909,4 @@ export default class App extends React.Component {
     );
   }
 }
+
