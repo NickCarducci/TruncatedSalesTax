@@ -209,7 +209,7 @@ export default class App extends React.Component {
               src={
                 this.state.noyoutube
                   ? ""
-                  : "https://www.dl.dropboxusercontent.com/s/rt1hv19yfv2gq07/Screen%20Shot%202022-02-25%20at%209.56.57%20AM.png?dl=0"
+                  : "https://www.dropbox.com/s/rt1hv19yfv2gq07/Screen%20Shot%202022-02-25%20at%209.56.57%20AM.png?raw=1"
               }
               float="right"
               title="https://www.facebook.com/disruptionlab/videos/333852102027005/"
@@ -324,7 +324,7 @@ export default class App extends React.Component {
             src={
               this.state.noyoutube
                 ? ""
-                : "https://www.dl.dropboxusercontent.com/s/jprn28k3cjcb072/Screen%20Shot%202022-02-24%20at%205.41.23%20AM.png?dl=0"
+                : "https://www.dropbox.com/s/jprn28k3cjcb072/Screen%20Shot%202022-02-24%20at%205.41.23%20AM.png?raw=1"
             }
             float="left"
             title=" nj 101.5 murphy social security offices "
@@ -382,7 +382,7 @@ export default class App extends React.Component {
             src={
               this.state.noyoutube
                 ? ""
-                : "https://www.dl.dropboxusercontent.com/s/cp1vzypyfh1sb03/Thumbprint%20corp%20logo%20-%20colors_round%20%282%29.png?dl=0"
+                : "https://www.dropbox.com/s/cp1vzypyfh1sb03/Thumbprint%20corp%20logo%20-%20colors_round%20%282%29.png?raw=1"
             }
             float="left"
             title="thumbprint logo 2018"
@@ -398,7 +398,7 @@ export default class App extends React.Component {
             src={
               this.state.noyoutube
                 ? ""
-                : "https://www.dl.dropboxusercontent.com/s/m0vev6yp2gw7tcm/Screen%20Shot%202022-02-24%20at%202.58.19%20AM.png?dl=0"
+                : "https://www.dropbox.com/s/m0vev6yp2gw7tcm/Screen%20Shot%202022-02-24%20at%202.58.19%20AM.png?raw=1"
             }
             float="right"
             title="https://www.facebook.com/producthunt/photos/a.1965673097052529/3213566225596537/"
@@ -564,7 +564,7 @@ export default class App extends React.Component {
             src={
               this.state.noyoutube
                 ? ""
-                : "https://www.dl.dropboxusercontent.com/s/xl08l1y4tmlu0j8/Screen%20Shot%202022-02-22%20at%206.15.14%20PM.png?dl=0"
+                : "https://www.dropbox.com/s/xl08l1y4tmlu0j8/Screen%20Shot%202022-02-22%20at%206.15.14%20PM.png?raw=1"
             }
             float="left"
             title="BA in Political Science & Economics, Johns Hopkins University (Graduated 2015) Will consumer goods and rent prices ever actually go back down? GDP/p is a good thing. This is so dumb! https://qr.ae/pGQwmV"
@@ -664,7 +664,7 @@ export default class App extends React.Component {
             src={
               this.state.noyoutube
                 ? ""
-                : "https://www.dl.dropboxusercontent.com/s/jiwzjiuzzm8636z/Screen%20Shot%202022-02-22%20at%2012.42.44%20PM.png?dl=0"
+                : "https://www.dropbox.com/s/jiwzjiuzzm8636z/Screen%20Shot%202022-02-22%20at%2012.42.44%20PM.png?raw=1"
             }
             float="left"
             title="Why doesn't one announcement lead to prosperity for everyone? https://qr.ae/pGQ5UG"
@@ -1262,7 +1262,7 @@ export default class App extends React.Component {
           src={
             this.state.noyoutube
               ? ""
-              : "https://www.dl.dropboxusercontent.com/s/wk52ef3txcm3qws/Screen%20Shot%202022-02-15%20at%204.30.53%20PM.png?dl=0"
+              : "https://www.dropbox.com/s/wk52ef3txcm3qws/Screen%20Shot%202022-02-15%20at%204.30.53%20PM.png?raw=1"
           }
           float="left"
           title="thumbprint.us grande opening - check it out! stag"
@@ -1323,7 +1323,7 @@ export default class App extends React.Component {
               width: "250px"
             }}
             alt="old people: @truncsalestax, froth.app"
-            src="https://www.dl.dropboxusercontent.com/s/8qbefb3qow5e27g/Screen%20Shot%202021-09-07%20at%206.19.18%20PM.png?dl=0"
+            src="https://www.dropbox.com/s/8qbefb3qow5e27g/Screen%20Shot%202021-09-07%20at%206.19.18%20PM.png?raw=1"
           />
         </span>
         <Cable
@@ -1362,7 +1362,7 @@ export default class App extends React.Component {
           src={
             this.state.nolinkedin
               ? ""
-              : "https://www.dl.dropboxusercontent.com/s/2s5q7iziqzfsi84/Screen%20Shot%202022-02-17%20at%2011.37.48%20AM.png?dl=0"
+              : "https://www.dropbox.com/s/2s5q7iziqzfsi84/Screen%20Shot%202022-02-17%20at%2011.37.48%20AM.png?raw=1"
           }
           float="left"
           title=" Americans in Need: Responding to the National Mental Health Crisis"
@@ -1722,7 +1722,7 @@ export default class App extends React.Component {
           src={
             this.state.noyoutube
               ? ""
-              : "https://www.dl.dropboxusercontent.com/s/u1v0jb41vxv9ffo/Scopebook%20logo%20%281%29.png?dl=0"
+              : "https://www.dropbox.com/s/u1v0jb41vxv9ffo/Scopebook%20logo%20%281%29.png?raw=1"
           }
           float="left"
           title=" scopes.cc"
@@ -2200,7 +2200,7 @@ export default class App extends React.Component {
           src={
             this.state.noyoutube
               ? ""
-              : "https://www.dl.dropboxusercontent.com/s/kumos62czc3232n/invisible%20illness.PNG?dl=0"
+              : "https://www.dropbox.com/s/kumos62czc3232n/invisible%20illness.PNG?raw=1"
           }
           float="right"
           title="https://qr.ae/pGQKo2"
@@ -2621,7 +2621,7 @@ export default class App extends React.Component {
           src={
             this.state.noyoutube
               ? ""
-              : "https://www.dl.dropboxusercontent.com/s/69eqxfx7ehtg1zc/brother%20can.jpeg?dl=0"
+              : "https://www.dropbox.com/s/69eqxfx7ehtg1zc/brother%20can.jpeg?raw=1"
           }
           float="right"
           title="doing all you can, brother?"
@@ -2852,7 +2852,7 @@ export default class App extends React.Component {
           src={
             this.state.noyoutube
               ? ""
-              : "https://www.dl.dropboxusercontent.com/s/swikj0ojjsteida/Screen%20Shot%202022-02-19%20at%206.23.55%20PM.png?dl=0"
+              : "https://www.dropbox.com/s/swikj0ojjsteida/Screen%20Shot%202022-02-19%20at%206.23.55%20PM.png?raw=1"
           }
           float="right"
           title="doing all you can, brother? https://humanharvest.info/polio"
@@ -2914,7 +2914,7 @@ export default class App extends React.Component {
           src={
             this.state.noyoutube
               ? ""
-              : "https://www.dl.dropboxusercontent.com/s/s59dbu68n6y778s/Screen%20Shot%202022-02-19%20at%207.16.24%20PM.png?dl=0"
+              : "https://www.dropbox.com/s/s59dbu68n6y778s/Screen%20Shot%202022-02-19%20at%207.16.24%20PM.png?raw=1"
           }
           float="left"
           title="doing all you can, brother? https://humanharvest.info/polio"
@@ -2948,7 +2948,7 @@ export default class App extends React.Component {
           src={
             this.state.noyoutube
               ? ""
-              : "https://www.dl.dropboxusercontent.com/s/ekbwg00ve02w9tj/Screen%20Shot%202022-02-20%20at%2010.02.02%20AM.png?dl=0"
+              : "https://www.dropbox.com/s/ekbwg00ve02w9tj/Screen%20Shot%202022-02-20%20at%2010.02.02%20AM.png?raw=1"
           }
           float="left"
           title="Chapelle (Newsmax) Sunday Morning backdrop"
@@ -3009,7 +3009,7 @@ export default class App extends React.Component {
           src={
             this.state.noyoutube
               ? ""
-              : "https://www.dl.dropboxusercontent.com/s/ihpnmaehf8t157n/Screen%20Shot%202022-02-20%20at%204.26.26%20PM.png?dl=0"
+              : "https://www.dropbox.com/s/ihpnmaehf8t157n/Screen%20Shot%202022-02-20%20at%204.26.26%20PM.png?raw=1"
           }
           float="right"
           title="GBNews propiganda death rate non-aggregate non-exclusive basis of population insignificance RETARD"
@@ -3154,7 +3154,7 @@ export default class App extends React.Component {
           src={
             this.state.noyoutube
               ? ""
-              : "https://www.dl.dropboxusercontent.com/s/jc1omjuqxgb3lu0/Screen%20Shot%202022-02-20%20at%2011.51.56%20AM.png?dl=0"
+              : "https://www.dropbox.com/s/jc1omjuqxgb3lu0/Screen%20Shot%202022-02-20%20at%2011.51.56%20AM.png?raw=1"
           }
           float="right"
           title="David Adam Suddit - former Accountant, retired (1984-2004)"
